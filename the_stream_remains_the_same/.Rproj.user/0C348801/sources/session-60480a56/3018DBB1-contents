@@ -1,0 +1,194 @@
+# Carregar a biblioteca necessária
+if (!require("httr")) install.packages("httr")
+library(httr)
+library(stringr)
+library(stringi)
+
+# Lista de URLs e seus respectivos nomes a serem usados como "group-title"
+url_m3u8 <- list("https://i.mjh.nz/PlutoTV/br.m3u8"="Brasil - Pluto",
+                 "https://iptv-org.github.io/iptv/countries/br.m3u"="Brasil - GitHub",
+                 "https://www.apsattv.com/ssungbra.m3u"="Brasil - SamsungTVPlus",
+                 "https://lib.bz/br.m3u"="Legal - Brasil",
+                 "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u"="Legal - Brasil",
+                 "https://iptv-org.github.io/iptv/categories/music.m3u"="Music",
+                 "https://i.mjh.nz/PBS/all.m3u8"="PBS",
+                 "https://i.mjh.nz/Plex/all.m3u8"="Plex",
+                 "https://i.mjh.nz/PlutoTV/all.m3u8"="PlutoTV",
+                 "https://i.mjh.nz/Roku/all.m3u8"="Roku",
+                 "https://i.mjh.nz/SamsungTVPlus/all.m3u8"="SamsungTVPlus",
+                 "https://i.mjh.nz/Stirr/all.m3u8"="Stirr",
+                 "https://www.apsattv.com/10fast.m3u"="10 Play",
+                 "https://www.apsattv.com/anthymtv.m3u"="AnthymTV",
+                 "https://www.apsattv.com/bumblebeetv.m3u"="BumbleBeeTV",
+                 "https://www.apsattv.com/cineverse.m3u"="Cineverse",
+                 "https://www.apsattv.com/distro.m3u"="Distro",
+                 "https://www.apsattv.com/freetv.m3u"="FreeTV",
+                 "https://www.apsattv.com/freemoviesplus.m3u"="FreeMoviesPlus",
+                 "https://www.apsattv.com/galxytv.m3u"="GalxyTV",
+                 "https://www.apsattv.com/herogotv.m3u"="HerogoTV",
+                 "https://www.apsattv.com/igocast.m3u"="Igocast",
+                 "https://www.apsattv.com/klowd.m3u"="KlowdTV",
+                 "https://www.apsattv.com/lg.m3u"="LG",
+                 "https://www.apsattv.com/localnow.m3u"="LocalNow",
+                 "https://www.apsattv.com/oldredbox.m3u"="Redbox",
+                 "https://www.apsattv.com/rakuten-uk.m3u"="RakutenTV UK",
+                 "https://www.apsattv.com/rakuten-jp.m3u"="RakutenTV J.P",
+                 "https://www.apsattv.com/rakuten.m3u"="RakutenTV",
+                 "https://www.apsattv.com/redbox.m3u"="Redbox",
+                 "https://www.apsattv.com/rewardedtv.m3u"="RewardedTV",
+                 "https://www.apsattv.com/rok.m3u"="The Roku",
+                 "https://www.apsattv.com/sportstv.m3u"="SportsTV",
+                 "https://www.apsattv.com/ssungaus.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungbelg.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungden.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungfin.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungire.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssunglux.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungmex.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungneth.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungnor.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungnz.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungpor.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/ssungswe.m3u"="SamsungTVPlus",
+                 "https://www.apsattv.com/tablo.m3u"="Tablo",
+                 "https://www.apsattv.com/tubi.m3u"="TubiTV",
+                 "https://www.apsattv.com/veely.m3u"="Veely",
+                 "https://www.apsattv.com/vidaa.m3u"="Vidaa",
+                 "https://www.apsattv.com/vizio.m3u"="VizioTV",
+                 "https://www.apsattv.com/xiaomi.m3u"="Xiaomi",
+                 "https://www.apsattv.com/xumo.m3u"="Xumo",
+                 "https://www.apsattv.com/zeasn.m3u"="Zeasn",
+                 "https://iptv-org.github.io/iptv/index.m3u"="GitHub")
+
+final <- ""
+
+# Loop para processar cada URL na lista
+for (url in names(url_m3u8)) {
+  # Faz o download do conteúdo da URL
+  response <- GET(url)
+  conteudo <- content(response, "text", encoding = "UTF-8")
+  
+  # Verifica se a tag "group-title" já existe no conteúdo
+  if (!grepl('group-title="', conteudo)) {
+    # Se "group-title" não existe, insere a tag antes de cada "#EXTINF:"
+    nome_grupo <- url_m3u8[[url]]
+    conteudo <- gsub("#EXTINF:-1,", sprintf("#EXTINF:-1 group-title=\"%s\",", nome_grupo), conteudo)
+  }
+  
+  # Armazena o conteúdo modificado em uma variável com o nome do grupo
+  assign(url_m3u8[[url]], conteudo, envir = .GlobalEnv)
+  
+  # Adiciona o conteúdo modificado ao conteúdo final
+  final <- paste(final, conteudo, sep = "\n")
+}
+
+
+# Mapeamento de categorias
+categorias <- list(
+  Animação = c("Animation", "Animation;Classic", "Animation;Classic;Entertainment;Family;Movies",
+               "Animation;Classic;Kids", "Animation;Culture;Entertainment", "Animation;Entertainment;Movies;Series",
+               "Animation;Kids", "Animation;Kids;Music", "Animation;Kids;Religious"),
+  Auto = c("Auto", "Auto;Entertainment"),
+  Brasil = c("BRASIL", "Brasil - SamsungTVPlus", "Brasil: cinema em português", "Brasil: cristianismo em português",
+             "Brasil: educativos e documentários", "Brasil: esportes e e-sports", "Brasil: humor; novelas e séries",
+             "Brasil: infanto-juvenis", "Brasil: lifestyle e realities", "Brasil: maratona de ficção",
+             "Brasil: notícias em português", "Brasil: rádios em português", "Brasil: variedades em português", "Brazil"),
+  Negócios = c("Business", "Business;Legislative;News", "Business;News", "Business;Sports"),
+  Comédia = c("Comédia", "Comedy", "Comedy;Movies", "Comedy;Series"),
+  Culinária = c("Cooking", "Cooking;Shop", "Culinária em espanhol", "Culinária em inglês"),
+  Documentário = c("Documentário", "Documentários em alemão", "Documentários em espanhol",
+                   "Documentários em francês", "Documentários em inglês", "Documentary", "Documentary;Education",
+                   "Documentary;Entertainment;News", "Documentary;Lifestyle", "Documentary;News",
+                   "Documentary;Science", "Documentary;Travel"),
+  Educação = c("Education", "Education;General", "Education;Kids", "Education;Outdoor", "Education;Science"),
+  Entretenimento = c("Entertainment", "Entertainment;Family", "Entertainment;General", "Entertainment;Music",
+                     "Entertainment;Series", "Entretenimento"),
+  Família = c("Family", "Family;General", "Family;Movies", "Family;Religious"),
+  Infantil = c("Infantil", "Kids", "Kids;Music", "Kids;Religious", "Infantis em alemão", "Infantis em espanhol",
+               "Infantis em francês", "Infantis em inglês", "Infantis em italiano", "Infantis em norueguês"),
+  Cinema = c("Filmes", "Movies", "Movies;Music", "Movies;News", "Movies;Series",
+             "Cinema em alemão", "Cinema em espanhol", "Cinema em francês", "Cinema em inglês",
+             "Cinema em italiano", "Cinema em outros idiomas"),
+  Música = c("Music", "Music;News", "Music;Religious", "Música", "Música instrumental e som ambiente",
+             "Música: karaokê", "Music;News;Religious"),
+  Notícias = c("News", "News;Religious", "Notícias", "Notícias em espanhol", "Notícias em francês",
+               "Notícias em inglês", "Notícias em neerlandês (holandês)", "Notícias em outros idiomas"),
+  Esportes = c("Sports", "Esportes", "Esportes em alemão", "Esportes em espanhol", "Esportes em francês",
+               "Esportes em inglês", "Esportes em inglês: automobilismo", "Esportes em inglês: lutas"),
+  Diversos = c("10 Play", "Anime & Geek", "Anthym TV", "Australia", "Austria", "BumbleBeeTV", "Caça; pesca e rodeio em inglês",
+               "Canada", "Casa e decoração em inglês", "Celebridades e cultura pop em inglês", "Chile", "Cineverse",
+               "Curiosidades", "Denmark", "DistroTV: Business", "DistroTV: Education", "DistroTV: Entertainment",
+               "DistroTV: Finance", "DistroTV: Fun & Games", "DistroTV: Lifestyle", "DistroTV: Music", "DistroTV: News",
+               "DistroTV: Sports", "DistroTV: Technology", "DistroTV: Travel", "France", "FreeMoviesPlus", "FreeTV",
+               "Game shows em inglês", "Germany", "Great Britain", "Herogo TV", "Humor e pets em alemão",
+               "Humor e pets em espanhol", "Humor e pets em francês", "Humor em inglês", "IGOCast Kansas", "India",
+               "Italy", "KlowdTV", "LG", "LocalNow: Action", "LocalNow: Comedy", "LocalNow: Drama", "LocalNow: En Espanol",
+               "LocalNow: Entertainment", "LocalNow: Explore", "LocalNow: Family And Faith", "LocalNow: Gaming And More",
+               "LocalNow: Horror And SciFi", "LocalNow: Lifestyle", "LocalNow: Local", "LocalNow: More Cities",
+               "LocalNow: Movies And TV", "LocalNow: Music And Arts", "LocalNow: News And Opinion", "LocalNow: Reality",
+               "LocalNow: Recommended", "LocalNow: Relaxation", "LocalNow: Sports", "LocalNow: World Interest",
+               "Maratona de episódios em espanhol", "Maratona de episódios em inglês", "Mexico", "New Zealand", "Norway",
+               "Pets em inglês", "Pluto TV", "Pública", "Rádio", "Rádios da Espanha", "RakutenTV", "RakutenTV J.P",
+               "RedBox: Action Sci-Fi & Horror", "RedBox: Classics & Nostalgia", "RedBox: Comedy", "RedBox: Crime & Scandal",
+               "RedBox: En Espanol", "RedBox: Food & Home", "RedBox: Kids & Family", "RedBox: Movies", "RedBox: Music",
+               "RedBox: News & Weather", "RedBox: Reality & Game Shows", "RedBox: Sports & Gaming", "RedBox: Summer Movies Showcase",
+               "RedBox: Travel & Lifestyle", "RedBox: Westerns", "RewardedTV", "SamsungTVPlus", "South Korea", "Spain",
+               "Sweden", "Switzerland", "Tablo", "Televendas em inglês", "The Roku", "TubiTV", "Undefined", "United Kingdom",
+               "United States", "USA", "Veely", "Vidaa", "Videogame", "VizioTV", "WebTV", "Xiaomi", "Xumo", "Zeasn"),
+  Clássico = c("Classic", "Classic;Movies", "Classic;Music", "Classic;Series"),
+  Cultura = c("Culture", "Culture;Documentary;Education;Kids;Lifestyle;Science",
+              "Culture;Documentary;Entertainment;General;Movies;Music", "Culture;Education",
+              "Culture;Education;Entertainment", "Culture;Education;Lifestyle", "Culture;Entertainment",
+              "Culture;Entertainment;Music", "Culture;Entertainment;News", "Culture;Family", "Culture;General",
+              "Culture;General;Music;News", "Culture;Music", "Culture;News", "Culture;Religious", "Culture;Science",
+              "Culture;Sports", "Culture;Travel"),
+  Lifestyle = c("Lifestyle", "Lifestyle;Shop", "Estilo de Vida"),
+  Geral = c("General", "General;Kids", "General;Music", "General;News", "General;Religious", "General;Series"),
+  Investigação = c("Investigação"),
+  Jornalismo = c("Jornalismo"),
+  Legislativo = c("Legislative", "Legislative;News"),
+  Pública = c("Pública"),
+  Rádio = c("Rádio", "Rádios da Espanha"),
+  Realidade = c("Reality", "Reality e game shows em espanhol", "Reality shows em alemão", "Reality shows em francês",
+                "Reality shows em inglês", "Reality shows em inglês: crimes e julgamentos", "Reality shows em italiano"),
+  Relaxamento = c("Relax"),
+  Religioso = c("Cristianismo em espanhol", "Cristianismo em inglês", "Islamismo", "Religioso", "Religious"),
+  Retrô = c("Retrô"),
+  Séries = c("Series", "Séries", "Novelas e séries em alemão", "Novelas e séries em espanhol",
+             "Novelas e séries em francês", "Novelas e séries em inglês", "Novelas e séries em italiano"),
+  Variedades = c("Variedades", "Variedades e notícias em alemão", "Variedades e notícias em árabe",
+                 "Variedades e notícias em grego", "Variedades e notícias em italiano", "Variedades em chinês",
+                 "Variedades em coreano", "Variedades em espanhol", "Variedades em francês", "Variedades em inglês",
+                 "Variedades em norueguês", "Variedades em russo", "Variedades em sueco", "Variedades em turco",
+                 "Variedades em ucraniano", "Variedades em vários idiomas"),
+  Outdoor = c("Outdoor"),
+  Adolescente = c("Teen"),
+  Ciência = c("Science"),
+  Clima = c("Weather"),
+  Compras = c("Shop"),
+  Viagem = c("Travel"),
+  Videogame = c("Videogame")
+)
+
+# Função para substituir valores de group-title
+substituir_group_title <- function(linhas) {
+  sapply(linhas, function(linha) {
+    group_title <- str_extract(linha, "(?<=group-title=\")[^\"]+(?=\")")
+    
+    novo_group_title <- "Diversos" # Valor padrão
+    for (categoria in names(categorias)) {
+      if (group_title %in% categorias[[categoria]]) {
+        novo_group_title <- categoria
+        break
+      }
+    }
+    
+    str_replace(linha, paste0("group-title=\"", group_title, "\""), paste0("group-title=\"", novo_group_title, "\""))
+  })
+}
+
+# Aplicar a função ao vetor 'final'
+final <- substituir_group_title(final)
+
+# Opcional: Salva o conteúdo final em um arquivo
+writeLines(final, "conteudo_final.m3u8")
