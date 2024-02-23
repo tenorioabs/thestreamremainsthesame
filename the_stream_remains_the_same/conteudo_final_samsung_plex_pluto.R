@@ -43,14 +43,47 @@ for (url in names(url_m3u8)) {
   final <- paste(final, conteudo, sep = "\n")
 }
 
+# URLs das quais queremos extrair o conteúdo
+urls <- c(
+  "https://i.mjh.nz/Plex/all.m3u8",
+  "https://i.mjh.nz/PlutoTV/all.m3u8",
+  "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
+)
 
-url_nova <- "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
+# Função para extrair o conteúdo de uma URL
+extrair_conteudo <- function(url) {
+  content(GET(url), "text", encoding = "UTF-8")
+}
 
-# Fazendo a requisição GET para a URL e extraindo o conteúdo como texto
-conteudo_novo <- content(GET(url_nova), "text", encoding = "UTF-8")
+# Extrair o conteúdo de cada URL
+conteudos <- sapply(urls, extrair_conteudo, USE.NAMES = FALSE)
+conteudo_total <- paste(conteudos, collapse = "\n")
 
-# Concatenamos o novo conteúdo ao final do objeto 'final'
-final <- paste(final, conteudo_novo, sep = "\n")
+# Separar o conteúdo em linhas e identificar as linhas que contêm URLs de canais
+linhas <- unlist(strsplit(conteudo_total, "\n"))
+linhas_url <- linhas[grepl("^#EXTINF", linhas) | grepl("^http", linhas)]
+
+# Função para verificar se uma linha contém uma URL de canal
+contem_url_canal <- function(linha) {
+  grepl("^http", linha)
+}
+
+# Identificar e remover canais repetidos
+urls_unicas <- character()
+linhas_unicas <- character()
+for (i in seq_along(linhas_url)) {
+  if (contem_url_canal(linhas_url[i])) {
+    if (!(linhas_url[i] %in% urls_unicas)) {
+      urls_unicas <- c(urls_unicas, linhas_url[i])
+      linhas_unicas <- c(linhas_unicas, linhas_url[i-1], linhas_url[i])
+    }
+  }
+}
+
+# Concatenar o conteúdo único ao objeto 'final'
+final <- paste(final, paste(linhas_unicas, collapse = "\n"), sep = "\n")
+final <- gsub('group-title="USA"', 'group-title="United States"', final)
 
 # Opcional: Salva o conteúdo final em um arquivo
-writeLines(final, "conteudo_final_samsungTVPlus.m3u8")
+writeLines(final, "conteudo_final_samsung_plex_pluto.m3u8")
+# O objeto 'final' agora contém o conteúdo original mais o conteúdo único das novas URLs
