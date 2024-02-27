@@ -1,5 +1,5 @@
 # Define o caminho para o arquivo M3U8 unificado
-arquivo <- "conteudo_final.m3u8"
+arquivo <- "conteudo_final_categorizado_por_fonte.m3u8"
 
 # Lê o conteúdo do arquivo
 conteudo <- readLines(arquivo, warn = FALSE)
