@@ -3,9 +3,7 @@ if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
 library(httr)
 
 # Lista de URLs e seus respectivos nomes a serem usados como "group-title"
-url_m3u8 <- list(
-                 
-                 "https://i.mjh.nz/PBS/all.m3u8"="PBSTV",
+url_m3u8 <- list("https://i.mjh.nz/PBS/all.m3u8"="PBSTV",
                  "https://i.mjh.nz/Plex/all.m3u8"="PlexTV",
                  "https://i.mjh.nz/PlutoTV/all.m3u8"="PlutoTV",
                  "https://i.mjh.nz/Roku/all.m3u8"="RokuTV",
@@ -56,7 +54,9 @@ url_m3u8 <- list(
                  "https://www.apsattv.com/zeasn.m3u"="ZeasnTV",
                  "https://lib.bz/br.m3u"="GitHubTV",
                  "https://raw.githubusercontent.com/helenfernanda/gratis/main/iptvlegal.m3u"="GitHubTV",
-                 "https://iptv-org.github.io/iptv/index.m3u"="GitHubTV")
+                 "https://iptv-org.github.io/iptv/index.m3u"="GitHubTV",
+                 "http://m3u4u.com/m3u/3wk1y25zgkczzzwqngz7"="PrimeTV",
+                 "http://135.148.169.68:80/get.php?username=ottplayerchannel&password=JFYQWKNbCUe5&type=m3u"="OttTV")
 
 processa_url <- function(url, nome_grupo) {
   response <- tryCatch({
