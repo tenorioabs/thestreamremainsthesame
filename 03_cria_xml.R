@@ -39,7 +39,12 @@ writeLines(conteudo_concatenado, caminho_arquivo)
 # Informar ao usuário que o processo foi concluído
 cat("O conteúdo foi baixado e concatenado com sucesso em", caminho_arquivo, "\n")
 
+# # GitHub Linux
+# system("git add .")
+# system("git commit -m 'Teste de Commit'")
+# system("git push origin main")
+
 # GitHub Windows
 system("git add .", intern = FALSE)
-system("git commit -m \"Teste Windows\"", intern = FALSE)
+system("git commit -m \"Cria Script 03\"", intern = FALSE)
 system("git push origin main", intern = FALSE)
