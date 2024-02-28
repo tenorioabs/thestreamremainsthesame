@@ -74,14 +74,14 @@ conteudos_ajustados <- pblapply(names(url_m3u8), function(url) {
 conteudo_final <- paste(unlist(conteudos_ajustados), collapse = "\n")
 
 # Salvar o conteúdo final no arquivo "conteudo_final.m3u8"
-writeLines(conteudo_final, "conteudo_final.m3u8")
+writeLines(conteudo_final, "minha_lista.m3u8")
 
-message("Arquivo 'conteudo_final.m3u8' salvo com sucesso.")
+message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
 
 ################################################################################
 
 # Define o caminho para o arquivo M3U8 unificado
-arquivo <- "conteudo_final.m3u8"
+arquivo <- "minha_lista.m3u8"
 
 # Lê o conteúdo do arquivo
 conteudo <- readLines(arquivo, warn = FALSE)
@@ -110,10 +110,10 @@ print(tabulacao)
 rm(list = ls())
 gc()
 
-# GitHub Linux
-system("git add .")
-system("git commit -m 'Teste de Commit'")
-system("git push origin main")
+# # GitHub Linux
+# system("git add .")
+# system("git commit -m 'Teste de Commit'")
+# system("git push origin main")
 
 # GitHub Windows
 system("git add .", intern = FALSE)
