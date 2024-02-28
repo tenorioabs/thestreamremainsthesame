@@ -19,15 +19,14 @@ url_m3u8 <- list("https://i.mjh.nz/Plex/ca.m3u8"="Canada",
                  "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"="Great Britain",
                  "https://i.mjh.nz/SamsungTVPlus/us.m3u8"="United States",
                  "https://www.apsattv.com/ssungbra.m3u"="Brazil",
-                 "http://m3u4u.com/m3u/782dyqzg7rf1118gn4zp"="Brazil",
                  "https://iptv-org.github.io/iptv/countries/br.m3u"="Brazil",
                  "https://iptv-org.github.io/iptv/countries/ca.m3u"="Canada",
                  "https://iptv-org.github.io/iptv/countries/us.m3u"="United States",
                  "https://iptv-org.github.io/iptv/countries/uk.m3u"="Great Britain",
                  "https://lib.bz"="Brazil",
-                 "http://m3u4u.com/m3u/p192y734qvuvvvgwymeg"="Brazil",
-                 "http://m3u4u.com/m3u/69wkng49r8svvxg3yq8g"="Brazil",
-                 "http://m3u4u.com/m3u/8p4ey89wg3sqq7k4ng1v"="Music")
+                 "http://m3u4u.com/m3u/782dyqzg7rf1118gn4zp"="Brazil", # ott
+                 "http://m3u4u.com/m3u/p192y734qvuvvvgwymeg"="Brazil", # meu tedio
+                 "http://m3u4u.com/m3u/8p4ey89wg3sqq7k4ng1v"="Music") # pluto music
 
 processa_url <- function(url, nome_grupo) {
   response <- tryCatch({
@@ -105,4 +104,18 @@ tabulacao <- as.data.frame(table(valores_group_title))
 # Exibe a tabulação
 print(tabulacao)
 
-writexl::write_xlsx(tabulacao, "tabulacao_conteudo_final.xlsx")
+#writexl::write_xlsx(tabulacao, "tabulacao_conteudo_final.xlsx")
+
+# Limpar o ambiente de trabalho
+rm(list = ls())
+gc()
+
+# GitHub Linux
+system("git add .")
+system("git commit -m 'Teste de Commit'")
+system("git push origin main")
+
+# GitHub Windows
+system("git add .", intern = FALSE)
+system("git commit -m \"Teste Windows\"", intern = FALSE)
+system("git push origin main", intern = FALSE)
