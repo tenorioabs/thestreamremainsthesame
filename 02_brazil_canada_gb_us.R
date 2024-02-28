@@ -107,8 +107,8 @@ print(tabulacao)
 #writexl::write_xlsx(tabulacao, "tabulacao_conteudo_final.xlsx")
 
 # Limpar o ambiente de trabalho
-rm(list = ls())
-gc()
+# rm(list = ls())
+# gc()
 
 # # GitHub Linux
 # system("git add .")
@@ -116,6 +116,6 @@ gc()
 # system("git push origin main")
 
 # GitHub Windows
-system("git add .", intern = FALSE)
-system("git commit -m \"Teste Windows\"", intern = FALSE)
-system("git push origin main", intern = FALSE)
+# system("git add .", intern = FALSE)
+# system("git commit -m \"Teste Windows\"", intern = FALSE)
+# system("git push origin main", intern = FALSE)
