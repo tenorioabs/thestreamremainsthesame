@@ -26,7 +26,8 @@ url_m3u8 <- list("https://i.mjh.nz/Plex/ca.m3u8"="Canada",
                  "https://iptv-org.github.io/iptv/countries/uk.m3u"="Great Britain",
                  "https://lib.bz"="Brazil",
                  "http://m3u4u.com/m3u/p192y734qvuvvvgwymeg"="Brazil",
-                 "http://m3u4u.com/m3u/69wkng49r8svvxg3yq8g"="Brazil")
+                 "http://m3u4u.com/m3u/69wkng49r8svvxg3yq8g"="Brazil",
+                 "http://m3u4u.com/m3u/8p4ey89wg3sqq7k4ng1v"="Music")
 
 processa_url <- function(url, nome_grupo) {
   response <- tryCatch({
