@@ -58,6 +58,7 @@ url_m3u8 <- list("https://i.mjh.nz/PBS/all.m3u8"="PBSTV",
                  "http://m3u4u.com/m3u/3wk1y25zgkczzzwqngz7"="PrimeTV",
                  "http://135.148.169.68:80/get.php?username=ottplayerchannel&password=JFYQWKNbCUe5&type=m3u"="OttTV")
 
+
 processa_url <- function(url, nome_grupo) {
   response <- tryCatch({
     GET(url)
