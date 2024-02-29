@@ -6,13 +6,7 @@ library(dplyr)
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 library(stringr)
 
-source("03_funcoes_github.R")
-
-# Lista de URLs
-url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
-              "https://i.mjh.nz/PlutoTV/all.m3u8",
-              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
-
+# Função para processar as URLs e retornar o conteúdo
 processa_url <- function(url) {
   response <- tryCatch({
     GET(url)
@@ -24,8 +18,17 @@ processa_url <- function(url) {
   if (is.null(response)) return(NULL)
   
   conteudo <- content(response, "text", encoding = "UTF-8")
+  # Remover cabeçalhos #EXTM3U exceto no primeiro arquivo
+  if (url != url_m3u8[1]) {
+    conteudo <- sub("#EXTM3U.*\n", "", conteudo, perl = TRUE)
+  }
   return(conteudo)
 }
+
+# Lista de URLs
+url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
+              "https://i.mjh.nz/PlutoTV/all.m3u8",
+              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
 
 # Processar URLs e coletar o conteúdo para cada uma
 conteudos <- lapply(url_m3u8, processa_url)
@@ -39,6 +42,7 @@ writeLines(conteudo_final, "minha_lista.m3u8")
 message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
 
 ################################################################################
+# O restante do código para processar, buscar e modificar os canais
 ################################################################################
 
 # Ler o arquivo com os dados dos canais
@@ -94,12 +98,11 @@ for (canal in names(resultados_busca)) {
 }
 
 ################################################################################
+# Definir os caminhos dos arquivos para a concatenação final
 ################################################################################
 
-# Definir os caminhos dos arquivos
 caminho_lista_original <- "minha_lista.m3u8"
 caminho_lista_modificada <- "canais_encontrados_modificados.m3u8"
-caminho_lista_concatenada <- "minha_lista.m3u8"
 
 # Ler os conteúdos dos arquivos
 conteudo_lista_original <- readLines(caminho_lista_original)
@@ -109,18 +112,21 @@ conteudo_lista_modificada <- readLines(caminho_lista_modificada)
 conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 
 # Escrever o conteúdo concatenado em um novo arquivo
-writeLines(conteudo_concatenado, caminho_lista_concatenada)
+writeLines(conteudo_concatenado, caminho_lista_original)
 
-cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_concatenada, "\n")
+cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_original, "\n")
 
 ################################################################################
+# Finalização e limpeza...
 ################################################################################
+
 
 source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
-
-################################################################################
-################################################################################
-
 github_windows("Reformulação Geral")
 #github_linux("Reformulação Geral")
+
+################################################################################
+################################################################################
+
+

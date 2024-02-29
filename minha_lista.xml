@@ -64,10 +64,6 @@
     <display-name>Stories by AMC</display-name>
     <icon src="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc11bbe6b65b5884a0af6702f6b61c61.png"/>
   </channel>
-  <channel id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce">
-    <display-name>The Walking Dead Universe</display-name>
-    <icon src="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/01fdcabfec82d869b2ab775ffa637bf7.png"/>
-  </channel>
   <channel id="5e20b730f2f8d5003d739db7-654a8041fa75888bea239718">
     <display-name>The Librarians</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/7a844a53-a5ad-4ef0-9217-24323f0e80de/Channel_Logo_The_Librarians_WHITERDX.png"/>
@@ -91,6 +87,10 @@
   <channel id="5e20b730f2f8d5003d739db7-64f0d3ddc2bc9b9001d46ea4">
     <display-name>REELZ Famous &amp; Infamous</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png"/>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce">
+    <display-name>The Walking Dead Universe</display-name>
+    <icon src="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/01fdcabfec82d869b2ab775ffa637bf7.png"/>
   </channel>
   <channel id="5e20b730f2f8d5003d739db7-63f693a3fff2b53dc9ddc8f4">
     <display-name>Cold Case Files by A&amp;E</display-name>
@@ -304,6 +304,10 @@
     <display-name>Beyond Belief</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/10e6956d-05b4-4964-9f40-0c6a8580889b/FilmRise_BeyondBelief_Logo_Colorrdx.png"/>
   </channel>
+  <channel id="5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c">
+    <display-name>Hot Ones</display-name>
+    <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e248bd13aa2b3e3d0eeaf6ed0db3df22.png"/>
+  </channel>
   <channel id="5e20b730f2f8d5003d739db7-644bbd7d4272f4a2692cc676">
     <display-name>Maximum Effort Channel</display-name>
     <icon src="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/329a4084364c3f2d9fc41fe360b52a27.png"/>
@@ -431,6 +435,10 @@
   <channel id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616">
     <display-name>Lone Star</display-name>
     <icon src="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png"/>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-65829ef26b91be4547aa153a">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc861a13b8f800b446f335741fec71e4.png"/>
   </channel>
   <channel id="5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894">
     <display-name>Crime &amp; Justice</display-name>
@@ -2116,14 +2124,6 @@
     <display-name>party tyme karaoke</display-name>
     <icon src="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png"/>
   </channel>
-  <channel id="5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c">
-    <display-name>Hot Ones</display-name>
-    <icon src="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e248bd13aa2b3e3d0eeaf6ed0db3df22.png"/>
-  </channel>
-  <channel id="5e20b730f2f8d5003d739db7-65829ef26b91be4547aa153a">
-    <display-name>World's Most Evil Killers</display-name>
-    <icon src="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dc861a13b8f800b446f335741fec71e4.png"/>
-  </channel>
   <channel id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db">
     <display-name>AZTECA UNO -1 hora</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png"/>
@@ -3064,13 +3064,13 @@
     <display-name>Pel&#xED;culas Top - Rakuten TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/926365c3-41dc-4c9a-8ba7-79aaf6f38270/SP_TOP-MOVIES_Logo_2-1500x1000redux.png"/>
   </channel>
-  <channel id="643054b1fc3be59477853717-627ad8d5448f0c9d080141f7">
-    <display-name>Acci&#xF3;n - Rakuten TV </display-name>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/25b401cc-8fa7-4165-a387-d77f92228f46/SP_ACTION_Logo_2-1500x1000redux.png"/>
-  </channel>
   <channel id="643054b1fc3be59477853717-6291061ce162123d3764ad2b">
     <display-name>Thrillers - Rakuten TV</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/11739e2a-9250-4a7e-a0cf-3ca87e71eca7/DE_THRILLER_Logo_2-1500x1000RDX.png"/>
+  </channel>
+  <channel id="643054b1fc3be59477853717-627ad8d5448f0c9d080141f7">
+    <display-name>Acci&#xF3;n - Rakuten TV </display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/25b401cc-8fa7-4165-a387-d77f92228f46/SP_ACTION_Logo_2-1500x1000redux.png"/>
   </channel>
   <channel id="643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc">
     <display-name>Cops en Espa&#xF1;ol</display-name>
