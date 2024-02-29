@@ -64,7 +64,10 @@ canais_buscados <- c("VH1",
                      "Deluxe Lounge HD",
                      "K-Pop",
                      "Pluto TV Fireplace",
-                     "Rock")
+                     "Classic Rock",
+                     "Rock Story",
+                     "Classic Rock",
+                     "Rock TV")
 
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
