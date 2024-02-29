@@ -1,40 +1,71 @@
-library(XML)
+# Carregar os pacotes necessários
+if (!require("xml2")) install.packages("xml2")
+if (!require("httr")) install.packages("httr")
+
+library(xml2)
 library(httr)
 
-# Inicializa um objeto XML vazio
-doc_final <- newXMLDoc()
-root_node <- newXMLNode("tv", attrs = c("generator-info-name" = "https://github.com/tenorioabs"), doc = doc_final)
-
-# Lista de URLs para baixardata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAWElEQVR42mNgGPTAxsZmJsVqQApgmGw1yApwKcQiT7phRBuCzzCSDSHGMKINIeDNmWQlA2IigKJwIssQkHdINgxfmBBtGDEBS3KCxBc7pMQgMYE5c/AXPwAwSX4lV3pTWwAAAABJRU5ErkJggg==
+# URLs fornecidas
 urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/PlutoTV/all.xml",
           "https://i.mjh.nz/SamsungTVPlus/all.xml")
 
-# Loop para processar cada URL
-for (url in urls) {
-  cat("Tratando URL:", url, "\n")
+# Função para processar cada URL
+processar_xml <- function(url) {
+  print(paste("Iniciando o download e processamento de:", url))
   
-  # Baixa o conteúdo XML da URL
-  response <- GET(url)
-  content <- content(response, "text", encoding = "UTF-8")
+  # Fazendo o download do conteúdo
+  conteudo <- GET(url)
+  texto <- content(conteudo, "text", encoding = "UTF-8")
   
-  # Converte o conteúdo para um objeto XML
-  doc <- xmlParse(content)
+  # Lendo o conteúdo como um documento XML
+  doc <- read_xml(texto, options = "NOBLANKS")
   
-  # Extrai os nós de interesse
-  nodes <- getNodeSet(doc, "//tv/channel")
+  # Removendo o cabeçalho e focando nas tags <channel> e <programme>
+  channels <- xml_find_all(doc, ".//channel")
+  programmes <- xml_find_all(doc, ".//programme")
   
-  # Adiciona os nós extraídos ao documento final
-  for (node in nodes) {
-    newNode <- newXMLNode("channel", attrs = xmlAttrs(node), parent = root_node)
-    for(child in xmlChildren(node)){
-      addChildren(newNode, newXMLNode(xmlName(child), xmlAttrs(child), xmlValue(child)))
-    }
+  print(paste("Processamento concluído para:", url))
+  
+  list(channels = channels, programmes = programmes)
+}
+
+# Criando um novo documento XML para o conteúdo concatenado
+doc_final <- read_xml('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1709226371"></tv>')
+
+# Processando URLs com barra de progresso
+pb <- txtProgressBar(min = 0, max = length(urls), style = 3)
+resultados <- list()
+for (i in seq_along(urls)) {
+  resultados[[i]] <- processar_xml(urls[i])
+  setTxtProgressBar(pb, i)
+}
+close(pb)
+
+# Adicionando os elementos <channel> e <programme> ao novo documento com barra de progresso
+print("Iniciando a adição de elementos ao documento XML final.")
+pb <- txtProgressBar(min = 0, max = length(resultados) * 2, style = 3) # Estimativa de progresso
+progress <- 0
+for (res in resultados) {
+  for (channel in res$channels) {
+    node <- read_xml(as.character(channel))
+    xml_add_child(doc_final, node)
+    progress <- progress + 1
+    setTxtProgressBar(pb, progress)
   }
 }
 
-# Salva o documento XML concatenado em um arquivo, incluindo a declaração e DOCTYPE manualmente
-xmlString <- saveXML(doc_final, prefix = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n")
-writeLines(xmlString, con = "minha_lista_concatenada.xml")
+for (res in resultados) {
+  for (programme in res$programmes) {
+    node <- read_xml(as.character(programme))
+    xml_add_child(doc_final, node)
+    progress <- progress + 1
+    setTxtProgressBar(pb, progress)
+  }
+}
+close(pb)
+print("Todos os elementos foram adicionados ao documento XML final.")
 
-cat("XML concatenado salvo com sucesso em 'minha_lista_concatenada.xml'.\n")
+# Salvando o documento final
+write_xml(doc_final, "minha_lista_concatenada.xml")
+print("Documento XML final salvo como 'minha_lista_concatenada.xml'.")
