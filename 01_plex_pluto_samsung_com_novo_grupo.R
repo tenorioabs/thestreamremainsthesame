@@ -6,6 +6,8 @@ library(dplyr)
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 library(stringr)
 
+source("03_funcoes_github.R")
+
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
@@ -116,3 +118,9 @@ cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", cam
 
 source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
+
+################################################################################
+################################################################################
+
+github_windows("Reformulação Geral")
+#github_linux("Reformulação Geral")
