@@ -1,25 +1,17 @@
-# Carregar pacotes necessários
-if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
-if (!requireNamespace("XML", quietly = TRUE)) install.packages("XML")
-
-library(httr)
 library(XML)
+library(httr)
 
-# Inicializa um objeto XML vazio para armazenar o resultado concatenado
+# Inicializa um objeto XML vazio
 doc_final <- newXMLDoc()
-root_node <- newXMLNode("tv", doc = doc_final)
+root_node <- newXMLNode("tv", attrs = c("generator-info-name" = "https://github.com/tenorioabs"), doc = doc_final)
 
-# Lista de URLs para baixar
+# Lista de URLs para baixardata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAWElEQVR42mNgGPTAxsZmJsVqQApgmGw1yApwKcQiT7phRBuCzzCSDSHGMKINIeDNmWQlA2IigKJwIssQkHdINgxfmBBtGDEBS3KCxBc7pMQgMYE5c/AXPwAwSX4lV3pTWwAAAABJRU5ErkJggg==
 urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/PlutoTV/all.xml",
           "https://i.mjh.nz/SamsungTVPlus/all.xml")
 
-# Inicializar a barra de progresso
-pb <- txtProgressBar(min = 0, max = length(urls), style = 3)
-
 # Loop para processar cada URL
-for (i in seq_along(urls)) {
-  url <- urls[i]
+for (url in urls) {
   cat("Tratando URL:", url, "\n")
   
   # Baixa o conteúdo XML da URL
@@ -29,22 +21,20 @@ for (i in seq_along(urls)) {
   # Converte o conteúdo para um objeto XML
   doc <- xmlParse(content)
   
-  # Extrai os nós de interesse (por exemplo, todos os nós <channel> dentro de <tv>)
-  nodes <- getNodeSet(doc, "//tv/channel")  # Ajuste o XPath conforme necessário
+  # Extrai os nós de interesse
+  nodes <- getNodeSet(doc, "//tv/channel")
   
   # Adiciona os nós extraídos ao documento final
   for (node in nodes) {
-    addChildren(root_node, node)
+    newNode <- newXMLNode("channel", attrs = xmlAttrs(node), parent = root_node)
+    for(child in xmlChildren(node)){
+      addChildren(newNode, newXMLNode(xmlName(child), xmlAttrs(child), xmlValue(child)))
+    }
   }
-  
-  # Atualiza a barra de progresso
-  setTxtProgressBar(pb, i)
 }
 
-# Finaliza a barra de progresso
-close(pb)
+# Salva o documento XML concatenado em um arquivo, incluindo a declaração e DOCTYPE manualmente
+xmlString <- saveXML(doc_final, prefix = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE tv SYSTEM \"xmltv.dtd\">\n")
+writeLines(xmlString, con = "minha_lista_concatenada.xml")
 
-# Salva o documento XML concatenado em um arquivo
-saveXML(doc_final, file = "minha_lista.xml")
-
-cat("XML concatenado salvo com sucesso em 'minha_lista.xml'.\n")
+cat("XML concatenado salvo com sucesso em 'minha_lista_concatenada.xml'.\n")

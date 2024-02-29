@@ -127,28 +127,31 @@ writeLines(conteudo_concatenado, caminho_lista_concatenada)
 cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_concatenada, "\n")
 
 ################################################################################
-################################################################################
-
-################################################################################
 # Finalização e limpeza
 ################################################################################
 
 # Definir o caminho do arquivo
-caminho_do_arquivo <- "minha_lista.m3u8"
+caminho_do_arquivo <- "minha_lista_concatenada.m3u8"
 
 # Ler o arquivo
 linhas <- readLines(caminho_do_arquivo)
 
-# Verificar se a primeira linha contém a tag e substituir a URL
+# Substituir a URL na primeira linha
 if (grepl("^#EXTM3U", linhas[1])) {
-  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista.xml"', linhas[1])
+  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista.m3u8"', linhas[1], perl = TRUE)
 }
 
-# Salvar o arquivo com a modificação
-writeLines(linhas, caminho_do_arquivo)
+# Remover as linhas com a tag x-tvg-url, exceto a primeira linha
+linhas_para_manter <- c(linhas[1], linhas[!grepl('x-tvg-url=', linhas) | !grepl('^#EXTM3U', linhas)])
+
+# Salvar o arquivo com as modificações
+writeLines(linhas_para_manter, caminho_do_arquivo)
 
 # Mensagem de confirmação
-cat("A URL na tag 'x-tvg-url' foi atualizada com sucesso no arquivo", caminho_do_arquivo, "\n")
+cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi substituída conforme solicitado, e as outras linhas com a tag 'x-tvg-url' foram removidas de forma genérica.\n")
+
+################################################################################
+################################################################################
 
 source("02_cria_xml.R")
 source("03_funcoes_github.R")
