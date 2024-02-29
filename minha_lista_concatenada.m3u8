@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml"
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-id="5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="USA" , 123GO!
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63eecb32ac23d1ee072087cb.m3u8
 
@@ -13348,3 +13348,293 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240227T221008SQUARE.png_20240227221008.png" tvg-chno="1552" group-title="United States" , Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4" tvg-id="5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32ed8d25-d253-4e6e-a842-4c8aff0d03d8/MIMTV_Logo_1500x1000_DarkBackgrounds.png" group-title="Music" , Made It Myself TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8
+#EXTINF:-1 channel-id="pluto-5d71561df6f2e6d0b6493bf5" tvg-id="5d71561df6f2e6d0b6493bf5" tvg-logo="https://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" tvg-chno="1700" group-title="Music" , VH1 Hip Hop Family
+https://r.mjh.nz/PlutoTV/5d71561df6f2e6d0b6493bf5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d7154fa8326b6ce4ec31f2e" tvg-id="5d7154fa8326b6ce4ec31f2e" tvg-logo="https://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" tvg-chno="1710" group-title="Music" , VH1 I Love Reality
+https://r.mjh.nz/PlutoTV/5d7154fa8326b6ce4ec31f2e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ca6899a37b88b269472ea4b" tvg-id="5ca6899a37b88b269472ea4b" tvg-logo="https://images.pluto.tv/channels/5ca6899a37b88b269472ea4b/colorLogoPNG-1641927416701.png" tvg-chno="1750" group-title="Music" , MTV Dating
+https://r.mjh.nz/PlutoTV/5ca6899a37b88b269472ea4b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ca672f515a62078d2ec0ad2" tvg-id="5ca672f515a62078d2ec0ad2" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG-1641928171062.png" tvg-chno="2140" group-title="Music" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5ca672f515a62078d2ec0ad2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" tvg-chno="4350" group-title="Music" , MTV en español
+https://r.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fc31252d35decbc4080b" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvg-chno="4710" group-title="Music" , Yo! MTV
+https://r.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" group-title="Music" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="Music" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" tvg-chno="4790" group-title="Music" , MTV Flow Latino
+https://r.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625eb3e245f5bc0007810046" tvg-id="625eb3e245f5bc0007810046" tvg-logo="https://images.pluto.tv/channels/625eb3e245f5bc0007810046/colorLogoPNG.png" tvg-chno="603" group-title="Music" , MTV Reality
+https://r.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
+#EXTINF:-1 channel-id="pluto-635bfb89b5cd9b0007ca9d63" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" tvg-chno="850" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64c10558060e830008ed1b0a" tvg-id="64c10558060e830008ed1b0a" tvg-logo="https://images.pluto.tv/channels/64c10558060e830008ed1b0a/colorLogoPNG.png" tvg-chno="851" group-title="Music" , Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62a067e7c65ff60007b40874" tvg-id="62a067e7c65ff60007b40874" tvg-logo="https://images.pluto.tv/channels/62a067e7c65ff60007b40874/colorLogoPNG.png" tvg-chno="852" group-title="Music" , MTV Movie Hits
+https://r.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62430270d6394a0007ef24a6" tvg-id="62430270d6394a0007ef24a6" tvg-logo="https://images.pluto.tv/channels/62430270d6394a0007ef24a6/colorLogoPNG.png" tvg-chno="853" group-title="Music" , MTV Love
+https://r.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65a6939b4a10d800085cee92" tvg-id="65a6939b4a10d800085cee92" tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/colorLogoPNG.png" tvg-chno="854" group-title="Music" , MTV: Best of
+https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
+#EXTINF:-1 channel-id="pluto-624303598e45140007d765c1" tvg-id="624303598e45140007d765c1" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" tvg-chno="857" group-title="Music" , MTV Rocks
+https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63eb9495a8b227000841bf64" tvg-id="63eb9495a8b227000841bf64" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" tvg-chno="549" group-title="Music" , MTV Vergüenza ajena
+https://r.mjh.nz/PlutoTV/63eb9495a8b227000841bf64-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ab3c7778230000735cf41" tvg-id="5f1ab3c7778230000735cf41" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" tvg-chno="550" group-title="Music" , MTV Catfish TV Show
+https://r.mjh.nz/PlutoTV/5f1ab3c7778230000735cf41-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62ac3d7dc23b400008ae5b5a" tvg-id="62ac3d7dc23b400008ae5b5a" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png" tvg-chno="551" group-title="Music" , MTV Jerseys
+https://r.mjh.nz/PlutoTV/62ac3d7dc23b400008ae5b5a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-627d3176d7dfa500077042f1" tvg-id="627d3176d7dfa500077042f1" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png" tvg-chno="552" group-title="Music" , MTV Geordies
+https://r.mjh.nz/PlutoTV/627d3176d7dfa500077042f1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" tvg-chno="553" group-title="Music" , MTV Realities
+https://r.mjh.nz/PlutoTV/6130d8dc943001000708548d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1aadf373bed3000794d1d7" tvg-id="5f1aadf373bed3000794d1d7" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" tvg-chno="554" group-title="Music" , MTV Originals
+https://r.mjh.nz/PlutoTV/5f1aadf373bed3000794d1d7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" tvg-chno="555" group-title="Music" , MTV Teen Mom
+https://r.mjh.nz/PlutoTV/604f81a49ef73300070e554f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" tvg-chno="556" group-title="Music" , MTV Embarazada a los 16
+https://r.mjh.nz/PlutoTV/5f98537a5a4341000733aefe-alt.m3u8
+#EXTINF:-1 channel-id="pluto-611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" tvg-chno="557" group-title="Music" , MTV Tattoo a dos
+https://r.mjh.nz/PlutoTV/611b87946b7f420007c22361-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" tvg-chno="600" group-title="Music" , VH1 Classics
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61ea759737679900078ff559" tvg-id="61ea759737679900078ff559" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" tvg-chno="601" group-title="Music" , MTV Party Music
+https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60a26a056d55b30007918d5a" tvg-id="60a26a056d55b30007918d5a" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" tvg-chno="602" group-title="Music" , MTV Music Made in Spain
+https://r.mjh.nz/PlutoTV/60a26a056d55b30007918d5a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62444f34ea3ade0007ade6ac" tvg-id="62444f34ea3ade0007ade6ac" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" tvg-chno="604" group-title="Music" , MTV Urban Music
+https://r.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64db35b44c5ed80008f6a3ed" tvg-id="64db35b44c5ed80008f6a3ed" tvg-logo="https://images.pluto.tv/channels/64db35b44c5ed80008f6a3ed/colorLogoPNG.png" tvg-chno="605" group-title="Music" , Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f89fcfd661bb00081ba45c" tvg-id="64f89fcfd661bb00081ba45c" tvg-logo="https://images.pluto.tv/channels/64f89fcfd661bb00081ba45c/colorLogoPNG.png" tvg-chno="450" group-title="Music" , MTV Reality
+https://r.mjh.nz/PlutoTV/64f89fcfd661bb00081ba45c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a0c230ab3300084369b8" tvg-id="64f8a0c230ab3300084369b8" tvg-logo="https://images.pluto.tv/channels/64f8a0c230ab3300084369b8/colorLogoPNG.png" tvg-chno="451" group-title="Music" , MTV Dating
+https://r.mjh.nz/PlutoTV/64f8a0c230ab3300084369b8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f9cccf110545000837912e" tvg-id="64f9cccf110545000837912e" tvg-logo="https://images.pluto.tv/channels/64f9cccf110545000837912e/colorLogoPNG.png" tvg-chno="453" group-title="Music" , MTV Ridiculousness
+https://r.mjh.nz/PlutoTV/64f9cccf110545000837912e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6541010f770cf1000866be98" tvg-id="6541010f770cf1000866be98" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" tvg-chno="455" group-title="Music" , MTV Spankin’ New
+https://r.mjh.nz/PlutoTV/6541010f770cf1000866be98-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65410176770cf1000866bf31" tvg-id="65410176770cf1000866bf31" tvg-logo="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png" tvg-chno="456" group-title="Music" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/65410176770cf1000866bf31-alt.m3u8
+#EXTINF:-1 channel-id="pluto-654102ed770cf1000866c307" tvg-id="654102ed770cf1000866c307" tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" tvg-chno="457" group-title="Music" , Yo! MTV
+https://r.mjh.nz/PlutoTV/654102ed770cf1000866c307-alt.m3u8
+#EXTINF:-1 channel-id="pluto-654100b4bdf3cf0008aa49c7" tvg-id="654100b4bdf3cf0008aa49c7" tvg-logo="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/colorLogoPNG.png" tvg-chno="458" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/654100b4bdf3cf0008aa49c7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61923ac16d03190008138a67" tvg-id="61923ac16d03190008138a67" tvg-logo="https://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png" tvg-chno="23" group-title="Music" , MTV Love Music
+https://r.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
+#EXTINF:-1 channel-id="pluto-609536871db47700075a04bf" tvg-id="609536871db47700075a04bf" tvg-logo="https://images.pluto.tv/channels/609536871db47700075a04bf/colorLogoPNG.png" tvg-chno="169" group-title="Music" , MTV Serie
+https://r.mjh.nz/PlutoTV/609536871db47700075a04bf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5db6a697d5f34a000934cd13" tvg-id="5db6a697d5f34a000934cd13" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" tvg-chno="232" group-title="Music" , MTV Catfish TV Show
+https://r.mjh.nz/PlutoTV/5db6a697d5f34a000934cd13-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62bc18239912800007edf3f7" tvg-id="62bc18239912800007edf3f7" tvg-logo="https://images.pluto.tv/channels/62bc18239912800007edf3f7/colorLogoPNG.png" tvg-chno="238" group-title="Music" , MTV Pimp My Ride
+https://r.mjh.nz/PlutoTV/62bc18239912800007edf3f7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5caf325764025859afdd6c4d" tvg-id="5caf325764025859afdd6c4d" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" tvg-chno="239" group-title="Music" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5caf325764025859afdd6c4d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ea815a515d149000748ee9b" tvg-id="5ea815a515d149000748ee9b" tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png" tvg-chno="240" group-title="Music" , MTV Cribs
+https://r.mjh.nz/PlutoTV/5ea815a515d149000748ee9b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5caf32c2a5068259a32320fc" tvg-id="5caf32c2a5068259a32320fc" tvg-logo="https://images.pluto.tv/channels/5caf32c2a5068259a32320fc/colorLogoPNG-1637850773210.png" tvg-chno="320" group-title="Music" , MTV The Shores
+https://r.mjh.nz/PlutoTV/5caf32c2a5068259a32320fc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5caf330ea5068259a32320fd" tvg-id="5caf330ea5068259a32320fd" tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png" tvg-chno="321" group-title="Music" , MTV Dating
+https://r.mjh.nz/PlutoTV/5caf330ea5068259a32320fd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d00e86bf0bac55fe7f75736" tvg-id="5d00e86bf0bac55fe7f75736" tvg-logo="https://images.pluto.tv/channels/5d00e86bf0bac55fe7f75736/colorLogoPNG.png" tvg-chno="322" group-title="Music" , MTV The Hills
+https://r.mjh.nz/PlutoTV/5d00e86bf0bac55fe7f75736-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5cffcf5686dfe15595fb3f56" tvg-id="5cffcf5686dfe15595fb3f56" tvg-logo="https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG.png" tvg-chno="327" group-title="Music" , MTV Teen Mom
+https://r.mjh.nz/PlutoTV/5cffcf5686dfe15595fb3f56-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f9847fd513250000728a9a5" tvg-id="5f9847fd513250000728a9a5" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" tvg-chno="357" group-title="Music" , MTV Ridiculousness
+https://r.mjh.nz/PlutoTV/5f9847fd513250000728a9a5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f98471110cca20007d39f76" tvg-id="5f98471110cca20007d39f76" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" tvg-chno="460" group-title="Music" , MTV Unplugged
+https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245d15062cd1f00070a2338" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" tvg-chno="461" group-title="Music" , MTV Music
+https://r.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245cf8ac69baf000718295a" tvg-id="6245cf8ac69baf000718295a" tvg-logo="https://images.pluto.tv/channels/6245cf8ac69baf000718295a/colorLogoPNG.png" tvg-chno="462" group-title="Music" , MTV Approved Hip Hop
+https://r.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245ccd9e1977a00079e2fba" tvg-id="6245ccd9e1977a00079e2fba" tvg-logo="https://images.pluto.tv/channels/6245ccd9e1977a00079e2fba/colorLogoPNG.png" tvg-chno="463" group-title="Music" , MTV German Music
+https://r.mjh.nz/PlutoTV/6245ccd9e1977a00079e2fba-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245d05006d79800081fff9c" tvg-id="6245d05006d79800081fff9c" tvg-logo="https://images.pluto.tv/channels/6245d05006d79800081fff9c/colorLogoPNG.png" tvg-chno="464" group-title="Music" , MTV Movie Hits
+https://r.mjh.nz/PlutoTV/6245d05006d79800081fff9c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245cdb15d931000073ee4ff" tvg-id="6245cdb15d931000073ee4ff" tvg-logo="https://images.pluto.tv/channels/6245cdb15d931000073ee4ff/colorLogoPNG.png" tvg-chno="465" group-title="Music" , MTV RockZone
+https://r.mjh.nz/PlutoTV/6245cdb15d931000073ee4ff-alt.m3u8
+#EXTINF:-1 channel-id="pluto-622f46a3769a6d0007429de0" tvg-id="622f46a3769a6d0007429de0" tvg-logo="https://images.pluto.tv/channels/622f46a3769a6d0007429de0/colorLogoPNG.png" tvg-chno="466" group-title="Music" , MTV Party
+https://r.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65a54f45dfed0300081be691" tvg-id="65a54f45dfed0300081be691" tvg-logo="https://images.pluto.tv/channels/65a54f45dfed0300081be691/colorLogoPNG.png" tvg-chno="501" group-title="Music" , MTV Original Version
+https://r.mjh.nz/PlutoTV/65a54f45dfed0300081be691-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ea8147c6e3dd70007deab3d" tvg-id="5ea8147c6e3dd70007deab3d" tvg-logo="https://images.pluto.tv/channels/5ea8147c6e3dd70007deab3d/colorLogoPNG.png" tvg-chno="502" group-title="Music" , MTV The Hills (OV)
+https://r.mjh.nz/PlutoTV/5ea8147c6e3dd70007deab3d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645111f1d8436e00081bb2bd" tvg-id="645111f1d8436e00081bb2bd" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" tvg-chno="383" group-title="Music" , MTV Drag
+https://r.mjh.nz/PlutoTV/645111f1d8436e00081bb2bd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1212fb81e85c00077ae9ef" tvg-id="5f1212fb81e85c00077ae9ef" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" tvg-chno="385" group-title="Music" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5f1212fb81e85c00077ae9ef-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625463563b8ddc0007134aeb" tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" tvg-chno="389" group-title="Music" , MTV Shore
+https://r.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61a528267e1b8b0007357920" tvg-id="61a528267e1b8b0007357920" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" tvg-chno="391" group-title="Music" , MTV Com o Ex
+https://r.mjh.nz/PlutoTV/61a528267e1b8b0007357920-alt.m3u8
+#EXTINF:-1 channel-id="pluto-620fdc7d8a36fc000710e3ba" tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" tvg-chno="395" group-title="Music" , MTV Jovens e Mães
+https://r.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8
+#EXTINF:-1 channel-id="pluto-626c2a3502d84a0007cec817" tvg-id="626c2a3502d84a0007cec817" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" tvg-chno="397" group-title="Music" , MTV Catfish
+https://r.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f6108d8cc331900075e98e4" tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" tvg-chno="399" group-title="Music" , MTV Are you the One?
+https://r.mjh.nz/PlutoTV/5f6108d8cc331900075e98e4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63988b61c8d285000798a22a" tvg-id="63988b61c8d285000798a22a" tvg-logo="https://images.pluto.tv/channels/63988b61c8d285000798a22a/colorLogoPNG.png" tvg-chno="401" group-title="Music" , MTV Just Tattoo of Us
+https://r.mjh.nz/PlutoTV/63988b61c8d285000798a22a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047fbdbbb776a0007e7f2ff" tvg-id="6047fbdbbb776a0007e7f2ff" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" tvg-chno="1502" group-title="Music" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047ff2e5e61cf000784e4da" tvg-id="6047ff2e5e61cf000784e4da" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" tvg-chno="1505" group-title="Music" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" tvg-chno="383" group-title="Music" , MTV Drag
+https://r.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-chno="385" group-title="Music" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-chno="389" group-title="Music" , MTV Shore
+https://r.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" tvg-chno="391" group-title="Music" , MTV Con Mi Ex
+https://r.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-chno="393" group-title="Music" , MTV Ridiculousness
+https://r.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-chno="395" group-title="Music" , MTV Teen Mom
+https://r.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-chno="397" group-title="Music" , MTV Catfish
+https://r.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Music" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Music" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Music" , MTV Flow Latino
+https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64510d3ad3fdde00080951f2" tvg-id="64510d3ad3fdde00080951f2" tvg-logo="https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png" tvg-chno="383" group-title="Music" , MTV Drag
+https://r.mjh.nz/PlutoTV/64510d3ad3fdde00080951f2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5fab088b3279760007d4e4fd" tvg-id="5fab088b3279760007d4e4fd" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" tvg-chno="385" group-title="Music" , MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" tvg-chno="387" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61a52615cbef2500072876e2" tvg-id="61a52615cbef2500072876e2" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png" tvg-chno="389" group-title="Music" , MTV Shore
+https://r.mjh.nz/PlutoTV/61a52615cbef2500072876e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638693db857364000781b471" tvg-id="638693db857364000781b471" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png" tvg-chno="391" group-title="Music" , MTV Con Mi Ex
+https://r.mjh.nz/PlutoTV/638693db857364000781b471-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" tvg-chno="393" group-title="Music" , MTV Ridiculousness
+https://r.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-620fd9f4afb9a80007a9c6d5" tvg-id="620fd9f4afb9a80007a9c6d5" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" tvg-chno="395" group-title="Music" , MTV Teen Mom
+https://r.mjh.nz/PlutoTV/620fd9f4afb9a80007a9c6d5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-625461ef01f27a0007976ad1" tvg-id="625461ef01f27a0007976ad1" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png" tvg-chno="397" group-title="Music" , MTV Catfish
+https://r.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Music" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6047fd723b5bd00007de7092" tvg-id="6047fd723b5bd00007de7092" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" tvg-chno="1505" group-title="Music" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/6047fd723b5bd00007de7092-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Music" , MTV Flow Latino
+https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f92b56a367e170007cd43f4" tvg-id="5f92b56a367e170007cd43f4" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-chno="720" group-title="Music" , MTV CLASSICS
+https://r.mjh.nz/PlutoTV/5f92b56a367e170007cd43f4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" tvg-chno="800" group-title="Music" , VH1+ Music Legends
+https://r.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6552085aab05240008b05f6c" tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" tvg-chno="805" group-title="Music" , VH1+ Back to 90's
+https://r.mjh.nz/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-636a4431b7fca900075039e2" tvg-id="636a4431b7fca900075039e2" tvg-logo="https://images.pluto.tv/channels/636a4431b7fca900075039e2/colorLogoPNG.png" tvg-chno="810" group-title="Music" , VH1+ Love Music
+https://r.mjh.nz/PlutoTV/636a4431b7fca900075039e2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-636a4173e34fd50007534542" tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" tvg-chno="815" group-title="Music" , VH1+ Rock!
+https://r.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63724270c7c2360007b170e8" tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" tvg-chno="820" group-title="Music" , VH1+ Canzoni Italiane
+https://r.mjh.nz/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6465fef47cb4b100086ee7bd" tvg-id="6465fef47cb4b100086ee7bd" tvg-logo="https://images.pluto.tv/channels/6465fef47cb4b100086ee7bd/colorLogoPNG.png" tvg-chno="825" group-title="Music" , VH1+ Hip Hop & Rap
+https://r.mjh.nz/PlutoTV/6465fef47cb4b100086ee7bd-alt.m3u8
+#EXTINF:-1 channel-id="pluto-632afc466699570007ed1106" tvg-id="632afc466699570007ed1106" tvg-logo="https://images.pluto.tv/channels/632afc466699570007ed1106/colorLogoPNG.png" tvg-chno="58" group-title="Music" , Best of MTV
+https://r.mjh.nz/PlutoTV/632afc466699570007ed1106-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63e38b53c111bc0008ee5cf8" tvg-id="63e38b53c111bc0008ee5cf8" tvg-logo="https://images.pluto.tv/channels/63e38b53c111bc0008ee5cf8/colorLogoPNG.png" tvg-chno="79" group-title="Music" , MTV Cribs
+https://r.mjh.nz/PlutoTV/63e38b53c111bc0008ee5cf8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6422d93bdbdaaa000858cd2d" tvg-id="6422d93bdbdaaa000858cd2d" tvg-logo="https://images.pluto.tv/channels/6422d93bdbdaaa000858cd2d/colorLogoPNG.png" tvg-chno="331" group-title="Music" , Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/6422d93bdbdaaa000858cd2d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63da30b52e477400081ccdf1" tvg-id="63da30b52e477400081ccdf1" tvg-logo="https://images.pluto.tv/channels/63da30b52e477400081ccdf1/colorLogoPNG.png" tvg-chno="332" group-title="Music" , MTV Queens of Pop
+https://r.mjh.nz/PlutoTV/63da30b52e477400081ccdf1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6492e7e4d2c47c0008432967" tvg-id="6492e7e4d2c47c0008432967" tvg-logo="https://images.pluto.tv/channels/6492e7e4d2c47c0008432967/colorLogoPNG.png" tvg-chno="333" group-title="Music" , MTV Summer Hits
+https://r.mjh.nz/PlutoTV/6492e7e4d2c47c0008432967-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6331a50a0eba1900080bd911" tvg-id="6331a50a0eba1900080bd911" tvg-logo="https://images.pluto.tv/channels/6331a50a0eba1900080bd911/colorLogoPNG.png" tvg-chno="334" group-title="Music" , MTV Movie Hits
+https://r.mjh.nz/PlutoTV/6331a50a0eba1900080bd911-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6329cd8809e10300073236c2" tvg-id="6329cd8809e10300073236c2" tvg-logo="https://images.pluto.tv/channels/6329cd8809e10300073236c2/colorLogoPNG.png" tvg-chno="335" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/6329cd8809e10300073236c2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638f2d9aa530b200072ec8ef" tvg-id="638f2d9aa530b200072ec8ef" tvg-logo="https://images.pluto.tv/channels/638f2d9aa530b200072ec8ef/colorLogoPNG.png" tvg-chno="337" group-title="Music" , MTV Love Music
+https://r.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61c1e14e5df1da0007bee0e3" tvg-id="61c1e14e5df1da0007bee0e3" tvg-logo="https://images.pluto.tv/channels/61c1e14e5df1da0007bee0e3/colorLogoPNG.png" tvg-chno="340" group-title="Music" , MTV Unplugged
+https://r.mjh.nz/PlutoTV/61c1e14e5df1da0007bee0e3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638f2e06cc9fc2000798c410" tvg-id="638f2e06cc9fc2000798c410" tvg-logo="https://images.pluto.tv/channels/638f2e06cc9fc2000798c410/colorLogoPNG.png" tvg-chno="342" group-title="Music" , MTV RockZone
+https://r.mjh.nz/PlutoTV/638f2e06cc9fc2000798c410-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a622bd3fdde00081e24fa" tvg-id="645a622bd3fdde00081e24fa" tvg-logo="https://images.pluto.tv/channels/645a622bd3fdde00081e24fa/colorLogoPNG.png" tvg-chno="343" group-title="Music" , MTV Pride
+https://r.mjh.nz/PlutoTV/645a622bd3fdde00081e24fa-alt.m3u8
+#EXTINF:-1 channel-id="pluto-632afdf820e83e000710ea12" tvg-id="632afdf820e83e000710ea12" tvg-logo="https://images.pluto.tv/channels/632afdf820e83e000710ea12/colorLogoPNG.png" tvg-chno="77" group-title="Music" , Best of MTV
+https://r.mjh.nz/PlutoTV/632afdf820e83e000710ea12-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63c6abcf829c8500079800a2" tvg-id="63c6abcf829c8500079800a2" tvg-logo="https://images.pluto.tv/channels/63c6abcf829c8500079800a2/colorLogoPNG.png" tvg-chno="93" group-title="Music" , MTV Cribs
+https://r.mjh.nz/PlutoTV/63c6abcf829c8500079800a2-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6422d8c5a3ade70008f519de" tvg-id="6422d8c5a3ade70008f519de" tvg-logo="https://images.pluto.tv/channels/6422d8c5a3ade70008f519de/colorLogoPNG.png" tvg-chno="314" group-title="Music" , Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/6422d8c5a3ade70008f519de-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6492e8f04c014a0008394773" tvg-id="6492e8f04c014a0008394773" tvg-logo="https://images.pluto.tv/channels/6492e8f04c014a0008394773/colorLogoPNG.png" tvg-chno="315" group-title="Music" , MTV Summer Hits
+https://r.mjh.nz/PlutoTV/6492e8f04c014a0008394773-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63da31c1c111bc0008d920d6" tvg-id="63da31c1c111bc0008d920d6" tvg-logo="https://images.pluto.tv/channels/63da31c1c111bc0008d920d6/colorLogoPNG.png" tvg-chno="319" group-title="Music" , MTV Queens of Pop
+https://r.mjh.nz/PlutoTV/63da31c1c111bc0008d920d6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6331a5f83eb57800074d4a0d" tvg-id="6331a5f83eb57800074d4a0d" tvg-logo="https://images.pluto.tv/channels/6331a5f83eb57800074d4a0d/colorLogoPNG.png" tvg-chno="320" group-title="Music" , MTV Movie Hits
+https://r.mjh.nz/PlutoTV/6331a5f83eb57800074d4a0d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6329cf28ef924b00078a9dc1" tvg-id="6329cf28ef924b00078a9dc1" tvg-logo="https://images.pluto.tv/channels/6329cf28ef924b00078a9dc1/colorLogoPNG.png" tvg-chno="321" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/6329cf28ef924b00078a9dc1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61c0aec95deef000075acd09" tvg-id="61c0aec95deef000075acd09" tvg-logo="https://images.pluto.tv/channels/61c0aec95deef000075acd09/colorLogoPNG.png" tvg-chno="322" group-title="Music" , MTV Unplugged
+https://r.mjh.nz/PlutoTV/61c0aec95deef000075acd09-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638f2e6c7a07960007e52913" tvg-id="638f2e6c7a07960007e52913" tvg-logo="https://images.pluto.tv/channels/638f2e6c7a07960007e52913/colorLogoPNG.png" tvg-chno="323" group-title="Music" , MTV Love Music
+https://r.mjh.nz/PlutoTV/638f2e6c7a07960007e52913-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638f2e8fedb23c000859345e" tvg-id="638f2e8fedb23c000859345e" tvg-logo="https://images.pluto.tv/channels/638f2e8fedb23c000859345e/colorLogoPNG.png" tvg-chno="326" group-title="Music" , MTV RockZone
+https://r.mjh.nz/PlutoTV/638f2e8fedb23c000859345e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a6296ee6a2f00080b8c6d" tvg-id="645a6296ee6a2f00080b8c6d" tvg-logo="https://images.pluto.tv/channels/645a6296ee6a2f00080b8c6d/colorLogoPNG.png" tvg-chno="327" group-title="Music" , MTV Pride
+https://r.mjh.nz/PlutoTV/645a6296ee6a2f00080b8c6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-632aff5e44111b00076ad9b1" tvg-id="632aff5e44111b00076ad9b1" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG.png" tvg-chno="55" group-title="Music" , Best of MTV
+https://r.mjh.nz/PlutoTV/632aff5e44111b00076ad9b1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6478aacf76a19300086c9050" tvg-id="6478aacf76a19300086c9050" tvg-logo="https://images.pluto.tv/channels/6478aacf76a19300086c9050/colorLogoPNG.png" tvg-chno="67" group-title="Music" , MTV Cribs
+https://r.mjh.nz/PlutoTV/6478aacf76a19300086c9050-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6448e7482858cb0008bed214" tvg-id="6448e7482858cb0008bed214" tvg-logo="https://images.pluto.tv/channels/6448e7482858cb0008bed214/colorLogoPNG.png" tvg-chno="316" group-title="Music" , Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/6448e7482858cb0008bed214-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63da41dba9957100087293fc" tvg-id="63da41dba9957100087293fc" tvg-logo="https://images.pluto.tv/channels/63da41dba9957100087293fc/colorLogoPNG.png" tvg-chno="318" group-title="Music" , MTV Queens of Pop
+https://r.mjh.nz/PlutoTV/63da41dba9957100087293fc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6492dd83115d060008b511bc" tvg-id="6492dd83115d060008b511bc" tvg-logo="https://images.pluto.tv/channels/6492dd83115d060008b511bc/colorLogoPNG.png" tvg-chno="319" group-title="Music" , MTV Summer Hits
+https://r.mjh.nz/PlutoTV/6492dd83115d060008b511bc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6331a4df44111b00076b15f7" tvg-id="6331a4df44111b00076b15f7" tvg-logo="https://images.pluto.tv/channels/6331a4df44111b00076b15f7/colorLogoPNG.png" tvg-chno="320" group-title="Music" , MTV Movie Hits
+https://r.mjh.nz/PlutoTV/6331a4df44111b00076b15f7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6329ceeac55af500083077e3" tvg-id="6329ceeac55af500083077e3" tvg-logo="https://images.pluto.tv/channels/6329ceeac55af500083077e3/colorLogoPNG.png" tvg-chno="321" group-title="Music" , MTV Classic
+https://r.mjh.nz/PlutoTV/6329ceeac55af500083077e3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62beb7a0f9db450007a123c5" tvg-id="62beb7a0f9db450007a123c5" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png" tvg-chno="324" group-title="Music" , MTV Love Music
+https://r.mjh.nz/PlutoTV/62beb7a0f9db450007a123c5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-61c09489197fe600073c0570" tvg-id="61c09489197fe600073c0570" tvg-logo="https://images.pluto.tv/channels/61c09489197fe600073c0570/colorLogoPNG.png" tvg-chno="325" group-title="Music" , MTV Unplugged
+https://r.mjh.nz/PlutoTV/61c09489197fe600073c0570-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638f2baf818a0c00072aa079" tvg-id="638f2baf818a0c00072aa079" tvg-logo="https://images.pluto.tv/channels/638f2baf818a0c00072aa079/colorLogoPNG.png" tvg-chno="327" group-title="Music" , MTV RockZone
+https://r.mjh.nz/PlutoTV/638f2baf818a0c00072aa079-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a61a3d3fdde00081e2206" tvg-id="645a61a3d3fdde00081e2206" tvg-logo="https://images.pluto.tv/channels/645a61a3d3fdde00081e2206/colorLogoPNG.png" tvg-chno="328" group-title="Music" , MTV Pride
+https://r.mjh.nz/PlutoTV/645a61a3d3fdde00081e2206-alt.m3u8
+#EXTINF:-1 channel-id="samsung-ATAK3504517A" tvg-id="ATAK3504517A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAK3504517A_20221026T004148SQUARE.png_20221026004148.png" tvg-chno="4110" group-title="Music" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/ATAK3504517A.m3u8
+#EXTINF:-1 channel-id="samsung-ATAJ7000105F" tvg-id="ATAJ7000105F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ7000105F_20220323T072705SQUARE.png_20220323072708.png" tvg-chno="4130" group-title="Music" , MTV Teen Mom
+https://i.mjh.nz/SamsungTVPlus/ATAJ7000105F.m3u8
+#EXTINF:-1 channel-id="samsung-ATAJ700002OG" tvg-id="ATAJ700002OG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700002OG_20220323T072659SQUARE.png_20220323072702.png" tvg-chno="4132" group-title="Music" , MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/ATAJ700002OG.m3u8
+#EXTINF:-1 channel-id="samsung-CHAK3504517A" tvg-id="CHAK3504517A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAK3504517A_20221026T004554SQUARE.png_20221026004554.png" tvg-chno="4114" group-title="Music" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/CHAK3504517A.m3u8
+#EXTINF:-1 channel-id="samsung-CHAJ700002UB" tvg-id="CHAJ700002UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700002UB_20220323T074416SQUARE.png_20220323074419.png" tvg-chno="4116" group-title="Music" , MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/CHAJ700002UB.m3u8
+#EXTINF:-1 channel-id="samsung-CHAJ700010NR" tvg-id="CHAJ700010NR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHAJ700010NR_20220324T011806SQUARE.png_20220324011809.png" tvg-chno="4136" group-title="Music" , MTV Teen Mom
+https://i.mjh.nz/SamsungTVPlus/CHAJ700010NR.m3u8
+#EXTINF:-1 channel-id="samsung-DEAK3504502A" tvg-id="DEAK3504502A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" tvg-chno="4110" group-title="Music" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/DEAK3504502A.m3u8
+#EXTINF:-1 channel-id="samsung-DEAJ7000105I" tvg-id="DEAJ7000105I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000105I_20220323T072040SQUARE.png_20220323072043.png" tvg-chno="4132" group-title="Music" , MTV Teen Mom
+https://i.mjh.nz/SamsungTVPlus/DEAJ7000105I.m3u8
+#EXTINF:-1 channel-id="samsung-DEAJ7000033P" tvg-id="DEAJ7000033P" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000033P_20220323T072034SQUARE.png_20220323072037.png" tvg-chno="4136" group-title="Music" , MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/DEAJ7000033P.m3u8
+#EXTINF:-1 channel-id="samsung-ESAJ3800003LX" tvg-id="ESAJ3800003LX" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20221026T004500SQUARE.png_20221026004501.png" tvg-chno="4110" group-title="Music" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800003LX.m3u8
+#EXTINF:-1 channel-id="samsung-ESAJ3800006TT" tvg-id="ESAJ3800006TT" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20231213T033347SQUARE.png_20231213033348.png" tvg-chno="4113" group-title="Music" , MTV Cribs
+https://i.mjh.nz/SamsungTVPlus/ESAJ3800006TT.m3u8
+#EXTINF:-1 channel-id="samsung-ESAJ380000226" tvg-id="ESAJ380000226" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20231213T033345SQUARE.png_20231213033345.png" tvg-chno="4115" group-title="Music" , MTV Originals
+https://i.mjh.nz/SamsungTVPlus/ESAJ380000226.m3u8
+#EXTINF:-1 channel-id="samsung-FRAJ3800004CC" tvg-id="FRAJ3800004CC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20221026T004305SQUARE.png_20221026004305.png" tvg-chno="4122" group-title="Music" , MTV Classics
+https://i.mjh.nz/SamsungTVPlus/FRAJ3800004CC.m3u8
+#EXTINF:-1 channel-id="samsung-FRAJ38000050Z" tvg-id="FRAJ38000050Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000050Z_20221026T004306SQUARE.png_20221026004307.png" tvg-chno="4128" group-title="Music" , MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/FRAJ38000050Z.m3u8
+#EXTINF:-1 channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png" tvg-chno="1245" group-title="Music" , MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
