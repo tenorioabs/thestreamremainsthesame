@@ -6,7 +6,13 @@ library(dplyr)
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 library(stringr)
 
-# Função para processar as URLs e retornar o conteúdo
+source("03_funcoes_github.R")
+
+# Lista de URLs
+url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
+              "https://i.mjh.nz/PlutoTV/all.m3u8",
+              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
+
 processa_url <- function(url) {
   response <- tryCatch({
     GET(url)
@@ -18,17 +24,8 @@ processa_url <- function(url) {
   if (is.null(response)) return(NULL)
   
   conteudo <- content(response, "text", encoding = "UTF-8")
-  # Remover cabeçalhos #EXTM3U exceto no primeiro arquivo
-  if (url != url_m3u8[1]) {
-    conteudo <- sub("#EXTM3U.*\n", "", conteudo, perl = TRUE)
-  }
   return(conteudo)
 }
-
-# Lista de URLs
-url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
-              "https://i.mjh.nz/PlutoTV/all.m3u8",
-              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
 
 # Processar URLs e coletar o conteúdo para cada uma
 conteudos <- lapply(url_m3u8, processa_url)
@@ -42,7 +39,6 @@ writeLines(conteudo_final, "minha_lista.m3u8")
 message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
 
 ################################################################################
-# O restante do código para processar, buscar e modificar os canais
 ################################################################################
 
 # Ler o arquivo com os dados dos canais
@@ -55,25 +51,38 @@ canais_buscados <- c("VH1", "MTV")
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
 
+# Definir o novo valor para "group-title"
+novo_group_title <- "Music"
+
 # Inicializar os elementos da lista para cada canal buscado
 for (canal in canais_buscados) {
   resultados_busca[[canal]] <- c()
 }
 
 # Buscar os canais e modificar a tag "group-title"
-canais_encontrados <- ""
+canais_encontrados <- c()
+capturar_proxima_linha <- FALSE
+
 for (linha in linhas) {
+  if (capturar_proxima_linha) {
+    # Adiciona a URL do canal encontrado na lista
+    canais_encontrados <- c(canais_encontrados, linha)
+    capturar_proxima_linha <- FALSE # Reseta o indicador para captura da próxima linha
+    next
+  }
+  
   for (canal in canais_buscados) {
     if (str_detect(linha, fixed(canal))) {
-      # Substituir o valor da tag "group-title" por "Music"
-      linha_modificada <- str_replace(linha, pattern = "group-title=\"[^\"]*\"", replacement = "group-title=\"Music\"")
+      # Substituir o valor da tag "group-title" pelo valor especificado
+      linha_modificada <- str_replace(linha, pattern = "group-title=\"[^\"]*\"", replacement = sprintf("group-title=\"%s\"", novo_group_title))
       
       # Extrair o nome do canal e armazenar na lista de resultados
-      nome_canal <- str_extract(linha, "(?<=,).*$") # Supondo que o nome do canal esteja após a última vírgula
+      nome_canal <- str_extract(linha, "(?<=,).*$")
       resultados_busca[[canal]] <- c(resultados_busca[[canal]], nome_canal)
       
       # Salvar a linha modificada em um vetor temporário para posterior salvamento
       canais_encontrados <- c(canais_encontrados, linha_modificada)
+      capturar_proxima_linha <- TRUE # Seta o indicador para capturar a próxima linha (URL)
       
       break # Interrompe o loop interno uma vez que o canal foi encontrado e modificado
     }
@@ -83,7 +92,7 @@ for (linha in linhas) {
 # Verificar se algum canal foi encontrado e salvar os canais modificados em um novo arquivo
 if (length(canais_encontrados) > 0) {
   writeLines(canais_encontrados, "canais_encontrados_modificados.m3u8")
-  cat("Canais encontrados com a tag 'group-title' modificada para 'Music' foram salvos em 'canais_encontrados_modificados.m3u8'.\n")
+  cat("Canais encontrados com a tag 'group-title' modificada para '", novo_group_title, "' e suas URLs foram salvos em 'canais_encontrados_modificados.m3u8'.\n", sep="")
 }
 
 # Imprime os resultados
@@ -98,11 +107,12 @@ for (canal in names(resultados_busca)) {
 }
 
 ################################################################################
-# Definir os caminhos dos arquivos para a concatenação final
 ################################################################################
 
+# Definir os caminhos dos arquivos
 caminho_lista_original <- "minha_lista.m3u8"
 caminho_lista_modificada <- "canais_encontrados_modificados.m3u8"
+caminho_lista_concatenada <- "minha_lista_concatenada.m3u8"
 
 # Ler os conteúdos dos arquivos
 conteudo_lista_original <- readLines(caminho_lista_original)
@@ -112,9 +122,12 @@ conteudo_lista_modificada <- readLines(caminho_lista_modificada)
 conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 
 # Escrever o conteúdo concatenado em um novo arquivo
-writeLines(conteudo_concatenado, caminho_lista_original)
+writeLines(conteudo_concatenado, caminho_lista_concatenada)
 
-cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_original, "\n")
+cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_concatenada, "\n")
+
+################################################################################
+################################################################################
 
 ################################################################################
 # Finalização e limpeza
