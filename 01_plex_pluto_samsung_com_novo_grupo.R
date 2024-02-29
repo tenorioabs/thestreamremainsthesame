@@ -179,7 +179,7 @@ cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi su
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
-github_windows("Reformulação Geral")
+github_windows("Sobe XML")
 #github_linux("Reformulação Geral")
 
 ################################################################################

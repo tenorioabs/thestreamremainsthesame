@@ -1,0 +1,2 @@
+*.xml filter=lfs diff=lfs merge=lfs -text
+minha_lista_concatenada.xml filter=lfs diff=lfs merge=lfs -text
