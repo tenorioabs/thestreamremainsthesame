@@ -6,8 +6,6 @@ library(dplyr)
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 library(stringr)
 
-source("03_funcoes_github.R")
-
 # Função para processar as URLs e retornar o conteúdo
 processa_url <- function(url) {
   response <- tryCatch({
@@ -119,7 +117,7 @@ writeLines(conteudo_concatenado, caminho_lista_original)
 cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_original, "\n")
 
 ################################################################################
-# Finalização e limpeza...
+# Finalização e limpeza
 ################################################################################
 
 # Definir o caminho do arquivo
