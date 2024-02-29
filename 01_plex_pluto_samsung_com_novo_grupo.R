@@ -6,6 +6,8 @@ library(dplyr)
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
 library(stringr)
 
+source("03_funcoes_github.R")
+
 # Função para processar as URLs e retornar o conteúdo
 processa_url <- function(url) {
   response <- tryCatch({
@@ -18,11 +20,9 @@ processa_url <- function(url) {
   if (is.null(response)) return(NULL)
   
   conteudo <- content(response, "text", encoding = "UTF-8")
-  # Remover tudo após #EXTM3U até o final da linha, inclusive a tag "x-tvg-url" e seus valores
-  conteudo <- gsub("^#EXTM3U.*$", "#EXTM3U", conteudo, perl = TRUE)
-  # Remover cabeçalhos #EXTM3U adicionais, exceto no primeiro arquivo
+  # Remover cabeçalhos #EXTM3U exceto no primeiro arquivo
   if (url != url_m3u8[1]) {
-    conteudo <- sub("#EXTM3U\n", "", conteudo, perl = TRUE)
+    conteudo <- sub("#EXTM3U.*\n", "", conteudo, perl = TRUE)
   }
   return(conteudo)
 }
@@ -42,7 +42,6 @@ conteudo_final <- paste(unlist(conteudos), collapse = "\n")
 writeLines(conteudo_final, "minha_lista.m3u8")
 
 message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
-
 
 ################################################################################
 # O restante do código para processar, buscar e modificar os canais
@@ -123,6 +122,22 @@ cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", cam
 # Finalização e limpeza...
 ################################################################################
 
+# Definir o caminho do arquivo
+caminho_do_arquivo <- "minha_lista.m3u8"
+
+# Ler o arquivo
+linhas <- readLines(caminho_do_arquivo)
+
+# Verificar se a primeira linha contém a tag e substituir a URL
+if (grepl("^#EXTM3U", linhas[1])) {
+  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista.xml"', linhas[1])
+}
+
+# Salvar o arquivo com a modificação
+writeLines(linhas, caminho_do_arquivo)
+
+# Mensagem de confirmação
+cat("A URL na tag 'x-tvg-url' foi atualizada com sucesso no arquivo", caminho_do_arquivo, "\n")
 
 source("02_cria_xml.R")
 source("03_funcoes_github.R")
