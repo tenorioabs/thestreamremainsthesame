@@ -46,7 +46,22 @@ caminho_do_arquivo <- "minha_lista.m3u8"
 linhas <- readLines(caminho_do_arquivo)
 
 # Especificar os nomes dos canais buscados
-canais_buscados <- c("VH1", "MTV")
+canais_buscados <- c("VH1",
+                     "MTV",
+                     "Stingray",
+                     "Live Music Replay",
+                     "CMT",
+                     "Vevo",
+                     "XITE",
+                     "Classica",
+                     "Qello",
+                     "CMusic",
+                     "Djazz",
+                     "Naturescape",
+                     "Now",
+                     "Deluxe Lounge HD",
+                     "K-Pop",
+                     "Pluto TV Fireplace")
 
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
@@ -153,7 +168,7 @@ cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi su
 ################################################################################
 ################################################################################
 
-source("02_cria_xml.R")
+#source("02_cria_xml.R")
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
