@@ -10,9 +10,10 @@ source("03_funcoes_github.R")
 
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
-              "https://i.mjh.nz/PlutoTV/all.m3u8"
-              #"https://i.mjh.nz/SamsungTVPlus/all.m3u8"
-              )
+              "https://i.mjh.nz/PlutoTV/all.m3u8",
+              "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+              "http://m3u4u.com/m3u/m/4me1pvz5m2twn99p9y36", #merged github public = https://github.com/iptv-org/iptv
+              "http://m3u4u.com/m3u/26p5n3kz2waxx5p6nv7j") #edited meu tedio = https://www.meutedio.com/p/lista-iptv-com-canais-gratis-e-legais.html
 
 processa_url <- function(url) {
   response <- tryCatch({
@@ -48,7 +49,37 @@ linhas <- readLines(caminho_do_arquivo)
 
 # Especificar os nomes dos canais buscados
 canais_buscados <- c("VH1",
-                     "MTV",
+                     "Best of MTV", 
+                     "MTV Approved Hip Hop", 
+                     "MTV Biggest Pop", 
+                     "MTV Classic", 
+                     "MTV en español", 
+                     "MTV Flow Latino", 
+                     "MTV Frauen Power", 
+                     "MTV German Music", 
+                     "MTV Just Tattoo of Us", 
+                     "MTV Love", 
+                     "MTV Movie Hits", 
+                     "MTV Music", 
+                     "MTV Original Version", 
+                     "MTV Party", 
+                     "MTV Pluto TV", 
+                     "MTV Rocks", 
+                     "MTV RockZone", 
+                     "MTV Summer Hits", 
+                     "MTV Tattoo a dos", 
+                     "MTV Unplugged", 
+                     "MTV Urban Music", 
+                     "MTV Vergüenza ajena", 
+                     "MTV: Best of", 
+                     "Yo! MTV Raps Classic", 
+                     "BMTV ", 
+                     "IFM TV", 
+                     "KMTV", 
+                     "Littoral FM", 
+                     "MTV Beats", 
+                     "MTV Hits France", 
+                     "Pluto TV MTV", 
                      "Stingray",
                      "Live Music Replay",
                      "CMT",
