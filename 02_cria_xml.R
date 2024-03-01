@@ -4,7 +4,8 @@ library(httr)
 # URLs dos arquivos XML
 urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/PlutoTV/all.xml",
-          "https://i.mjh.nz/SamsungTVPlus/all.xml")
+          "https://i.mjh.nz/SamsungTVPlus/all.xml",
+          "http://m3u4u.com/epg/3wk1y2589vhzzrerngz7") # epg ott edited
 
 # Download e remoção do cabeçalho para cada URL
 xml_texts <- lapply(urls, function(url) {
