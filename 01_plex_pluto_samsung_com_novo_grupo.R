@@ -12,9 +12,7 @@ source("03_funcoes_github.R")
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-              "http://m3u4u.com/m3u/m/4me1pvz5m2twn99p9y36", #merged github public = https://github.com/iptv-org/iptv
-              "http://m3u4u.com/m3u/26p5n3kz2waxx5p6nv7j", #meu tedio edited = https://www.meutedio.com/p/lista-iptv-com-canais-gratis-e-legais.html
-              "http://m3u4u.com/m3u/5g28ne1gjpsvvpz1nzpe") #samsungBRA edited
+              "http://m3u4u.com/m3u/m/73z1p37k9vaq62mpwy6j") #merged + edited
 
 processa_url <- function(url) {
   response <- tryCatch({
