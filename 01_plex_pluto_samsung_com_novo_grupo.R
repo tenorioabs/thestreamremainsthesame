@@ -11,8 +11,7 @@ source("03_funcoes_github.R")
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
-              "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-              "http://m3u4u.com/m3u/m/g1rd82k597h6we7pkqej") #merged m3u4u
+              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
 
 processa_url <- function(url) {
   response <- tryCatch({
