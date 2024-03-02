@@ -2063,6 +2063,9 @@ https://r.mjh.nz/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61325c4f982acd000723287e" tvg-id="61325c4f982acd000723287e" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" tvg-chno="660" group-title="USA" , Classic TV Crime Drama
 https://r.mjh.nz/PlutoTV/61325c4f982acd000723287e-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-6549341853fc9700083901ac" tvg-id="6549341853fc9700083901ac" tvg-logo="https://images.pluto.tv/channels/6549341853fc9700083901ac/colorLogoPNG.png" tvg-chno="670" group-title="USA" , Universal Crime
+https://r.mjh.nz/PlutoTV/6549341853fc9700083901ac-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-60f754f98185580007eb0754" tvg-id="60f754f98185580007eb0754" tvg-logo="https://images.pluto.tv/channels/60f754f98185580007eb0754/colorLogoPNG.png" tvg-chno="680" group-title="USA" , Matlock
 https://r.mjh.nz/PlutoTV/60f754f98185580007eb0754-alt.m3u8
 
@@ -2222,7 +2225,7 @@ https://r.mjh.nz/PlutoTV/654930a8346f420008d3b0b8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dae0b4841a7d0000938ddbd" tvg-id="5dae0b4841a7d0000938ddbd" tvg-logo="https://images.pluto.tv/channels/5dae0b4841a7d0000938ddbd/colorLogoPNG.png" tvg-chno="1320" group-title="USA" , Court TV
 https://r.mjh.nz/PlutoTV/5dae0b4841a7d0000938ddbd-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6000a5a9e767980007b497ca" tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG.png" tvg-chno="1330" group-title="USA" , Crime 360
+#EXTINF:-1 channel-id="pluto-6000a5a9e767980007b497ca" tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG.png" tvg-chno="1330" group-title="USA" , Crime 360 by A&E
 https://r.mjh.nz/PlutoTV/6000a5a9e767980007b497ca-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5e1f7e089f23700009d66303" tvg-id="5e1f7e089f23700009d66303" tvg-logo="https://images.pluto.tv/channels/5e1f7e089f23700009d66303/colorLogoPNG.png" tvg-chno="1380" group-title="USA" , COPS
@@ -2471,11 +2474,11 @@ https://r.mjh.nz/PlutoTV/5bdcdf1e851dd5632e2c11d1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f8a02476b72230007e62b7d" tvg-id="5f8a02476b72230007e62b7d" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" tvg-chno="2510" group-title="USA" , HSN
 https://r.mjh.nz/PlutoTV/5f8a02476b72230007e62b7d-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5268abcd0ce20a8472000114" tvg-id="5268abcd0ce20a8472000114" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" tvg-chno="2520" group-title="USA" , Pluto TV News
-https://r.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-60d39387706fe50007fda8e8" tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" tvg-chno="2520" group-title="USA" , PBR RidePass
 https://r.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5268abcd0ce20a8472000114" tvg-id="5268abcd0ce20a8472000114" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" tvg-chno="2520" group-title="USA" , Pluto TV News
+https://r.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5a6b92f6e22a617379789618" tvg-id="5a6b92f6e22a617379789618" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" tvg-chno="2530" group-title="USA" , CBS News
 https://r.mjh.nz/PlutoTV/5a6b92f6e22a617379789618-alt.m3u8
@@ -2567,7 +2570,7 @@ https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" tvg-chno="2880" group-title="USA" , PFL MMA
 https://r.mjh.nz/PlutoTV/6334a574605f140007e233c4-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-chno="2890" group-title="USA" , IMPACT Wrestling
+#EXTINF:-1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-chno="2890" group-title="USA" , TNA Wrestling
 https://r.mjh.nz/PlutoTV/59b722526996084038c01e1b-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5417a212ff9fba68282fbf5e" tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" tvg-chno="2900" group-title="USA" , GLORY Kickboxing
@@ -2581,6 +2584,12 @@ https://r.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5fc54366b04b2300072e31af" tvg-id="5fc54366b04b2300072e31af" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" tvg-chno="2940" group-title="USA" , PokerGo
 https://r.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65c69b683ba51e00084534a3" tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" tvg-chno="2970" group-title="USA" , Monster Jam
+https://r.mjh.nz/PlutoTV/65c69b683ba51e00084534a3-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6400f731d200410008f9b339" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" tvg-chno="2980" group-title="USA" , MotorTrend FAST TV
+https://r.mjh.nz/PlutoTV/6400f731d200410008f9b339-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63b48016d9dd51000828fa37" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" tvg-chno="2990" group-title="USA" , POWERNATION
 https://r.mjh.nz/PlutoTV/63b48016d9dd51000828fa37-alt.m3u8
@@ -2618,7 +2627,7 @@ https://r.mjh.nz/PlutoTV/6532e8342cf13100083b404c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6375236f8573640007802129" tvg-id="6375236f8573640007802129" tvg-logo="https://images.pluto.tv/channels/6375236f8573640007802129/colorLogoPNG.png" tvg-chno="3220" group-title="USA" , AspireTV Life
 https://r.mjh.nz/PlutoTV/6375236f8573640007802129-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dc0c78281eddb0009a02d5e" tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" tvg-chno="3240" group-title="USA" , Mixible
+#EXTINF:-1 channel-id="pluto-5dc0c78281eddb0009a02d5e" tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" tvg-chno="3240" group-title="USA" , ET
 https://r.mjh.nz/PlutoTV/5dc0c78281eddb0009a02d5e-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d486b2eeddd9576d66f9066" tvg-id="5d486b2eeddd9576d66f9066" tvg-logo="https://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png" tvg-chno="3250" group-title="USA" , TBN
@@ -14116,6 +14125,8 @@ https://ythls.armelin.one/channel/UCkaUg9b9LplVoJdx1JwwyOg.m3u8
 https://ythls.armelin.one/channel/UCXvGJ608Y8TgJ8lKLv-2WOg.m3u8
 #EXTINF:-1 tvg-id="NG.gr" tvg-name="NG (720p)" tvg-logo="https://i.imgur.com/IcgbJKF.png" group-title="Music",NG (720p)
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png" group-title="Music",NickMusic
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-name="NogoumFMTV (672p) [Not 24/7]" tvg-logo="https://i.imgur.com/krp3kgv.png" group-title="Music",NogoumFMTV (672p) [Not 24/7]
 https://nogoumtv.nrpstream.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70's" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
@@ -14146,8 +14157,6 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 https://stmvideo2.livecastv.com/oneradio/oneradio/playlist.m3u8
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-name="Oxigeno TV (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/n3PweBQ.png" group-title="Music",Oxigeno TV (360p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1 tvg-id="OyeTV.pa" tvg-name="Oye TV (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="Music",Oye TV (480p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 #EXTINF:-1 tvg-id="Panavision.ve" tvg-name="Panavisión (1080p)" tvg-logo="https://i.imgur.com/qj1qBn1.png" group-title="Music",Panavisión (1080p)
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-id="PanikTV.gr" tvg-name="Panik TV (1080p)" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",Panik TV (1080p)
@@ -17156,20 +17165,6 @@ http://p2z.me:80/live/285587127/411739596/4528488.m3u8
 http://p2z.me:80/live/285587127/411739596/4528490.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZÉ COMÉIA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",ZÉ COMÉIA
 http://p2z.me:80/live/285587127/411739596/4528491.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101 DALMATAS" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",101 DALMATAS
-http://p2z.me:80/live/285587127/411739596/4528382.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A CASA DO MICKEY MOUSE
-http://p2z.me:80/live/285587127/411739596/4528383.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A COISA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/607/full/series.png" group-title="Brazil",A COISA
-http://p2z.me:80/live/285587127/411739596/4528384.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAMILIA ADDAMS" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A FAMILIA ADDAMS
-http://p2z.me:80/live/285587127/411739596/4528385.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A MUMIA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/607/full/series.png" group-title="Brazil",A MUMIA
-http://p2z.me:80/live/285587127/411739596/4528386.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A NOSSA TURMA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A NOSSA TURMA
-http://p2z.me:80/live/285587127/411739596/4528387.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A PEQUENA SEREIA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A PEQUENA SEREIA
-http://p2z.me:80/live/285587127/411739596/4528388.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] 3 Palavrinhas" tvg-logo="http://p2z.me:80/images/fb59eb9cba592b0b10ea848769f8d0bd.png" group-title="Brazil",[24H] 3 Palavrinhas
 http://p2z.me:80/live/285587127/411739596/5386834.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] A Casa do Mickey Mouse" tvg-logo="http://p2z.me:80/images/fb59eb9cba592b0b10ea848769f8d0bd.png" group-title="Brazil",[24H] A Casa do Mickey Mouse
@@ -17600,6 +17595,20 @@ http://p2z.me:80/live/285587127/411739596/5387050.m3u8
 http://p2z.me:80/live/285587127/411739596/5387051.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[24H] Zé Buscapé" tvg-logo="http://p2z.me:80/images/fb59eb9cba592b0b10ea848769f8d0bd.png" group-title="Brazil",[24H] Zé Buscapé
 http://p2z.me:80/live/285587127/411739596/5387053.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="101 DALMATAS" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",101 DALMATAS
+http://p2z.me:80/live/285587127/411739596/4528382.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A CASA DO MICKEY MOUSE
+http://p2z.me:80/live/285587127/411739596/4528383.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A COISA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/607/full/series.png" group-title="Brazil",A COISA
+http://p2z.me:80/live/285587127/411739596/4528384.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A FAMILIA ADDAMS" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A FAMILIA ADDAMS
+http://p2z.me:80/live/285587127/411739596/4528385.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A MUMIA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/607/full/series.png" group-title="Brazil",A MUMIA
+http://p2z.me:80/live/285587127/411739596/4528386.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A NOSSA TURMA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A NOSSA TURMA
+http://p2z.me:80/live/285587127/411739596/4528387.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A PEQUENA SEREIA" tvg-logo="https://uploaddeimagens.com.br/images/004/562/593/full/desenhos.png" group-title="Brazil",A PEQUENA SEREIA
+http://p2z.me:80/live/285587127/411739596/4528388.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALF O ETEIMOSO" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Brazil",ALF O ETEIMOSO
 http://p2z.me:80/live/285587127/411739596/4528493.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BIG BANG: A TEORIA" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SERIES-24-HORAS.png" group-title="Brazil",BIG BANG: A TEORIA
@@ -18302,8 +18311,6 @@ http://p2z.me:80/live/285587127/411739596/5044567.m3u8
 http://p2z.me:80/live/285587127/411739596/4506361.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO BRASILIA SD
 http://p2z.me:80/live/285587127/411739596/4506362.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CAMPINAS H265" tvg-logo="" group-title="Brazil",GLOBO CAMPINAS H265
-http://p2z.me:80/live/285587127/411739596/5044639.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CEARÁ FHD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO CEARÁ FHD
 http://p2z.me:80/live/285587127/411739596/4506363.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CEARÁ HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO CEARÁ HD
@@ -18314,14 +18321,6 @@ http://p2z.me:80/live/285587127/411739596/4506365.m3u8
 http://p2z.me:80/live/285587127/411739596/4506367.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO CURITIBA SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO CURITIBA SD
 http://p2z.me:80/live/285587127/411739596/4506368.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="" group-title="Brazil",GLOBO EPTV CAMPINAS FHD
-http://p2z.me:80/live/285587127/411739596/5044568.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="Brazil",GLOBO EPTV RIBEIRÃO PRETO FHD
-http://p2z.me:80/live/285587127/411739596/5044569.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="" group-title="Brazil",GLOBO EPTV SAO CARLOS FHD
-http://p2z.me:80/live/285587127/411739596/5044570.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO EPTV SUL DE MINAS FHD" tvg-logo="" group-title="Brazil",GLOBO EPTV SUL DE MINAS FHD
-http://p2z.me:80/live/285587127/411739596/5044571.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO FLORIANOPOLIS HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO FLORIANOPOLIS HD
 http://p2z.me:80/live/285587127/411739596/4506369.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO FLORIANÓPOLIS SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO FLORIANÓPOLIS SD
@@ -18350,8 +18349,6 @@ http://p2z.me:80/live/285587127/411739596/4506377.m3u8
 http://p2z.me:80/live/285587127/411739596/4506378.m3u8
 #EXTINF:-1 tvg-id="EPSULHD" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO MINAS FHD
 http://p2z.me:80/live/285587127/411739596/4601948.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO MINAS H265" tvg-logo="" group-title="Brazil",GLOBO MINAS H265
-http://p2z.me:80/live/285587127/411739596/5044640.m3u8
 #EXTINF:-1 tvg-id="EPSULHD" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO MINAS HD
 http://p2z.me:80/live/285587127/411739596/4506379.m3u8
 #EXTINF:-1 tvg-id="EPSULHD" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO MINAS SD
@@ -18362,8 +18359,6 @@ http://p2z.me:80/live/285587127/411739596/4506381.m3u8
 http://p2z.me:80/live/285587127/411739596/4506382.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NORDESTE  FHD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO NORDESTE  FHD
 http://p2z.me:80/live/285587127/411739596/4506385.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NORDESTE H265" tvg-logo="" group-title="Brazil",GLOBO NORDESTE H265
-http://p2z.me:80/live/285587127/411739596/5044642.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO NORDESTE HD
 http://p2z.me:80/live/285587127/411739596/4506387.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO NORDESTE SD
@@ -18388,8 +18383,6 @@ http://p2z.me:80/live/285587127/411739596/5044585.m3u8
 http://p2z.me:80/live/285587127/411739596/4506391.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO PERNAMBUCO SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO PERNAMBUCO SD
 http://p2z.me:80/live/285587127/411739596/4506392.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO PORTO ALEGRE H265" tvg-logo="" group-title="Brazil",GLOBO PORTO ALEGRE H265
-http://p2z.me:80/live/285587127/411739596/5044643.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO PORTO ALEGRE SD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO PORTO ALEGRE SD
 http://p2z.me:80/live/285587127/411739596/4506393.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RBS  PORTO ALEGRE HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO RBS  PORTO ALEGRE HD
@@ -18400,8 +18393,6 @@ http://p2z.me:80/live/285587127/411739596/5044586.m3u8
 http://p2z.me:80/live/285587127/411739596/4506396.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="" group-title="Brazil",GLOBO RBS TV CAXIAS DO SUL FHD
 http://p2z.me:80/live/285587127/411739596/5044587.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="" group-title="Brazil",GLOBO RBS TV PASSO FUNDO FHD
-http://p2z.me:80/live/285587127/411739596/5044588.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONICA RONDONIA FHD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO REDE AMAZONICA RONDONIA FHD
 http://p2z.me:80/live/285587127/411739596/4506397.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO REDE AMAZONICA RONDONIA HD
@@ -18412,16 +18403,12 @@ http://p2z.me:80/live/285587127/411739596/4506399.m3u8
 http://p2z.me:80/live/285587127/411739596/4506400.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO REDE AMAZÔNICA MANAUS HD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO REDE AMAZÔNICA MANAUS HD
 http://p2z.me:80/live/285587127/411739596/4506401.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RIBEIRAO PRETO H265" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO RIBEIRAO PRETO H265
-http://p2z.me:80/live/285587127/411739596/5044644.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO FHD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO RIO FHD
+http://p2z.me:80/live/285587127/411739596/5044645.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO HD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO RIO HD
 http://p2z.me:80/live/285587127/411739596/4506402.m3u8
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO SD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO RIO SD
 http://p2z.me:80/live/285587127/411739596/4506403.m3u8
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO FHD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO RIO FHD
-http://p2z.me:80/live/285587127/411739596/5044645.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="" group-title="Brazil",GLOBO RPC CASCAVEL FHD
-http://p2z.me:80/live/285587127/411739596/5044592.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="" group-title="Brazil",GLOBO RPC CURITIBA FHD
 http://p2z.me:80/live/285587127/411739596/5044593.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC CURITIBA FHD H265" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO RPC CURITIBA FHD H265
@@ -18430,14 +18417,6 @@ http://p2z.me:80/live/285587127/411739596/4506408.m3u8
 http://p2z.me:80/live/285587127/411739596/4506409.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC FOZ DO IGUACU FHD" tvg-logo="" group-title="Brazil",GLOBO RPC FOZ DO IGUACU FHD
 http://p2z.me:80/live/285587127/411739596/5044594.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC LONDRINA FHD" tvg-logo="" group-title="Brazil",GLOBO RPC LONDRINA FHD
-http://p2z.me:80/live/285587127/411739596/5044595.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="" group-title="Brazil",GLOBO RPC MARINGA FHD
-http://p2z.me:80/live/285587127/411739596/5044596.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC TV PARANAVAI FHD" tvg-logo="" group-title="Brazil",GLOBO RPC TV PARANAVAI FHD
-http://p2z.me:80/live/285587127/411739596/5044597.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="" group-title="Brazil",GLOBO RPC TV PONTA GROSSA FHD
-http://p2z.me:80/live/285587127/411739596/5044598.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO SP FHD
 http://p2z.me:80/live/285587127/411739596/4506410.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP H265" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO SP H265
@@ -18446,20 +18425,10 @@ http://p2z.me:80/live/285587127/411739596/4506411.m3u8
 http://p2z.me:80/live/285587127/411739596/4502094.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="http://p2z.me:80/images/a19dc6a4f594eb578961c16bafc2ad12.png" group-title="Brazil",GLOBO SP SD
 http://p2z.me:80/live/285587127/411739596/4502095.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV ANHANGUERA FHD" tvg-logo="" group-title="Brazil",GLOBO TV ANHANGUERA FHD
-http://p2z.me:80/live/285587127/411739596/5044600.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="" group-title="Brazil",GLOBO TV ASA BRANCA FHD
 http://p2z.me:80/live/285587127/411739596/5044601.m3u8
-#EXTINF:-1 tvg-id="Tvbahia.br" tvg-name="GLOBO BAHIA HD²" tvg-logo="" group-title="Brazil",GLOBO BAHIA HD²
-http://p2z.me:80/live/285587127/411739596/5044602.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="" group-title="Brazil",GLOBO TV CABO BRANCO FHD
-http://p2z.me:80/live/285587127/411739596/5044603.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV CENTRO AMERICA CUIABA FHD" tvg-logo="" group-title="Brazil",GLOBO TV CENTRO AMERICA CUIABA FHD
 http://p2z.me:80/live/285587127/411739596/5044604.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV DIARIO MOGI DAS CRUZES FHD" tvg-logo="" group-title="Brazil",GLOBO TV DIARIO MOGI DAS CRUZES FHD
-http://p2z.me:80/live/285587127/411739596/5044606.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV FRONTEIRA P. PRUDENTE FHD" tvg-logo="" group-title="Brazil",GLOBO TV FRONTEIRA P. PRUDENTE FHD
-http://p2z.me:80/live/285587127/411739596/5044607.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="" group-title="Brazil",GLOBO TV GAZETA ALAGOAS FHD
 http://p2z.me:80/live/285587127/411739596/5044608.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO TV GAZETA VITÓRIA FHD" tvg-logo="" group-title="Brazil",GLOBO TV GAZETA VITÓRIA FHD
@@ -18702,20 +18671,16 @@ http://p2z.me:80/live/285587127/411739596/4529620.m3u8
 http://p2z.me:80/live/285587127/411739596/4529621.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GLOBO VANG. TAUBATE FHD" tvg-logo="https://i.ibb.co/SNTCRw8/globo.png" group-title="Brazil",GLOBO VANG. TAUBATE FHD
 http://p2z.me:80/live/285587127/411739596/4529622.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD ALTERNATIVO FHD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD ALTERNATIVO FHD
+http://p2z.me:80/live/285587127/411739596/2548698.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD ALTERNATIVO HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD ALTERNATIVO HD
 http://p2z.me:80/live/285587127/411739596/1159179.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD CAMPINAS HD
 http://p2z.me:80/live/285587127/411739596/53224.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV 4K" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV 4K
-http://p2z.me:80/live/285587127/411739596/2548697.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD ALTERNATIVO FHD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD ALTERNATIVO FHD
-http://p2z.me:80/live/285587127/411739596/2548698.m3u8
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD MINAS HD
 http://p2z.me:80/live/285587127/411739596/3385101.m3u8
 #EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS SD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD MINAS SD
 http://p2z.me:80/live/285587127/411739596/1159192.m3u8
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD²" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD SP FHD²
-http://p2z.me:80/live/285587127/411739596/2548704.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ FHD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD RJ FHD
 http://p2z.me:80/live/285587127/411739596/2275380.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD RJ HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD RJ HD
@@ -18724,8 +18689,12 @@ http://p2z.me:80/live/285587127/411739596/53226.m3u8
 http://p2z.me:80/live/285587127/411739596/4573333.m3u8
 #EXTINF:-1 tvg-id="RecordTV RS" tvg-name="RECORD RS SD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD RS SD
 http://p2z.me:80/live/285587127/411739596/4573334.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP FHD²" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD SP FHD²
+http://p2z.me:80/live/285587127/411739596/2548704.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP H265" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORD SP H265
 http://p2z.me:80/live/285587127/411739596/1159199.m3u8
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV 4K" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV 4K
+http://p2z.me:80/live/285587127/411739596/2548697.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV H265" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV H265
 http://p2z.me:80/live/285587127/411739596/2548747.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV HD
@@ -18746,8 +18715,6 @@ http://p2z.me:80/live/285587127/411739596/2676938.m3u8
 http://p2z.me:80/live/285587127/411739596/2676948.m3u8
 #EXTINF:-1 tvg-id="RICTVCuritibaHD.br" tvg-name="RECORDTV PARANAIBA UBERLANDIA HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV PARANAIBA UBERLANDIA HD
 http://p2z.me:80/live/285587127/411739596/2676952.m3u8
-#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORDTV SP HD²" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV SP HD²
-http://p2z.me:80/live/285587127/411739596/2676959.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV RJ HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV RJ HD
 http://p2z.me:80/live/285587127/411739596/2314114.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV SIC TV RONDONIA HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV SIC TV RONDONIA HD
@@ -18762,6 +18729,8 @@ http://p2z.me:80/live/285587127/411739596/2548748.m3u8
 http://p2z.me:80/live/285587127/411739596/2548749.m3u8
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORDTV SP HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV SP HD
 http://p2z.me:80/live/285587127/411739596/2548750.m3u8
+#EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORDTV SP HD²" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV SP HD²
+http://p2z.me:80/live/285587127/411739596/2676959.m3u8
 #EXTINF:-1 tvg-id="RecordTV São Paulo HD" tvg-name="RECORDTV SP SD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV SP SD
 http://p2z.me:80/live/285587127/411739596/2548751.m3u8
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORDTV VILA REAL HD" tvg-logo="http://p2z.me:80/images/be79c455d61790fee8ecebac1a2c5ba9.png" group-title="Brazil",RECORDTV VILA REAL HD
