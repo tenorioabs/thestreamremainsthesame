@@ -236,7 +236,7 @@ cat("O arquivo", arquivo_saida, "foi criado com sucesso na raiz do projeto.")
 
 ################################################################################
 ################################################################################
-# Bloco 6, atualzia GitHub
+# Bloco 6, atualiza GitHub
 
 #source("02_cria_xml.R")
 source("03_funcoes_github.R")
