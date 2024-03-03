@@ -1,3 +1,4 @@
+# Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
 # Carregar pacotes necessários
 if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
 library(httr)
@@ -40,6 +41,8 @@ message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
 
 ################################################################################
 ################################################################################
+# Bloco 2, carrega o arquivo "minha_lista.m3u8", aplica Regex e cria novo grupo
+# chamado "Music" e salva no arquivo "canais_encontrados_modificados.m3u8"
 
 # Ler o arquivo com os dados dos canais
 caminho_do_arquivo <- "minha_lista.m3u8"
@@ -158,6 +161,8 @@ for (canal in names(resultados_busca)) {
 
 ################################################################################
 ################################################################################
+# Bloco 3, concatena o arquivo "minha_lista.m3u8" (saída bloco 1) com
+# "canais_encontrados_modificados.m3u8" (saída bloco 2)
 
 # Definir os caminhos dos arquivos
 caminho_lista_original <- "minha_lista.m3u8"
@@ -179,6 +184,7 @@ cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", cam
 ################################################################################
 # Finalização e limpeza
 ################################################################################
+# Bloco 4, apenas modifica a primeira linha indicado xml (epg) default
 
 # Definir o caminho do arquivo
 caminho_do_arquivo <- "minha_lista_concatenada.m3u8"
@@ -198,10 +204,39 @@ linhas_para_manter <- c(linhas[1], linhas[!grepl('x-tvg-url=', linhas) | !grepl(
 writeLines(linhas_para_manter, caminho_do_arquivo)
 
 # Mensagem de confirmação
-cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi substituída conforme solicitado, e as outras linhas com a tag 'x-tvg-url' foram removidas de forma genérica.\n")
+cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi substituída.\n")
 
 ################################################################################
 ################################################################################
+# Bloco 5, substitui nomes de grupos e atualzia o arquivo "minha_lista_concatenada.m3u8"
+
+# Carrega o pacote necessário
+if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
+library(stringr)
+
+# Define o caminho do arquivo de entrada e de saída
+arquivo_entrada <- "minha_lista_concatenada.m3u8"
+arquivo_saida <- "minha_lista_concatenada.m3u8"
+
+# Lê o conteúdo do arquivo de entrada
+conteudo <- readLines(arquivo_entrada, warn = FALSE)
+
+# Define as substituições em um vetor nomeado
+padroes_substituicoes <- c('group-title="USA"' = 'group-title="United States"',
+                           'group-title="United Kingdom"' = 'group-title="Great Britain"')
+
+# Aplica as substituições
+conteudo_modificado <- str_replace_all(conteudo, padroes_substituicoes)
+
+# Salva o conteúdo modificado no arquivo de saída
+writeLines(conteudo_modificado, arquivo_saida)
+
+# Mensagem de conclusão
+cat("O arquivo", arquivo_saida, "foi criado com sucesso na raiz do projeto.")
+
+################################################################################
+################################################################################
+# Bloco 6, atualzia GitHub
 
 #source("02_cria_xml.R")
 source("03_funcoes_github.R")
