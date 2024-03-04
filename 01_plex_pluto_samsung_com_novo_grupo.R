@@ -1,13 +1,6 @@
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
 # Carregar pacotes necessários
-if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
-library(httr)
-if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
-library(dplyr)
-if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
-library(stringr)
-
-source("03_funcoes_github.R")
+source("04_carrega_pacotes.R")
 
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
@@ -182,9 +175,8 @@ writeLines(conteudo_concatenado, caminho_lista_concatenada)
 cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_concatenada, "\n")
 
 ################################################################################
-# Finalização e limpeza
 ################################################################################
-# Bloco 4, apenas modifica a primeira linha indicado xml (epg) default
+# Bloco 4, apenas modifica a primeira linha indicando xml (epg) default
 
 # Definir o caminho do arquivo
 caminho_do_arquivo <- "minha_lista_concatenada.m3u8"
@@ -194,7 +186,7 @@ linhas <- readLines(caminho_do_arquivo)
 
 # Substituir a URL na primeira linha
 if (grepl("^#EXTM3U", linhas[1])) {
-  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml"', linhas[1], perl = TRUE)
+  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz"', linhas[1], perl = TRUE)
 }
 
 # Remover as linhas com a tag x-tvg-url, exceto a primeira linha
@@ -208,7 +200,7 @@ cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi su
 
 ################################################################################
 ################################################################################
-# Bloco 5, substitui nomes de grupos e atualzia o arquivo "minha_lista_concatenada.m3u8"
+# Bloco 5, substitui nomes de grupos e atualiza o arquivo "minha_lista_concatenada.m3u8"
 
 # Carrega o pacote necessário
 if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
@@ -236,13 +228,21 @@ cat("O arquivo", arquivo_saida, "foi criado com sucesso na raiz do projeto.")
 
 ################################################################################
 ################################################################################
-# Bloco 6, atualiza GitHub
+# Bloco 6, cria XML dos links setados
 
-#source("02_cria_xml.R")
+source("02_cria_xml.R") # chama script em forma de função
+
+cria_xml(url_m3u8) # passa lista de lista de URLs m3u8 para função 
+compactar_para_gz("minha_lista_concatenada.xml")
+
+################################################################################
+################################################################################
+# Bloco 7, atualiza GitHub
+
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
-github_windows("Sobe XML")
+github_windows("Automatiza riação de XML")
 #github_linux("Reformulação Geral")
 
 ################################################################################
