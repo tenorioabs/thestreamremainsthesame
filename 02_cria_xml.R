@@ -1,6 +1,3 @@
-library(xml2)
-library(httr)
-
 # URLs dos arquivos XML
 urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/PlutoTV/all.xml",

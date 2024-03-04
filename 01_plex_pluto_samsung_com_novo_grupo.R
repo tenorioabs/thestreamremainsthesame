@@ -1,20 +1,13 @@
+
+source("09_instala_carrega_pacotes.R")
+
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
-# Carregar pacotes necessários
-if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
-library(httr)
-if (!requireNamespace("dplyr", quietly = TRUE)) install.packages("dplyr")
-library(dplyr)
-if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
-library(stringr)
-
-source("03_funcoes_github.R")
-
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-              "http://m3u4u.com/m3u/m/4me1pvz5m2twn99p9y36", # Roku e Stirr merged
-              "http://m3u4u.com/m3u/m/d7148k492ns4kvvpwj5v") # LG, TCL e LocalNow merged
+              "http://m3u4u.com/m3u/m/4me1pvz5m2twn99p9y36", # Roku e Stirr merged (setagem de grupos)
+              "http://m3u4u.com/m3u/m/d7148k492ns4kvvpwj5v") # LG, TCL e LocalNow merged (setagem de grupos)
 
 processa_url <- function(url) {
   response <- tryCatch({

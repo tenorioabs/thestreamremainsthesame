@@ -13871,146 +13871,64 @@ https://i.mjh.nz/Roku/e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Agora TV (BR)" tvg-logo="" group-title="Brazil",Agora TV (BR)
 https://agoratv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Autoallstars (PT)" tvg-logo="" group-title="Brazil",Autoallstars (PT)
-https://extremeinternational-autoallstars-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Originals (BR)" tvg-logo="" group-title="Brazil",Bloomberg Originals (BR)
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals (BR)" tvg-logo="" group-title="Brazil",Bloomberg Originals (BR)
 https://bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV (BR)" tvg-logo="" group-title="Brazil",Bloomberg TV (BR)
+#EXTINF:-1 tvg-id="Bloomberg.br" tvg-name="Bloomberg TV (BR)" tvg-logo="" group-title="Brazil",Bloomberg TV (BR)
 https://bloomberg-bloombergtv-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV (PT)" tvg-logo="" group-title="Brazil",Bloomberg TV (PT)
-https://bloomberg-bloombergtv-3-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNBC (PT)" tvg-logo="" group-title="Brazil",CNBC (PT)
-https://amg01079-nbcuuk-amg01079c1-lg-pt-2035.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgpt/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN FAST (PT)" tvg-logo="" group-title="Brazil",CNN FAST (PT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN Womens Sport (BR) Geo" tvg-logo="" group-title="Brazil",DAZN Womens Sport (BR) Geo
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust International (PT)" tvg-logo="" group-title="Brazil",Dust International (PT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlpt-lgpt/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fail Army International (PT)" tvg-logo="" group-title="Brazil",Fail Army International (PT)
-https://jukin-failarmy-international-1-pt.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust International (BR)" tvg-logo="" group-title="Brazil",Dust International (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fail Army International (BR)" tvg-logo="" group-title="Brazil",Fail Army International (BR)
+https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="Fashion TV (BR)" tvg-logo="" group-title="Brazil",Fashion TV (BR)
+https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIFA Plus (BR)" tvg-logo="" group-title="Brazil",FIFA Plus (BR)
 https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FIFA Plus (PT)" tvg-logo="" group-title="Brazil",FIFA Plus (PT)
-https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fuel TV Brazil PT (BR)" tvg-logo="" group-title="Brazil",Fuel TV Brazil PT (BR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go USA (BR)" tvg-logo="" group-title="Brazil",Go USA (BR)
+https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gusto TV (BR)" tvg-logo="" group-title="Brazil",Gusto TV (BR)
 https://gustotv-gustotv-2-at.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gusto TV (PT)" tvg-logo="" group-title="Brazil",Gusto TV (PT)
-https://gustotv-gustotv-2-pt.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masterchef (BR)" tvg-logo="" group-title="Brazil",Masterchef (BR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchef-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOB TV (BR)" tvg-logo="" group-title="Brazil",MOB TV (BR)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mubeat (BR)" tvg-logo="" group-title="Brazil",Mubeat (BR)
 https://newidco-mubeat-1-br.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New K Food (BR)" tvg-logo="" group-title="Brazil",New K Food (BR)
+https://newidco-newkfood-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Kid (BR)" tvg-logo="" group-title="Brazil",New Kid (BR)
 https://newidco-newkid-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People are Awesome International (BR)" tvg-logo="" group-title="Brazil",People are Awesome International (BR)
 https://jukin-peopleareawesome-international-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="People are Awesome International (PT)" tvg-logo="" group-title="Brazil",People are Awesome International (PT)
-https://jukin-peopleareawesome-international-4-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Playground TV (PT)" tvg-logo="" group-title="Brazil",Playground TV (PT)
-https://playgroundtv-playgroundtv-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quest Jazz (BE)" tvg-logo="" group-title="Brazil",Quest Jazz (BE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbe/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz" tvg-logo="" group-title="Brazil",Qwest Jazz
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (AT)" tvg-logo="" group-title="Brazil",Qwest Jazz (AT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgat/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (AU)" tvg-logo="" group-title="Brazil",Qwest Jazz (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgau/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (BR)" tvg-logo="" group-title="Brazil",Qwest Jazz (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (CH)" tvg-logo="" group-title="Brazil",Qwest Jazz (CH)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgch/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (DK)" tvg-logo="" group-title="Brazil",Qwest Jazz (DK)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgdk/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (MX)" tvg-logo="" group-title="Brazil",Qwest Jazz (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (NL)" tvg-logo="" group-title="Brazil",Qwest Jazz (NL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgnl/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (PT)" tvg-logo="" group-title="Brazil",Qwest Jazz (PT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (SE)" tvg-logo="" group-title="Brazil",Qwest Jazz (SE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgse/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix" tvg-logo="" group-title="Brazil",Qwest Mix
 https://qwest-mix-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (AR)" tvg-logo="" group-title="Brazil",Qwest Mix (AR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgar/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (CL)" tvg-logo="" group-title="Brazil",Qwest Mix (CL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgcl/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (PE)" tvg-logo="" group-title="Brazil",Qwest Mix (PE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgpe/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix alt Geo" tvg-logo="" group-title="Brazil",Qwest Mix alt Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/qwestAAAA-qwest-mix-lg/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Documentaries (PT)" tvg-logo="" group-title="Brazil",Rakuten Documentaries (PT)
-https://rakuten-documentaries-14-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rakuten Family (PT)" tvg-logo="" group-title="Brazil",Rakuten Family (PT)
-https://rakuten-family-14-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT International (BR) Brazil or U.S ip" tvg-logo="" group-title="Brazil",SBT International (BR) Brazil or U.S ip
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tastemade Brazil (BR)" tvg-logo="" group-title="Brazil",Tastemade Brazil (BR)
 https://tastemadept16intl-xumobrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Television Concientes (BR) Geo" tvg-logo="" group-title="Brazil",Television Concientes (BR) Geo
 https://television-concientes-lgbr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pet Collective (BR)" tvg-logo="" group-title="Brazil",The Pet Collective (BR)
 https://jukin-thepetcollective-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Pet Collective (PT)" tvg-logo="" group-title="Brazil",The Pet Collective (PT)
-https://jukin-thepetcollective-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unreel (PT)" tvg-logo="" group-title="Brazil",Unreel (PT)
-https://extremeinternational-unreel-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV" tvg-logo="" group-title="Brazil",Vivaldi TV
-https://mezzo-vivalditv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (BR)" tvg-logo="" group-title="Brazil",Vivaldi TV (BR)
-https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (ES)" tvg-logo="" group-title="Brazil",Vivaldi TV (ES)
-https://mezzo-vivalditv-lg-es.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (IT)" tvg-logo="" group-title="Brazil",Vivaldi TV (IT)
-https://mezzo-vivalditv-lg-it.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (MX)" tvg-logo="" group-title="Brazil",Vivaldi TV (MX)
-https://mezzo-vivalditv-lg-mx.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (ES)" tvg-logo="" group-title="Brazil",Vivaldi TV alt (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-es/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (IT)" tvg-logo="" group-title="Brazil",Vivaldi TV alt (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-it/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (MX)" tvg-logo="" group-title="Brazil",Vivaldi TV alt (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-mx/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WeatherSpy (BR)" tvg-logo="" group-title="Brazil",WeatherSpy (BR)
-https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WeatherSpy (PT)" tvg-logo="" group-title="Brazil",WeatherSpy (PT)
-https://jukin-weatherspy-4-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YGTV (BR)" tvg-logo="" group-title="Brazil",YGTV (BR)
-https://newidco-ygtv-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Originals (PT)" tvg-logo="" group-title="Brazil",Bloomberg Originals (PT)
-https://bloomberg-quicktake-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN FAST (PT)" tvg-logo="" group-title="Brazil",CNN FAST (PT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgpt/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dust International (BR)" tvg-logo="" group-title="Brazil",Dust International (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlbr-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fail Army International (BR)" tvg-logo="" group-title="Brazil",Fail Army International (BR)
-https://jukin-failarmy-international-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (BR)" tvg-logo="" group-title="Brazil",Fashion TV (BR)
-https://fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmstream (PT)" tvg-logo="" group-title="Brazil",Filmstream (PT)
-https://spi-filmstream-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gameplay (PT)" tvg-logo="" group-title="Brazil",Gameplay (PT)
-https://buffactorymedia-gameplay-1-pt.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go USA (BR)" tvg-logo="" group-title="Brazil",Go USA (BR)
-https://brandusa-gousa-1-br.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOB TV (BR)" tvg-logo="" group-title="Brazil",MOB TV (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New K Food (BR)" tvg-logo="" group-title="Brazil",New K Food (BR)
-https://newidco-newkfood-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars (BR)" tvg-logo="" group-title="Brazil",Trace Sport Stars (BR)
 https://tracetv-tracesportsstar-lgbr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV" tvg-logo="" group-title="Brazil",Vivaldi TV
+https://mezzo-vivalditv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WeatherSpy (BR)" tvg-logo="" group-title="Brazil",WeatherSpy (BR)
+https://jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite (DE)" tvg-logo="" group-title="Brazil",Xite (DE)
 https://xite-germany-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite alt (DE)" tvg-logo="" group-title="Brazil",Xite alt (DE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-lg-de/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Hits (UK)" tvg-logo="" group-title="Brazil",Xite Hits (UK)
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Hits alt (UK)" tvg-logo="" group-title="Brazil",Xite Hits alt (UK)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Rock on (EU)" tvg-logo="" group-title="Brazil",Xite Rock on (EU)
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YGTV (BR)" tvg-logo="" group-title="Brazil",YGTV (BR)
+https://newidco-ygtv-1-br.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auto Allstars .BR -TCL" tvg-logo="" group-title="Brazil",Auto Allstars .BR -TCL
 https://extremeinternational-autoallstars-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Originals .BR -TCL" tvg-logo="" group-title="Brazil",Bloomberg Originals .BR -TCL
@@ -14055,6 +13973,8 @@ https://newsmax-newsmaxtv-2-br.tcl.wurl.tv/playlist.m3u8
 https://nosey-2-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosey 3 .BR -TCL" tvg-logo="" group-title="Brazil",Nosey 3 .BR -TCL
 https://nosey-3-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Our Vinyl TV -TCL" tvg-logo="" group-title="Brazil",Our Vinyl TV -TCL
+https://ourvinyltv-ourvinyltv-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Our Vinyl TV .BR -TCL" tvg-logo="" group-title="Brazil",Our Vinyl TV .BR -TCL
 https://ourvinyltv-ourvinyltv-1-br.tcl.wurl.tv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pursuit UP -BR -TCL" tvg-logo="" group-title="Brazil",Pursuit UP -BR -TCL
@@ -14071,250 +13991,62 @@ https://nosey-realnosey-1-br.tcl.wurl.tv/playlist.m3u8
 https://thedesignnetwork-tdn-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unreel .BR -TCL" tvg-logo="" group-title="Brazil",Unreel .BR -TCL
 https://extremeinternational-unreel-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Unreel .CA -TCL" tvg-logo="" group-title="Brazil",Unreel .CA -TCL
-https://extremeinternational-unreel-1-ca.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watch Mojo .BR -TCL" tvg-logo="" group-title="Brazil",Watch Mojo .BR -TCL
 https://watchmojo-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xploration Station .BR -TCL" tvg-logo="" group-title="Brazil",Xploration Station .BR -TCL
 https://srpdigital-xplorationstation-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xploration Station .FR -TCL" tvg-logo="" group-title="Brazil",Xploration Station .FR -TCL
-https://srpdigital-xplorationstation-1-fr.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Local Now Chicago" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61803d30a3e55f4e79688ba2" group-title="United States",Local Now Chicago
-https://catram-packager-018.nextologies.com/6382dce7bdc0a0da/dfc21a5ae16ce638/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFTV (ABC) News 9 Orlando FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/645a9e91b9bd21fb6508ade2" group-title="United States",WFTV (ABC) News 9 Orlando FL
-https://amg00327-coxmediagroup-wftvbreaking-ono-nf6r8.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WSOC (ABC) News 9 Charlotte NC" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64189ac9c1411bf415028d42" group-title="United States",WSOC (ABC) News 9 Charlotte NC
-https://amg00327-coxmediagroup-wsocbreaking-ono-8j7a8.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 12 New York" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="United States",News 12 New York
-https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WPTV (NBC) News 5 West Palm Beach FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609991c3a38cf459ad06e384" group-title="United States",WPTV (NBC) News 5 West Palm Beach FL
-https://ewscripps-wptv-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFXT (FOX) News 25 Boston MA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640247fc9cf570b63e0ddad2" group-title="United States",WFXT (FOX) News 25 Boston MA
-https://amg00327-coxmediagroup-wfxtbreaking-ono-n5e03.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plymouth Rock TV The Best of New England" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/632b7d8b4fc7d1d1f20257f2" group-title="United States",Plymouth Rock TV The Best of New England
-https://na.linear.zype.com/9477c80e-438b-41a3-b2c5-05b028bfb0b2/b3e57cea-b610-45ff-a31e-146c424573a7-hls3/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WHIO (CBS) News 7 Dayton OH" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64189b4a67521ccf390ebe48" group-title="United States",WHIO (CBS) News 7 Dayton OH
-https://amg00327-coxmediagroup-whiobreaking-ono-01a0t.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WJAX (CBS) News 47 Jacksonville FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64024c37cf482a3583039cd3" group-title="United States",WJAX (CBS) News 47 Jacksonville FL
-https://amg00327-coxmediagroup-wjaxbreaking-ono-tv8pt.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WXYZ (ABC) News 7 Detroit MI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63bc48bed56cb04b98043e42" group-title="United States",WXYZ (ABC) News 7 Detroit MI
-https://ewscripps-wxyz-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WPXI (NBC) News 11 Pittsburgh PA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64024d6ba8e0c6228f0a9166" group-title="United States",WPXI (NBC) News 11 Pittsburgh PA
-https://amg00327-coxmediagroup-wpxibreaking-ono-y9dml.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEWS (ABC) News 5 Cleveland OH" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606e0f9a9739652ec518e8c1" group-title="United States",WEWS (ABC) News 5 Cleveland OH
-https://ewscripps-wews-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFTS (ABC) News 28 Tampa FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60abfbcedf0b4c00ad7ffdd9" group-title="United States",WFTS (ABC) News 28 Tampa FL
-https://ewscripps-wfts-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Florida 24 Network Your Florida News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" group-title="United States",Florida 24 Network Your Florida News
-https://ewscripps-fl24-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTHI (CBS) News 10 Terre Haute IN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e80d74cadea23d13e5bb6" group-title="United States",WTHI (CBS) News 10 Terre Haute IN
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6c184b88-1133-416d-8b43-3c54d0167535.m3u8?adMethod=3&sessionId=whtilocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WLFI (CBS) News 18 Lafayette IN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e700964a9f04a2d6c24ac" group-title="United States",WLFI (CBS) News 18 Lafayette IN
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9c6a431c-7560-4a86-b659-fb1dfa3ef17c.m3u8?adMethod=3&sessionId=wlfilocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFFT (FOX) News 55 Fort Wayne IN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e77c6b00e3432392c612d" group-title="United States",WFFT (FOX) News 55 Fort Wayne IN
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/bd34df05-e619-4325-839b-c535b3711666.m3u8?adMethod=3&sessionId=wfftlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WJRT (ABC) News 12 Flint MI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e7d3fccd5537082574b1a" group-title="United States",WJRT (ABC) News 12 Flint MI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cedb338-4fa7-419b-be37-4cc8e7008d9b.m3u8?adMethod=3&sessionId=wjrtlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WMAR (ABC) News 2 Baltimore MD" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624223146f1b2409c80a5fd4" group-title="United States",WMAR (ABC) News 2 Baltimore MD
-https://amg01438-ewscrippscompan-wmar-tubi-jgsl3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRTV (ABC) News 6 Indianapolis IN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624223c6c7c1e91616316bd6" group-title="United States",WRTV (ABC) News 6 Indianapolis IN
-https://amg01438-ewscrippscompan-wrtv-localnow-v2lsz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WCPO (ABC) News 9 Cincinnati OH" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b2baa2c8bc2760815aee2" group-title="United States",WCPO (ABC) News 9 Cincinnati OH
-https://amg01438-ewscrippscompan-wcpo-localnow-0lzo4.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WFTX (FOX) News 36 Naples FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63371a1c6d5f5cd28807491b" group-title="United States",WFTX (FOX) News 36 Naples FL
-https://amg01438-ewscrippscompan-wftx-localnow-2l645.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTVR (CBS) News 6 Richmond VA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b2d687129c0306c1c0892" group-title="United States",WTVR (CBS) News 6 Richmond VA
-https://amg01438-ewscrippscompan-wtvr-localnow-j85c2.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WKBW 7 News Buffalo" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63502b834568a76f0e0dd9bb" group-title="United States",WKBW 7 News Buffalo
-https://amg01438-ewscrippscompan-wkbw-localnow-bz7xs.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WSYM (FOX) News 47 Lansing MI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624224e1686c7938956a4d43" group-title="United States",WSYM (FOX) News 47 Lansing MI
-https://amg01438-ewscrippscompan-wsym-localnow-aqu7h.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTXL Tallahassee FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3081b9782179460216a9" group-title="United States",WTXL Tallahassee FL
-https://amg01438-ewscrippscompan-wtxl-localnow-8g3qx.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTKR Norfolk VA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c48ce40841b67462cd339" group-title="United States",WTKR Norfolk VA
-https://amg01438-ewscrippscompan-wtkr-localnow-lru1w.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WXMI Grand Rapid MI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62701e2ea75ccf667035a4fb" group-title="United States",WXMI Grand Rapid MI
-https://amg01438-ewscrippscompan-wxmi-localnow-60bub.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LEX 18 News - Lexington KY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62702d34d0222670f36cb5c2" group-title="United States",LEX 18 News - Lexington KY
-https://amg01438-ewscrippscompan-wlex-localnow-vbu4r.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WDRB Louisville KY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62d85af1abee8c43960088a2" group-title="United States",WDRB Louisville KY
-https://ssai.field59.com/wdrb2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSHB 41 Kansas City News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/637e77314d7e0e32a20ee136" group-title="United States",KSHB 41 Kansas City News
-https://ewscripps-kshb-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTVF (CBS) News 5 Nashville TN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a80144525bae439702ed52" group-title="United States",WTVF (CBS) News 5 Nashville TN
-https://ewscripps-wtvf-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WAAY (ABC) News 31 Huntsville AL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61687973def9912f866507ed" group-title="United States",WAAY (ABC) News 31 Huntsville AL
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8?adMethod=3&sessionId=waaylocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WPSD (NBC) News 6 Paducah KY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/644139567a297ba15102a702" group-title="United States",WPSD (NBC) News 6 Paducah KY
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/462b8dbb-6c56-4888-a5c5-1dabe0249ed3.m3u8?adMethod=3&sessionId=wpsdlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTVA (NBC) News 9 Tupelo MS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e652d16333c051b63fd46" group-title="United States",WTVA (NBC) News 9 Tupelo MS
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/6cd278c0-3af5-4964-98e0-16487642b91a.m3u8?adMethod=3&sessionId=wtvalocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIMT (CBS) News 3 Rochester MN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e6e2364a9f04a2d6c24ab" group-title="United States",KIMT (CBS) News 3 Rochester MN
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/61905b40-556c-4306-8367-336da5853890.m3u8?adMethod=3&sessionId=kimtlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WEVV (CBS) News 44 Evansville IN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e7220c00b8462f771da42" group-title="United States",WEVV (CBS) News 44 Evansville IN
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1672aee1-19c6-43d3-88c9-972e8fd8c41c.m3u8?adMethod=3&sessionId=wevvlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KRIS (NBC) News 6 Corpus Christi TX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b2bf32c8bc2760815aee3" group-title="United States",KRIS (NBC) News 6 Corpus Christi TX
-https://amg01438-ewscrippscompan-kris-localnow-pjlfm.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KXXV Waco TX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6266f88876324460af1c1a14" group-title="United States",KXXV Waco TX
-https://amg01438-ewscrippscompan-kxxv-localnow-w9q4m.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KATC Lafayette LA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626af80c43c4da1f022f7e93" group-title="United States",KATC Lafayette LA
-https://amg01438-ewscrippscompan-katc-localnow-2v0rv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KJRH Tulsa OK" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c3640b91d4271f52cfbd4" group-title="United States",KJRH Tulsa OK
-https://amg01438-ewscrippscompan-kjrh-localnow-gbckt.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KMTV Omaha NE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/635028651497d4fdd009c171" group-title="United States",KMTV Omaha NE
-https://amg01438-ewscrippscompan-kmtv-localnow-3d3cu.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC 26 WGBA Green Bay" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63502afc4568a76f0e0dd9b9" group-title="United States",NBC 26 WGBA Green Bay
-https://amg01438-ewscrippscompan-wgba-localnow-wz6t5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WTMJ Milwaukee WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627010cfa3af793f09362b62" group-title="United States",WTMJ Milwaukee WI
-https://amg01438-ewscrippscompan-wtmj-localnow-itj3z.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WISC Madison WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/638e1c19b470f4d4360db513" group-title="United States",WISC Madison WI
-https://dai2-playlistserver.aws.syncbak.com/cpl/18642246/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODY0MjI0NiIsImNpZCI6MTc0NDEsInNpZCI6MTE4NiwibWQ1IjoiZTIxODQzNWFkM2FiZDM5OTdmNGNlODdlNjY1ODVhYjkiLCJpYXQiOjE2NzM5MDQzNjEsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.wsPPblDfkBlMtsmTempmTqyJjZ7XJ93YiHDxJJQJqqs
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KADN (FOX) News 15 Lafayette LA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e73db36067a4dc0088e13" group-title="United States",KADN (FOX) News 15 Lafayette LA
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/564982d0-5d6b-4f08-92fb-27d9f72ca6dd.m3u8?adMethod=3&sessionId=kadnlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSTU (FOX) News 13 Salt Lake City UT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63502a911497d4fdd009c174" group-title="United States",KSTU (FOX) News 13 Salt Lake City UT
-https://ewscripps-kstu-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KMGH (ABC) News 7 Denver CO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ac1c2fac0d4b0b9306bb14" group-title="United States",KMGH (ABC) News 7 Denver CO
-https://ewscripps-kmgh-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOAA Pueblo/Colorado Springs CO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c2ad0638a811538365d95" group-title="United States",KOAA Pueblo/Colorado Springs CO
-https://amg01438-ewscrippscompan-koaa-localnow-uw0da.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIVI Boise ID" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62683c6dbc3c9d5d3e4e82b2" group-title="United States",KIVI Boise ID
-https://amg01438-ewscrippscompan-kivi-localnow-83cmu.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KULR (NBC) News 8 Billings MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/637e837c02284e52980d9be0" group-title="United States",KULR (NBC) News 8 Billings MT
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTVQ Billings MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62700bb7958f6c58ac29a9a2" group-title="United States",KTVQ Billings MT
-https://amg01438-ewscrippscompan-ktvq-localnow-63q8w.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KWYB (ABC) News 18 Butte MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8c0b7dab69487879c6f3" group-title="United States",KWYB (ABC) News 18 Butte MT
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBZK Butte MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c4c624633842351241620" group-title="United States",KBZK Butte MT
-https://amg01438-ewscrippscompan-kbzk-localnow-wlv1s.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KFBB (ABC) News 5 Great Falls/Helena MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8b6c20130c4f15008503" group-title="United States",KFBB (ABC) News 5 Great Falls/Helena MT
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kfbblocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KRTV Great Falls MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62701738518c5c2ba67c9df3" group-title="United States",KRTV Great Falls MT
-https://amg01438-ewscrippscompan-krtv-localnow-wbnlt.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KPAX (CBS) News 8 Missoula MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b2b4230892f0a134fd912" group-title="United States",KPAX (CBS) News 8 Missoula MT
-https://amg01438-ewscrippscompan-kpax-localnow-b847l.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTMF (ABC) News 23 Missoula MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8bbe4ba540339a13d389" group-title="United States",KTMF (ABC) News 23 Missoula MT
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTVH Helena MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/637116c41e9e1e95c4019d53" group-title="United States",KTVH Helena MT
-https://amg01438-ewscrippscompan-ktvh-localnow-29sse.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KGUN 9 Tucson News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624dccf1f524c94ec1132cf2" group-title="United States",KGUN 9 Tucson News
-https://amg01438-ewscrippscompan-kgun-localnow-f8zxq.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KNXV (ABC) News 15 Phoenix AZ" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/635029ac41caf562ca02b0dd" group-title="United States",KNXV (ABC) News 15 Phoenix AZ
-https://amg01438-ewscrippscompan-knxv-localnow-2pv9a.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Sacramento by KCRA-TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf59d3a9be46cd20921b3" group-title="United States",Very Sacramento by KCRA-TV
-https://linear-92.frequency.stream/dist/localnow/92/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KNDU (NBC) News 25 Richland WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6156451b3243602122285a12" group-title="United States",KNDU (NBC) News 25 Richland WA
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KGTV (ABC) News 10 San Diego CA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609317c2fab766667a2221b2" group-title="United States",KGTV (ABC) News 10 San Diego CA
-https://ewscripps-kgtv-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHQ (NBC) News 6 Spokane WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8aaef6061412b604b4a2" group-title="United States",KHQ (NBC) News 6 Spokane WA
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KIRO (CBS) News 7 Seattle WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" group-title="United States",KIRO (CBS) News 7 Seattle WA
-https://amg00327-coxmediagroup-kirobreaking-ono-mzefy.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Vegas Review-Journal" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620c0c979c6bd15a09478c82" group-title="United States",Las Vegas Review-Journal
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Las Vegas Review-Journal Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6238f4a5aa0cbb611844d532" group-title="United States",Las Vegas Review-Journal Sports
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8?adMethod=3&sessionId=lvrjsportslocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KEZI (ABC) News 9 Eugene OR" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e6bbd55436f6aa650f672" group-title="United States",KEZI (ABC) News 9 Eugene OR
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/68c81515-3f51-423e-b813-c2371e68630a.m3u8?adMethod=3&sessionId=kezilocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KDRV (ABC) News 12 Medford OR" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e79885c3a5d3a833eaa72" group-title="United States",KDRV (ABC) News 12 Medford OR
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/f96442b0-078f-4620-93bc-e5dfa990c572.m3u8?adMethod=3&sessionId=kdrvlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KHSL (CBS) News 12 Redding CA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e7ef5749dbb194d447022" group-title="United States",KHSL (CBS) News 12 Redding CA
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/9bb1377e-32c7-4ec2-a906-9e00c6360cd1.m3u8?adMethod=3&sessionId=khsllocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KITV (ABC) News 4 Honolulu HI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623e7b8d543a67270533c1df" group-title="United States",KITV (ABC) News 4 Honolulu HI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c7ed2016-ab63-46cf-b881-0e05f02918cb.m3u8?adMethod=3&sessionId=kitvlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KERO (ABC) News 23 Bakersfield CA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63502709516875f6a101648b" group-title="United States",KERO (ABC) News 23 Bakersfield CA
-https://amg01438-ewscrippscompan-kero-localnow-y5rqh.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSBY (NBC) News 6 San Luis Obispo CA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b2cf35a2beb543e361c13" group-title="United States",KSBY (NBC) News 6 San Luis Obispo CA
-https://amg01438-ewscrippscompan-ksby-localnow-ehlit.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTNV Las Vegas NV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6266fb3164639060d24fea94" group-title="United States",KTNV Las Vegas NV
-https://amg01438-ewscrippscompan-ktnv-localnow-9chr8.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KXLY Spokane Washington" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6390c0d8350374c5b50101b4" group-title="United States",KXLY Spokane Washington
-https://dai2-playlistserver.aws.syncbak.com/cpl/18812479/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODgxMjQ3OSIsImNpZCI6MTc2ODgsInNpZCI6MTE4NiwibWQ1IjoiMjZlMGQ2NTc0YjdlZjBiZWIzYzA1NWM2OWM2NDNmZTQiLCJpYXQiOjE2NzM2NDYxMTYsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.W_TR35dg0qEq6Id5S0_wWJr4SlEticovt47dAyeXVz4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KAPP YakTriNews Yakima WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/630cce876949437aed0e7fdb" group-title="United States",KAPP YakTriNews Yakima WA
-https://dai2-playlistserver.aws.syncbak.com/cpl/18816767/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODgxNjc2NyIsImNpZCI6MTc2OTYsInNpZCI6MTE4NiwibWQ1IjoiY2FmOTE5MWRhOTUxZTQ2NjcwMzQxYzA4ZmQwYmFkMzciLCJpYXQiOjE2ODMxNDk2MzMsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.PyS8S7CWyORJD55vNXT3AP3mnl-kztjXDbkq77ffVVU
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Orlando by WESH 2-TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8150cb827b7df075a7d" group-title="United States",Very Orlando by WESH 2-TV
-https://linear-103.frequency.stream/dist/localnow/103/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very South Florida by WPBF 25" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf91c811fde69ed07ab74" group-title="United States",Very South Florida by WPBF 25
-https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Boston by WCVB" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf72d811fde69ed07ab70" group-title="United States",Very Boston by WCVB
-https://linear-102.frequency.stream/dist/localnow/102/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very New Hampshire by WMUR" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8fa811fde69ed07ab73" group-title="United States",Very New Hampshire by WMUR
-https://linear-33.frequency.stream/dist/localnow/33/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WSB (ABC) News 2 Atlanta GA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64024e9bac829bb17e049597" group-title="United States",WSB (ABC) News 2 Atlanta GA
-https://amg00327-coxmediagroup-wsbbreaking-ono-o873b.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Pittsburgh by WTAE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a1b36c5386d915220482c2" group-title="United States",Very Pittsburgh by WTAE
-https://linear-36.frequency.stream/dist/localnow/36/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Tampa Bay by WMOR" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf67d811fde69ed07ab6f" group-title="United States",Very Tampa Bay by WMOR
-https://linear-200.frequency.stream/dist/localnow/200/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Baltimore by WBAL-TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf706ac769dbddc011c97" group-title="United States",Very Baltimore by WBAL-TV
-https://linear-105.frequency.stream/dist/localnow/105/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Cincinnati by WLWT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a087ea985e2da4f306ceb2" group-title="United States",Very Cincinnati by WLWT
-https://linear-107.frequency.stream/dist/localnow/107/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Louisville by WLKY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cd2c735f43cde1f0175ca" group-title="United States",Very Louisville by WLKY
-https://linear-109.frequency.stream/dist/localnow/109/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Pennsylvania by WGAL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8377ffe38103904b05d" group-title="United States",Very Pennsylvania by WGAL
-https://linear-111.frequency.stream/dist/localnow/111/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Maine by WMTW" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf8d70cb827b7df075a84" group-title="United States",Very Maine by WMTW
-https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WRAL News Raleigh" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/64122892598a0bc5e106cb72" group-title="United States",WRAL News Raleigh
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/b142106e-dfc1-4a5c-a839-10567b7c6531.m3u8?adMethod=3&sessionId=wrallocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Carolina by WXII" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf987d7ab94a6e20548a7" group-title="United States",Very Carolina by WXII
-https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Carolina by WYFF 4" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9a6d7ab94a6e20548a8" group-title="United States",Very Carolina by WYFF 4
-https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Savannah by WJCL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63a08826320621a39d0d66e3" group-title="United States",Very Savannah by WJCL
-https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Champlain Valley by NBC 5" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6bc0cb827b7df075a7b" group-title="United States",Very Champlain Valley by NBC 5
-https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very New Orleans by WDSU" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf75ad7ab94a6e20548a5" group-title="United States",Very New Orleans by WDSU
-https://linear-108.frequency.stream/dist/localnow/108/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Kansas City by KMBC/KCWE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5c6517a8f7728038c92" group-title="United States",Very Kansas City by KMBC/KCWE
-https://linear-96.frequency.stream/dist/localnow/96/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KAVU Crossroads Today Victoria TX" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/630cd171ea5b954ca4024e26" group-title="United States",KAVU Crossroads Today Victoria TX
-https://dai2-playlistserver.aws.syncbak.com/cpl/18816760/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODgxNjc2MCIsImNpZCI6MTc2OTQsInNpZCI6MTE4NiwibWQ1IjoiNWE0NGU2NmVmM2EyNzY3ZmMxMmU4NmM4YWRlYTU0ZTEiLCJpYXQiOjE2ODMxNDg5ODAsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.xJAMGbVZP1U5iWF_eyqLNzXKnxaG-zbhDP31PZarOgw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Omaha by KETV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf54e5e38fcd88b086922" group-title="United States",Very Omaha by KETV
-https://linear-94.frequency.stream/dist/localnow/94/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Milwaukee by WISN 12" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf85c3a9be46cd20921b4" group-title="United States",Very Milwaukee by WISN 12
-https://linear-106.frequency.stream/dist/localnow/106/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WKBT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/648b243315d484f4940980b7" group-title="United States",WKBT
-https://dai2-playlistserver.aws.syncbak.com/cpl/18816756/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODgxNjc1NiIsImNpZCI6MTc2OTAsInNpZCI6MTE4NiwibWQ1IjoiYThiZWZiNGM0MzRiMDk3OWZlNjViMmY4YTQ0M2Q2ZjMiLCJpYXQiOjE2ODMxNDg0NTEsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.mZ22CeCAEjGZaapmGK2i4MwhdkdUPyC0RxfMlQrJpK4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Iowa by KCCI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf504d7ab94a6e20548a3" group-title="United States",Very Iowa by KCCI
-https://linear-93.frequency.stream/dist/localnow/93/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Arkansas by 40/29" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf578c2a147ac4507279f" group-title="United States",Very Arkansas by 40/29
-https://linear-95.frequency.stream/dist/localnow/95/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Jackson by 16 WAPT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6e5517a8f7728038c93" group-title="United States",Very Jackson by 16 WAPT
-https://linear-100.frequency.stream/dist/localnow/100/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Oklahoma by KOCO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf61c27f67c5e94047d54" group-title="United States",Very Oklahoma by KOCO
-https://linear-98.frequency.stream/dist/localnow/98/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KOAM (FOX) NEWS NOW Joplin MO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6467c2002a3e2be67c06bd3a" group-title="United States",KOAM (FOX) NEWS NOW Joplin MO
-https://dai2-playlistserver.aws.syncbak.com/cpl/18816758/scte35hls/1.0/7b7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIxODgxNjc1OCIsImNpZCI6MTc2OTIsInNpZCI6MTE4NiwibWQ1IjoiMjJlZjkzZmZmNjMxNWU5YTkxOWFiYmI0ZDg1NmNmZTkiLCJpYXQiOjE2NzM2NDI1NzUsImlzcyI6IlN5bmNiYWsgKFRHKSJ9.XG3HwBm8ry2r0XZv3BzZZkPAABuOHY8Af6Ha2M6QF2k
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KWWL Cedar Rapids IA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c649f37aa737fa043a64" group-title="United States",KWWL Cedar Rapids IA
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e20ea4ed-ca87-430a-a8c4-92cfa8fd33cf.m3u8?adMethod=3&sessionId=kwwllocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WAOW Wausau WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c729ebc726ff4b034126" group-title="United States",WAOW Wausau WI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WKOW Madison WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c542f37aa737fa043a63" group-title="United States",WKOW Madison WI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/27e09272-cc4f-4160-8c3f-c6c8ef924add.m3u8?adMethod=3&sessionId=wkowlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WQOW Eau Claire WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c7d8f37aa737fa043a66" group-title="United States",WQOW Eau Claire WI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e697653b-af00-416a-9553-ab7f1fbcadfe.m3u8?adMethod=3&sessionId=wqowlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WXOW La Crosse WI" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c92ae14beaea360bb669" group-title="United States",WXOW La Crosse WI
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WREX Rockford IL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c87febc726ff4b034128" group-title="United States",WREX Rockford IL
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/84c07322-892b-4007-bccb-1a63239eac13.m3u8?adMethod=3&sessionId=wrexlocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WSIL Paducah KY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63829478dd21d9dee605ceeb" group-title="United States",WSIL Paducah KY
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/a4b9b881-cdf4-4859-b809-0f2abe62486d.m3u8?adMethod=3&sessionId=wsillocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Alabama by WVTM" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf9655e38fcd88b086927" group-title="United States",Very Alabama by WVTM
-https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WAND Decatur IL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/642d9854d23e609917063681" group-title="United States",WAND Decatur IL
-https://ssai.field59.com/wand1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KSTP (ABC) News 5 St. Paul/Minneapolis MN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6452a4f4e0a31d8e1f0dcd85" group-title="United States",KSTP (ABC) News 5 St. Paul/Minneapolis MN
-https://fuel-streaming-prod01.fuelmedia.io/v1/fast/kstplocalnow/99d34140-5f7a-4127-9c9e-60e38828af78.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very New Mexico by KOAT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf5f90cb827b7df075a79" group-title="United States",Very New Mexico by KOAT
-https://linear-97.frequency.stream/dist/localnow/97/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KVOA Tucson AZ" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6339c3e2c763f183b608915b" group-title="United States",KVOA Tucson AZ
-https://fuel-streaming-prod01.fuelmedia.io/v1/sem/02a758bd-6764-49df-8199-d26aaf6ab3e3.m3u8?adMethod=3&sessionId=kvoalocalnow
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Very Central Coast by KSBW" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/639cf6465e38fcd88b086923" group-title="United States",Very Central Coast by KSBW
-https://linear-99.frequency.stream/dist/localnow/99/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Music",AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loupe Art" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/633f2f0647101481a30acd22" group-title="Music",Loupe Art
+https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Broadway On Demand" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62eaeaa05942986a9202d592" group-title="Music",Broadway On Demand
+https://1648709315.rsc.cdn77.org/HLS/BROADWAY_SCTE.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6478e229f26ba18c52013dac" group-title="Music",Qwest TV
+https://qwestjazz-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QwestMix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/637674effa0ce4bff40d8787" group-title="Music",QwestMix
+https://qwestmix-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Local Now Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6011c3f68a253a517a15fce8" group-title="Music",Local Now Music
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ef60606eb634d038664" group-title="Music",Vevo Pop
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevopop-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Hip-Hop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f0b4b784f887e059452" group-title="Music",Vevo Hip-Hop
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevohiphop-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo R&B" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f6604e66a0a4b0223b3" group-title="Music",Vevo R&B
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevornb-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f1a4b784f887e059453" group-title="Music",Vevo Reggaeton & Trap
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoreggaeton-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Country" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ee60606eb634d038663" group-title="Music",Vevo Country
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Iconos Latinos" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f4b1674fd035b089513" group-title="Music",Vevo Iconos Latinos
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoiconos-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Latino" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e891674fd035b089512" group-title="Music",Vevo Latino
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevolatino-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Regional Mexicano" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f38134d01543608ca02" group-title="Music",Vevo Regional Mexicano
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoregmx-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '70s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ed03b8a9372e4075142" group-title="Music",Vevo '70s
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo70s-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '80s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802" group-title="Music",Vevo '80s
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo80s-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '90s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5eaf0606eb634d038662" group-title="Music",Vevo '90s
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo90s-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 2K" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ec059c7e48eee0f5fe2" group-title="Music",Vevo 2K
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo2k-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f8ee649e295e30f3123" group-title="Music",Vevo True School Hip-Hop
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevotrueschool-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Retro Rock!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f7c1674fd035b089514" group-title="Music",Vevo Retro Rock!
+https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoretrorock-localnow/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DittyTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6313ced5d5f0e3edab07d414" group-title="Music",DittyTV
+https://8bd570129b3841d4aa2921e75a4e7a54.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DittyTV/playlist.m3u8?ads.wurl_channel=1103&ads.wurl_name=DittyTV&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content_genre
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OurVinyl TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6313da2b3ff6f739680b06e8" group-title="Music",OurVinyl TV
+https://efb98b60bb124ec28c482632e85260fd.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_OurVinylTV/playlist.m3u8?ads.wurl_channel=1165&ads.wurl_name=OurVinylTV&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Legends Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63dc8b7993612fccce0bc512" group-title="Music",Music Legends Network
+https://hls.showfer.com/stream/63da8cd8f516fcaec908f858/airy.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMusic Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62154f219ff9cb0ef44b99b2" group-title="Music",AMusic Channel
+https://d3e900fnvjyq99.cloudfront.net/d/X90ICZFTND3NMC45UF4P/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657300
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OFIVE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62155b6bcde46f3cf279fed3" group-title="Music",OFIVE
+https://d3e900fnvjyq99.cloudfront.net/d/TWTZH32I6BGMU9C8IUM2/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party Tyme Karaoke" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618ed1446354d4189b40b8c9" group-title="Music",Party Tyme Karaoke
+https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBC News NOW" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63791a4db536feeda80e498b" group-title="United States",NBC News NOW
 https://d326rlddjn5ksu.cloudfront.net/live/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TODAY All Day" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63791d7bb536feeda80e498c" group-title="United States",TODAY All Day
@@ -14725,58 +14457,6 @@ https://hls.showfer.com/stream/62cb71a0d090f36fc5aa83ae/airy.m3u8
 https://heartfelt-tv-local-now.evrideo.tv/cab1bb3c-2906-49bf-a503-6cbcb54935ac_1000014573_HLS/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minute Shorts" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640f2b7ceb1470e8b000e592" group-title="United States",Minute Shorts
 https://ov.ottera.tv/channels/mns_ms/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Music",AXS TV Now
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loupe Art" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/633f2f0647101481a30acd22" group-title="Music",Loupe Art
-https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Broadway On Demand" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62eaeaa05942986a9202d592" group-title="Music",Broadway On Demand
-https://1648709315.rsc.cdn77.org/HLS/BROADWAY_SCTE.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6478e229f26ba18c52013dac" group-title="Music",Qwest TV
-https://qwestjazz-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="QwestMix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/637674effa0ce4bff40d8787" group-title="Music",QwestMix
-https://qwestmix-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Local Now Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6011c3f68a253a517a15fce8" group-title="Music",Local Now Music
-https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Pop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ef60606eb634d038664" group-title="Music",Vevo Pop
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevopop-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Hip-Hop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f0b4b784f887e059452" group-title="Music",Vevo Hip-Hop
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevohiphop-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo R&B" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f6604e66a0a4b0223b3" group-title="Music",Vevo R&B
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevornb-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f1a4b784f887e059453" group-title="Music",Vevo Reggaeton & Trap
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoreggaeton-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Country" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ee60606eb634d038663" group-title="Music",Vevo Country
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevocountry-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Iconos Latinos" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f4b1674fd035b089513" group-title="Music",Vevo Iconos Latinos
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoiconos-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Latino" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e891674fd035b089512" group-title="Music",Vevo Latino
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevolatino-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Regional Mexicano" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f38134d01543608ca02" group-title="Music",Vevo Regional Mexicano
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoregmx-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '70s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ed03b8a9372e4075142" group-title="Music",Vevo '70s
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo70s-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '80s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5e9853180c904f07d802" group-title="Music",Vevo '80s
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo80s-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo '90s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5eaf0606eb634d038662" group-title="Music",Vevo '90s
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo90s-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo 2K" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5ec059c7e48eee0f5fe2" group-title="Music",Vevo 2K
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevo2k-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo True School Hip-Hop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f8ee649e295e30f3123" group-title="Music",Vevo True School Hip-Hop
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevotrueschool-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vevo Retro Rock!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/640a5f7c1674fd035b089514" group-title="Music",Vevo Retro Rock!
-https://cdn-ue1-prod.tsv2.amagi.tv/ingress/linear/amg00056-vevotv-vevoretrorock-localnow/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DittyTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6313ced5d5f0e3edab07d414" group-title="Music",DittyTV
-https://8bd570129b3841d4aa2921e75a4e7a54.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DittyTV/playlist.m3u8?ads.wurl_channel=1103&ads.wurl_name=DittyTV&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content_genre
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OurVinyl TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6313da2b3ff6f739680b06e8" group-title="Music",OurVinyl TV
-https://efb98b60bb124ec28c482632e85260fd.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_OurVinylTV/playlist.m3u8?ads.wurl_channel=1165&ads.wurl_name=OurVinylTV&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={content
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Legends Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63dc8b7993612fccce0bc512" group-title="Music",Music Legends Network
-https://hls.showfer.com/stream/63da8cd8f516fcaec908f858/airy.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMusic Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62154f219ff9cb0ef44b99b2" group-title="Music",AMusic Channel
-https://d3e900fnvjyq99.cloudfront.net/d/X90ICZFTND3NMC45UF4P/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OFIVE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62155b6bcde46f3cf279fed3" group-title="Music",OFIVE
-https://d3e900fnvjyq99.cloudfront.net/d/TWTZH32I6BGMU9C8IUM2/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657336
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party Tyme Karaoke" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618ed1446354d4189b40b8c9" group-title="Music",Party Tyme Karaoke
-https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Weather Gone Viral" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203" group-title="United States",Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fat Guys in the Woods" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fbebd6c1ed3cd231349ddc2" group-title="United States",Fat Guys in the Woods
@@ -14969,8 +14649,6 @@ https://bbf0f65f39ba4cd98c804c6fdd4de041.mediatailor.us-east-1.amazonaws.com/v1/
 https://1587221385.rsc.cdn77.org/HLS/TEXAS-HSSN_SCTE.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="holr Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/63dbfbfe7f8fac15db040c62" group-title="United States",holr Sports
 https://hls.showfer.com/stream/62f14e73eee46583d7653a0e/airy.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="World Poker Tour" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61f44ac89f28e135d11a2a29" group-title="United States",World Poker Tour
-https://d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Cinema" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6490ac8c9c8c7adf9207dd2a" group-title="United States",Rotana Cinema
 https://81af74f07a9843399239a3f486837ee7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaCinema/playlist.m3u8?ads.wurl_channel=1108&ads.wurl_name=RotanaCinema&ads.coppa=0&ads.app_bundle={app_bundle}&ads.app_name={app_name}&ads.app_store_url={app_url}&ads.did={device_ifa}&ads.ifa_type={device_id_type}&ads.dnt={dnt}&ads.device_make={device_make}&ads.device_model={device_model}&ads.device_type={rtb_device}&ads.cust_devicename={device_devicetype}&ads.ua={ua}&ads.content_id={video_id}&ads.content_title={media_title}&ads.cust_channeltype=Shows&ads.content_genre={con
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rotana Classic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6490ac791e20317a7502ddb4" group-title="United States",Rotana Classic
@@ -15580,60 +15258,16 @@ https://i.mjh.nz/Roku/fd8d765f98605129914b581147e7e8b2.m3u8
 https://i.mjh.nz/Roku/e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz" tvg-logo="" group-title="Music",Qwest Jazz
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (AT)" tvg-logo="" group-title="Music",Qwest Jazz (AT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgat/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (AU)" tvg-logo="" group-title="Music",Qwest Jazz (AU)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgau/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (BR)" tvg-logo="" group-title="Music",Qwest Jazz (BR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (CH)" tvg-logo="" group-title="Music",Qwest Jazz (CH)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgch/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (DK)" tvg-logo="" group-title="Music",Qwest Jazz (DK)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgdk/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (MX)" tvg-logo="" group-title="Music",Qwest Jazz (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (NL)" tvg-logo="" group-title="Music",Qwest Jazz (NL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgnl/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (PT)" tvg-logo="" group-title="Music",Qwest Jazz (PT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Jazz (SE)" tvg-logo="" group-title="Music",Qwest Jazz (SE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgse/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix" tvg-logo="" group-title="Music",Qwest Mix
 https://qwest-mix-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (AR)" tvg-logo="" group-title="Music",Qwest Mix (AR)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgar/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (CL)" tvg-logo="" group-title="Music",Qwest Mix (CL)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgcl/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix (PE)" tvg-logo="" group-title="Music",Qwest Mix (PE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-lgpe/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix alt Geo" tvg-logo="" group-title="Music",Qwest Mix alt Geo
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/qwestAAAA-qwest-mix-lg/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV" tvg-logo="" group-title="Music",Vivaldi TV
-https://mezzo-vivalditv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (BR)" tvg-logo="" group-title="Music",Vivaldi TV (BR)
-https://mezzo-vivalditv-lg-br.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (ES)" tvg-logo="" group-title="Music",Vivaldi TV (ES)
-https://mezzo-vivalditv-lg-es.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (IT)" tvg-logo="" group-title="Music",Vivaldi TV (IT)
-https://mezzo-vivalditv-lg-it.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV (MX)" tvg-logo="" group-title="Music",Vivaldi TV (MX)
-https://mezzo-vivalditv-lg-mx.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (ES)" tvg-logo="" group-title="Music",Vivaldi TV alt (ES)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-es/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (IT)" tvg-logo="" group-title="Music",Vivaldi TV alt (IT)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-it/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV alt (MX)" tvg-logo="" group-title="Music",Vivaldi TV alt (MX)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/mezzoAAAA-vivalditv-lg-mx/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Sport Stars (BR)" tvg-logo="" group-title="Music",Trace Sport Stars (BR)
 https://tracetv-tracesportsstar-lgbr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivaldi TV" tvg-logo="" group-title="Music",Vivaldi TV
+https://mezzo-vivalditv-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite (DE)" tvg-logo="" group-title="Music",Xite (DE)
 https://xite-germany-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite alt (DE)" tvg-logo="" group-title="Music",Xite alt (DE)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-lg-de/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Hits (UK)" tvg-logo="" group-title="Music",Xite Hits (UK)
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Hits alt (UK)" tvg-logo="" group-title="Music",Xite Hits alt (UK)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/xiteAAAAA-xite-hitsuk-lg/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xite Rock on (EU)" tvg-logo="" group-title="Music",Xite Rock on (EU)
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Classic -TCL" tvg-logo="" group-title="Music",Qwest Classic -TCL
@@ -15642,10 +15276,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-classic-tcl/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-jazz-tcl-tcl/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Qwest Mix -TCL" tvg-logo="" group-title="Music",Qwest Mix -TCL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-mix-tcl-tcl/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Plymouth Rock TV The Best of New England" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/632b7d8b4fc7d1d1f20257f2" group-title="Music",Plymouth Rock TV The Best of New England
-https://na.linear.zype.com/9477c80e-438b-41a3-b2c5-05b028bfb0b2/b3e57cea-b610-45ff-a31e-146c424573a7-hls3/live.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KMTV Omaha NE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/635028651497d4fdd009c171" group-title="Music",KMTV Omaha NE
-https://amg01438-ewscrippscompan-kmtv-localnow-3d3cu.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" group-title="Music",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loupe Art" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/633f2f0647101481a30acd22" group-title="Music",Loupe Art
