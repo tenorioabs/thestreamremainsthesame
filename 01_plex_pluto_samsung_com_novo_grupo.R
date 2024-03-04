@@ -242,7 +242,8 @@ compactar_para_gz("minha_lista_concatenada.xml")
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
-github_windows("Automatiza riação de XML")
+file.remove("minha_lista_concatenada.xml")
+github_windows("Automatiza criação de XML compactado")
 #github_linux("Reformulação Geral")
 
 ################################################################################
