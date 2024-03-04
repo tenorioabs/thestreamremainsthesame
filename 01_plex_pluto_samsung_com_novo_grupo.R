@@ -12,7 +12,9 @@ source("03_funcoes_github.R")
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
-              "https://i.mjh.nz/SamsungTVPlus/all.m3u8")
+              "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+              "http://m3u4u.com/m3u/m/4me1pvz5m2twn99p9y36", # Roku e Stirr merged
+              "http://m3u4u.com/m3u/m/d7148k492ns4kvvpwj5v") # LG, TCL e LocalNow merged
 
 processa_url <- function(url) {
   response <- tryCatch({
@@ -99,7 +101,20 @@ canais_buscados <- c("VH1",
                      "Classic Rock",
                      "Rock Story",
                      "Classic Rock",
-                     "Rock TV")
+                     "Rock TV",
+                     "WMX",
+                     "Trace",
+                     "Vivaldi TV",
+                     "Qwest",
+                     "Xite",
+                     "OFIVE",
+                     "AMusic Channel",
+                     "Music Legends Network",
+                     "OurVinyl TV",
+                     "DittyTV",
+                     "Broadway On Demand",
+                     "Loupe Art",
+                     "AXS TV Now")
 
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
@@ -238,7 +253,7 @@ cat("O arquivo", arquivo_saida, "foi criado com sucesso na raiz do projeto.")
 ################################################################################
 # Bloco 6, atualiza GitHub
 
-#source("02_cria_xml.R")
+source("02_cria_xml.R")
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")

@@ -4,9 +4,12 @@ library(httr)
 # URLs dos arquivos XML
 urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/PlutoTV/all.xml",
-          "https://i.mjh.nz/SamsungTVPlus/all.xml")
+          "https://i.mjh.nz/SamsungTVPlus/all.xml",
+          "https://i.mjh.nz/Stirr/all.xml",
+          "https://i.mjh.nz/Roku/epg.xml")
 
 # Download e remoção do cabeçalho para cada URL
+controle <- 1
 xml_texts <- lapply(urls, function(url) {
   xml_content <- readLines(url)
   xml_content <- xml_content[-1]  # Remove a primeira linha do cabeçalho
@@ -67,5 +70,5 @@ cat("Arquivo '", arquivo_entrada, "' foi compactado e salvo como '", arquivo_sai
 #source("02_cria_xml.R")
 source("03_funcoes_github.R")
 file.remove("minha_lista_concatenada.xml")
-github_windows("Sobe XML")
+github_windows("Atualiza Fontes de EPG")
 #github_linux("Reformulação Geral")
