@@ -250,7 +250,7 @@ source("02_cria_xml.R")
 source("03_funcoes_github.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
-github_windows("Sobe XML")
+github_windows("Atualização de Rotina")
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 
