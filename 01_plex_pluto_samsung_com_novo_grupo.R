@@ -190,8 +190,8 @@ conteudo_lista_modificada <- readLines(caminho_lista_modificada)
 conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 
 # Adicionar os dois novos canais ao conteúdo concatenado
-novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Entertainment\",MTV Japan (720p)\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
-                  "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://i.imgur.com/HmCI5mk.png\" group-title=\"Music\",Music Japan TV (720p)\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06")
+novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Music\",MTV Japan\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
+                  "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_400x400.jpg\" group-title=\"Music\",Music Japan TV\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06")
 
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
 
