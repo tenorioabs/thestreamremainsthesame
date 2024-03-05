@@ -7,8 +7,7 @@ url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
               "https://i.mjh.nz/Stirr/all.m3u8",
-              "https://i.mjh.nz/Roku/all.m3u8",
-              "https://www.apsattv.com/localnow.m3u")
+              "https://i.mjh.nz/Roku/all.m3u8")
 
 
 processa_url <- function(url) {
@@ -171,9 +170,6 @@ for (canal in names(resultados_busca)) {
 
 ################################################################################
 ################################################################################
-# Bloco 3, concatena o arquivo "minha_lista.m3u8" (saída bloco 1) com
-# "canais_encontrados_modificados.m3u8" (saída bloco 2)
-
 # Definir os caminhos dos arquivos
 caminho_lista_original <- "minha_lista.m3u8"
 caminho_lista_modificada <- "canais_encontrados_modificados.m3u8"
@@ -186,13 +182,16 @@ conteudo_lista_modificada <- readLines(caminho_lista_modificada)
 # Concatenar os conteúdos
 conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 
+# Adicionar os dois novos canais ao conteúdo concatenado
+novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Entertainment\",MTV Japan (720p)\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8")
+
+conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
+
 # Escrever o conteúdo concatenado em um novo arquivo
 writeLines(conteudo_concatenado, caminho_lista_concatenada)
 
-cat("Os arquivos foram concatenados com sucesso e o resultado foi salvo em", caminho_lista_concatenada, "\n")
-
+cat("Os arquivos foram concatenados com sucesso e os novos canais foram adicionados. O resultado foi salvo em", caminho_lista_concatenada, "\n")
 ################################################################################
-# Finalização e limpeza
 ################################################################################
 # Bloco 4, apenas modifica a primeira linha indicado xml (epg) default
 
