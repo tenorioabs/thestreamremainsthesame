@@ -10995,3 +10995,5 @@ https://hvh-hv.otteravision.com/hvh/dl_hd/dl_hd.m3u8
 https://distrib.noisypeak.com/d/89DI7GLSKAHGDGBZ2R5C/playlist.m3u8?ads.vast_id=668372
 #EXTINF:-1 tvg-id="MTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Japan (720p)
 http://jp.vthanhnetwork.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://i.imgur.com/HmCI5mk.png" group-title="Music",Music Japan TV (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
