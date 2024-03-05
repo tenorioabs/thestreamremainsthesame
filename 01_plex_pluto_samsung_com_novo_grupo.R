@@ -1,14 +1,18 @@
-
+################################################################################
+################################################################################
 source("09_instala_carrega_pacotes.R")
-
+################################################################################
+################################################################################
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
 # Lista de URLs
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
               "https://i.mjh.nz/Stirr/all.m3u8",
-              "https://i.mjh.nz/Roku/all.m3u8")
+              "https://i.mjh.nz/Roku/all.m3u8",
+              "https://www.apsattv.com/localnow.m3u")
 
+library(httr)
 
 processa_url <- function(url) {
   response <- tryCatch({
@@ -27,19 +31,22 @@ processa_url <- function(url) {
 # Processar URLs e coletar o conteúdo para cada uma
 conteudos <- lapply(url_m3u8, processa_url)
 
-# Concatenar todos os conteúdos
-conteudo_final <- paste(unlist(conteudos), collapse = "\n")
+# Filtrar linhas em branco para cada conteúdo e então unlist
+# Aqui, ajustamos para garantir que mesmo após a concatenação, linhas completamente vazias sejam removidas
+conteudos_filtrados <- lapply(conteudos, function(x) grep("^\\S", x, value = TRUE))
+conteudo_final_sem_filtro <- paste(unlist(conteudos_filtrados), collapse = "\n")
 
-# Salvar o conteúdo final no arquivo "minha_lista.m3u8"
+# Novo passo: remover linhas completamente vazias após a concatenação
+conteudo_final <- gsub("\n{2,}", "\n", conteudo_final_sem_filtro)
+
+# Salvar o conteúdo final no arquivo "minha_lista.m3u8", eliminando linhas em branco
 writeLines(conteudo_final, "minha_lista.m3u8")
 
-message("Arquivo 'minha_lista.m3u8' salvo com sucesso.")
-
+message("Arquivo 'minha_lista.m3u8' salvo com sucesso, sem linhas em branco.")
 ################################################################################
 ################################################################################
 # Bloco 2, carrega o arquivo "minha_lista.m3u8", aplica Regex e cria novo grupo
 # chamado "Music" e salva no arquivo "canais_encontrados_modificados.m3u8"
-
 # Ler o arquivo com os dados dos canais
 caminho_do_arquivo <- "minha_lista.m3u8"
 linhas <- readLines(caminho_do_arquivo)
@@ -194,7 +201,6 @@ cat("Os arquivos foram concatenados com sucesso e os novos canais foram adiciona
 ################################################################################
 ################################################################################
 # Bloco 4, apenas modifica a primeira linha indicado xml (epg) default
-
 # Definir o caminho do arquivo
 caminho_do_arquivo <- "minha_lista_concatenada.m3u8"
 
@@ -247,19 +253,16 @@ writeLines(conteudo_modificado, arquivo_saida)
 
 # Mensagem de conclusão
 cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
-
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-
-source("02_cria_xml.R")
-source("03_funcoes_github.R")
+#source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
-github_windows("Atualização de Rotina")
+source("03_funcoes_github.R")
+github_windows("Adiciona LocalNow e Remove Linhas em Branco no m3u8")
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 file.remove("tabulacao_conteudo_final.xlsx")
-
 ################################################################################
 ################################################################################
