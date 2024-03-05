@@ -6,8 +6,10 @@ source("09_instala_carrega_pacotes.R")
 url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/PlutoTV/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
-              "http://m3u4u.com/m3u/m/d7148k492ns4kvvpwj5v") # Roku, Stirr e LocalNow merged (setagem de grupos)
-             
+              "https://i.mjh.nz/Stirr/all.m3u8",
+              "https://i.mjh.nz/Roku/all.m3u8",
+              "https://www.apsattv.com/localnow.m3u")
+
 
 processa_url <- function(url) {
   response <- tryCatch({
@@ -216,12 +218,7 @@ cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi su
 
 ################################################################################
 ################################################################################
-# Bloco 5, substitui nomes de grupos e atualzia o arquivo "minha_lista_concatenada.m3u8"
-
-# Carrega o pacote necessário
-if (!requireNamespace("stringr", quietly = TRUE)) install.packages("stringr")
-library(stringr)
-
+# Bloco 5, substitui nomes de grupos e atualiza o arquivo "minha_lista_concatenada.m3u8"
 # Define o caminho do arquivo de entrada e de saída
 arquivo_entrada <- "minha_lista_concatenada.m3u8"
 arquivo_saida <- "minha_lista_concatenada.m3u8"
@@ -229,18 +226,28 @@ arquivo_saida <- "minha_lista_concatenada.m3u8"
 # Lê o conteúdo do arquivo de entrada
 conteudo <- readLines(arquivo_entrada, warn = FALSE)
 
+# Adiciona 'group-title="United States"' aos canais que estão sem essa tag
+conteudo_com_group_title <- sapply(conteudo, function(linha) {
+  if (grepl("^#EXTINF:", linha) && !grepl("group-title=", linha)) {
+    # Se a linha é um canal e não tem 'group-title', adiciona 'group-title="United States"'
+    linha <- sub("^#EXTINF:", '#EXTINF: group-title="United States",', linha)
+  }
+  return(linha)
+}, USE.NAMES = FALSE)
+
 # Define as substituições em um vetor nomeado
 padroes_substituicoes <- c('group-title="USA"' = 'group-title="United States"',
-                           'group-title="United Kingdom"' = 'group-title="Great Britain"')
+                           'group-title="United Kingdom"' = 'group-title="Great Britain"',
+                           'group-title="LocalNow:.*?"' = 'group-title="United States"')
 
 # Aplica as substituições
-conteudo_modificado <- str_replace_all(conteudo, padroes_substituicoes)
+conteudo_modificado <- str_replace_all(conteudo_com_group_title, padroes_substituicoes)
 
 # Salva o conteúdo modificado no arquivo de saída
 writeLines(conteudo_modificado, arquivo_saida)
 
 # Mensagem de conclusão
-cat("O arquivo", arquivo_saida, "foi criado com sucesso na raiz do projeto.")
+cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 
 ################################################################################
 ################################################################################
@@ -254,7 +261,6 @@ github_windows("Atualização de Rotina")
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 file.remove("tabulacao_conteudo_final.xlsx")
-
 
 ################################################################################
 ################################################################################

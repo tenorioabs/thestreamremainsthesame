@@ -536,6 +536,40 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240227T221008SQUARE.png_20240227221008.png" tvg-chno="1552" group-title="Music" , Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTINF:-1 channel-id="roku-88eb3559a1b35743af300c2b5a3b3585" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/88eb3559a1b35743af300c2b5a3b3585/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687189375924_CMT_pluto_260x147.png" tvg-chno="289" , CMT Pluto TV
+https://i.mjh.nz/Roku/88eb3559a1b35743af300c2b5a3b3585.m3u8
+#EXTINF:-1 channel-id="roku-746b73a51c315e6f9ceef496d832b049" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/746b73a51c315e6f9ceef496d832b049/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687189297730_MTV_pluto_260x147.png" tvg-chno="633" , MTV Pluto TV
+https://i.mjh.nz/Roku/746b73a51c315e6f9ceef496d832b049.m3u8
+#EXTINF:-1 channel-id="roku-ad38218cf69056429f21778d04821079" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ad38218cf69056429f21778d04821079/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1695103043206_Roku_Channel_Program_Guide_Logos_PlutoTV_MTVFlowLatino_260x147.png" tvg-chno="1099" , MTV Flow Latino
+https://i.mjh.nz/Roku/ad38218cf69056429f21778d04821079.m3u8
+#EXTINF:-1 channel-id="roku-60db737695c95b599dad50d2c5595fe3" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" tvg-chno="1101" , Vevo Reggaeton & Trap
+https://i.mjh.nz/Roku/60db737695c95b599dad50d2c5595fe3.m3u8
+#EXTINF:-1 channel-id="roku-0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" tvg-chno="1103" , Vevo Latino
+https://i.mjh.nz/Roku/0d5283959d3a59bf87411e7077fd9e58.m3u8
+#EXTINF:-1 channel-id="roku-d72561cdd36d56e1a71cf3d1d59cad33" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d72561cdd36d56e1a71cf3d1d59cad33/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687189334684_MTV_BIGGEST_POP_260x147.png" tvg-chno="1122" , MTV Biggest Pop
+https://i.mjh.nz/Roku/d72561cdd36d56e1a71cf3d1d59cad33.m3u8
+#EXTINF:-1 channel-id="roku-e2ba2f7fcfe85153ba70c5af66fa22ff" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e2ba2f7fcfe85153ba70c5af66fa22ff/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147329401_WMX_POP_LOGO_HUD.png" tvg-chno="1123" , WMX Pop
+https://i.mjh.nz/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
+#EXTINF:-1 channel-id="roku-e50a8f06d3245c95a4e250dc5c33c2be" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e50a8f06d3245c95a4e250dc5c33c2be/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113520589_Info_HUD_Logo_260X147_center_%252814%2529.png" tvg-chno="1126" , Vevo Pop
+https://i.mjh.nz/Roku/e50a8f06d3245c95a4e250dc5c33c2be.m3u8
+#EXTINF:-1 channel-id="roku-6be3083b8ec2508495684e5087f8f86a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/6be3083b8ec2508495684e5087f8f86a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113546717_Info_HUD_Logo_260X147_center_%252813%2529.png" tvg-chno="1134" , Vevo R&B
+https://i.mjh.nz/Roku/6be3083b8ec2508495684e5087f8f86a.m3u8
+#EXTINF:-1 channel-id="roku-8dc44c8fdea45f039c68f75bda233850" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8dc44c8fdea45f039c68f75bda233850/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113465461_Info_HUD_Logo_260X147_center_%25283%2529.png" tvg-chno="1136" , Vevo Hip-Hop
+https://i.mjh.nz/Roku/8dc44c8fdea45f039c68f75bda233850.m3u8
+#EXTINF:-1 channel-id="roku-df14db5ffb64531ea5132b8345be4914" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/df14db5ffb64531ea5132b8345be4914/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147140512_WMX_HIPHOP_LOGO_HUD.png" tvg-chno="1137" , WMX Hip Hop
+https://i.mjh.nz/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 channel-id="roku-1db9c603bb4e5d87b015f9963da1093e" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/1db9c603bb4e5d87b015f9963da1093e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113404058_Info_HUD_Logo_260X147_center_%25284%2529.png" tvg-chno="1148" , Vevo Country
+https://i.mjh.nz/Roku/1db9c603bb4e5d87b015f9963da1093e.m3u8
+#EXTINF:-1 channel-id="roku-5941b88c38ab50ad8b09b0d920abbae5" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5941b88c38ab50ad8b09b0d920abbae5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678147364704_WMX_ROCK_LOGO_HUD.png" tvg-chno="1154" , WMX Rock
+https://i.mjh.nz/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
+#EXTINF:-1 channel-id="roku-94759dbd58a65682bcc573932f725f46" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/94759dbd58a65682bcc573932f725f46/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113375186_Info_HUD_Logo_260X147_center_%252819%2529.png" tvg-chno="1160" , Vevo 2K
+https://i.mjh.nz/Roku/94759dbd58a65682bcc573932f725f46.m3u8
+#EXTINF:-1 channel-id="roku-4c0772ef75e1565183843b37e91591f8" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/4c0772ef75e1565183843b37e91591f8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113345580_Info_HUD_Logo_260X147_center_%252816%2529.png" tvg-chno="1164" , Vevo '90s
+https://i.mjh.nz/Roku/4c0772ef75e1565183843b37e91591f8.m3u8
+#EXTINF:-1 channel-id="roku-fd8d765f98605129914b581147e7e8b2" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/fd8d765f98605129914b581147e7e8b2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112947403_Info_HUD_Logo_260X147_center_%252817%2529.png" tvg-chno="1170" , Vevo '80s
+https://i.mjh.nz/Roku/fd8d765f98605129914b581147e7e8b2.m3u8
+#EXTINF:-1 channel-id="roku-e5dcad2b1c055d4d86a9f7bba9438da7" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e5dcad2b1c055d4d86a9f7bba9438da7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112924287_Info_HUD_Logo_260X147_center_%252818%2529.png" tvg-chno="1180" , Vevo '70s
+https://i.mjh.nz/Roku/e5dcad2b1c055d4d86a9f7bba9438da7.m3u8
 #EXTINF:-1 tvg-id="LocalNow_PlymouthRockTVTheBestofNewEngland" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/632b7d8b4fc7d1d1f20257f2" group-title="Music",Plymouth Rock TV The Best of New England
 
 #EXTINF:-1 tvg-id="LocalNow_KMTVOmahaNE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/635028651497d4fdd009c171" group-title="Music",KMTV Omaha NE
