@@ -3,7 +3,7 @@
 
 pacotes <- c("dplyr",
              "httr",
-             "magrittr",
+             "R.utils",
              "stringr",
              "writexl",
              "xml2")

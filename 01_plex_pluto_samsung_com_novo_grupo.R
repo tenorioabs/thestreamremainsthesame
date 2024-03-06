@@ -233,22 +233,48 @@ arquivo_saida <- "minha_lista_concatenada.m3u8"
 # Lê o conteúdo do arquivo de entrada
 conteudo <- readLines(arquivo_entrada, warn = FALSE)
 
-# Adiciona 'group-title="United States"' aos canais que estão sem essa tag
-conteudo_com_group_title <- sapply(conteudo, function(linha) {
-  if (grepl("^#EXTINF:", linha) && !grepl("group-title=", linha)) {
-    # Se a linha é um canal e não tem 'group-title', adiciona 'group-title="United States"'
-    linha <- sub("^#EXTINF:", '#EXTINF: group-title="United States",', linha)
+# Lista de títulos de grupos que devem ser mantidos
+titulos_mantidos <- c("Australia",
+                      "Brazil",
+                      "Canada",
+                      "Great Britain",
+                      "Music",
+                      "United States")
+
+# Função para verificar e substituir os títulos dos grupos
+substituir_titulos <- function(linha) {
+  # Verifica se a linha é um canal
+  if (grepl("^#EXTINF:", linha)) {
+    # Transforma "USA" em "United States" antes de qualquer coisa
+    if (grepl('group-title="USA"', linha)) {
+      linha <- sub('group-title="USA"', 'group-title="United States"', linha)
+    }
+    
+    # Verifica se a linha contém algum dos títulos de grupos mantidos
+    mantido <- FALSE
+    for (titulo in titulos_mantidos) {
+      if (grepl(sprintf('group-title="%s"', titulo), linha)) {
+        mantido <- TRUE
+        break
+      }
+    }
+    
+    # Se não for um título mantido, substitui por "Omitir"
+    if (!mantido) {
+      # Verifica se já existe um group-title para substituição
+      if (grepl("group-title=", linha)) {
+        linha <- sub('group-title="[^"]*"', 'group-title="Omitir"', linha)
+      } else {
+        # Caso não exista um group-title, adiciona um novo com "Omitir"
+        linha <- sub("^#EXTINF:", '#EXTINF: group-title="Omitir",', linha)
+      }
+    }
   }
   return(linha)
-}, USE.NAMES = FALSE)
+}
 
-# Define as substituições em um vetor nomeado
-padroes_substituicoes <- c('group-title="USA"' = 'group-title="United States"',
-                           'group-title="United Kingdom"' = 'group-title="Great Britain"',
-                           'group-title="LocalNow:.*?"' = 'group-title="United States"')
-
-# Aplica as substituições
-conteudo_modificado <- str_replace_all(conteudo_com_group_title, padroes_substituicoes)
+# Aplica a função de substituição ao conteúdo
+conteudo_modificado <- sapply(conteudo, substituir_titulos, USE.NAMES = FALSE)
 
 # Salva o conteúdo modificado no arquivo de saída
 writeLines(conteudo_modificado, arquivo_saida)
@@ -261,8 +287,9 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
+file.remove("minha_lista_concatenada.xml")
 source("03_funcoes_github.R")
-github_windows(paste0("update_rotina_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
+github_windows(paste0("corrige_script_02_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 file.remove("tabulacao_conteudo_final.xlsx")
