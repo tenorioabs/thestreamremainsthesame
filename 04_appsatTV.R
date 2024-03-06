@@ -189,7 +189,7 @@ for (linha in linhas) {
 
 # Verificar se algum canal foi encontrado e salvar os canais modificados em um novo arquivo
 if (length(canais_encontrados) > 0) {
-  writeLines(canais_encontrados, "canais_encontrados_modificados.m3u8")
+  writeLines(canais_encontrados, "canais_encontrados_appsattvmodificados.m3u8")
   cat("Canais encontrados com a tag 'group-title' modificada para '", novo_group_title, "' e suas URLs foram salvos em 'canais_encontrados_modificados.m3u8'.\n", sep="")
 }
 
@@ -203,114 +203,4 @@ for (canal in names(resultados_busca)) {
     cat("Nenhum canal encontrado para:", canal, "\n\n")
   }
 }
-
-################################################################################
-################################################################################
-# Bloco 3, Insere novos canais manualmente e concatena listas
-# Definir os caminhos dos arquivos
-caminho_lista_original <- "minha_lista.m3u8"
-caminho_lista_modificada <- "canais_encontrados_modificados.m3u8"
-caminho_lista_concatenada <- "minha_lista_concatenada_appsattv.m3u8"
-
-# Ler os conteúdos dos arquivos
-conteudo_lista_original <- readLines(caminho_lista_original)
-conteudo_lista_modificada <- readLines(caminho_lista_modificada)
-
-# Concatenar os conteúdos
-conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
-
-# Adicionar os dois novos canais ao conteúdo concatenado
-novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Music\",MTV Japan\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
-                  "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_200x200.jpg\" group-title=\"Music\",Music Japan TV\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
-                  "#EXTINF:-1 tvg-id=\"TheCountryNetwork.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png\" group-title=\"Music\",The Country Network\nhttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8",
-                  "#EXTINF:-1 tvg-id=\"KMBYLD5.us\" tvg-logo=\"https://i.imgur.com/GlpYAKt.png\" group-title=\"Music\",Blues TV\nhttps://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8")
-
-conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
-
-# Escrever o conteúdo concatenado em um novo arquivo
-writeLines(conteudo_concatenado, caminho_lista_concatenada)
-
-cat("Os arquivos foram concatenados com sucesso e os novos canais foram adicionados. O resultado foi salvo em", caminho_lista_concatenada, "\n")
-################################################################################
-################################################################################
-# Bloco 4, apenas modifica a primeira linha indicado xml (epg) default
-# Definir o caminho do arquivo
-caminho_do_arquivo <- "minha_lista_concatenada_appsattv.m3u8"
-
-# Ler o arquivo
-linhas <- readLines(caminho_do_arquivo)
-
-# Substituir a URL na primeira linha
-if (grepl("^#EXTM3U", linhas[1])) {
-  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz"', linhas[1], perl = TRUE)
-}
-
-# Remover as linhas com a tag x-tvg-url, exceto a primeira linha
-linhas_para_manter <- c(linhas[1], linhas[!grepl('x-tvg-url=', linhas) | !grepl('^#EXTM3U', linhas)])
-
-# Salvar o arquivo com as modificações
-writeLines(linhas_para_manter, caminho_do_arquivo)
-
-# Mensagem de confirmação
-cat("O arquivo foi atualizado. A URL na tag 'x-tvg-url' da primeira linha foi substituída.\n")
-
-################################################################################
-################################################################################
-# Bloco 5, substitui nomes de grupos e atualiza o arquivo "minha_lista_concatenada_appsattv.m3u8"
-# Define o caminho do arquivo de entrada e de saída
-arquivo_entrada <- "minha_lista_concatenada_appsattv.m3u8"
-arquivo_saida <- "minha_lista_concatenada_appsattv.m3u8"
-
-# Lê o conteúdo do arquivo de entrada
-conteudo <- readLines(arquivo_entrada, warn = FALSE)
-
-# Lista de títulos de grupos que devem ser mantidos
-titulos_mantidos <- c("Australia",
-                      "Brazil",
-                      "Canada",
-                      "Great Britain",
-                      "Music",
-                      "United States")
-
-# Função para verificar e substituir os títulos dos grupos
-substituir_titulos <- function(linha) {
-  # Verifica se a linha é um canal
-  if (grepl("^#EXTINF:", linha)) {
-    # Transforma "USA" em "United States" antes de qualquer coisa
-    if (grepl('group-title="USA"', linha)) {
-      linha <- sub('group-title="USA"', 'group-title="United States"', linha)
-    }
-    
-    # Verifica se a linha contém algum dos títulos de grupos mantidos
-    mantido <- FALSE
-    for (titulo in titulos_mantidos) {
-      if (grepl(sprintf('group-title="%s"', titulo), linha)) {
-        mantido <- TRUE
-        break
-      }
-    }
-    
-    # Se não for um título mantido, substitui por "Omitir"
-    if (!mantido) {
-      # Verifica se já existe um group-title para substituição
-      if (grepl("group-title=", linha)) {
-        linha <- sub('group-title="[^"]*"', 'group-title="Omitir"', linha)
-      } else {
-        # Caso não exista um group-title, adiciona um novo com "Omitir"
-        linha <- sub("^#EXTINF:", '#EXTINF: group-title="Omitir",', linha)
-      }
-    }
-  }
-  return(linha)
-}
-
-# Aplica a função de substituição ao conteúdo
-conteudo_modificado <- sapply(conteudo, substituir_titulos, USE.NAMES = FALSE)
-
-# Salva o conteúdo modificado no arquivo de saída
-writeLines(conteudo_modificado, arquivo_saida)
-
-# Mensagem de conclusão
-cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
-file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
