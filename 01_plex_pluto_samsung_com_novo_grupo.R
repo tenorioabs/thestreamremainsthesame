@@ -193,9 +193,8 @@ conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 # Adicionar os dois novos canais ao conteúdo concatenado
 novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Music\",MTV Japan\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
                   "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_200x200.jpg\" group-title=\"Music\",Music Japan TV\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
-                  "#EXTINF:-1 tvg-id=\"TheCountryNetwork.us\" tvg-name=\"The Country Network\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png\" group-title=\"Music\",The Country Network\nhttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8",
-                  "#EXTINF:-1 tvg-id=\"KMBYLD5.us\" tvg-name=\"BLUES TV\" tvg-logo=\"https://i.imgur.com/GlpYAKt.png\" group-title=\"Music\",BLUES TV\nhttps://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-                  "#EXTINF:-1 tvg-id=\"(no tvg-id)\" tvg-name=\"CATEDRAL DO ROCK TV\" tvg-logo=\"https://imgur.com/p22Yewv.png\" group-title=\"Music\",CATEDRAL DO ROCK TV\nhttps://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8")
+                  "#EXTINF:-1 tvg-id=\"TheCountryNetwork.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png\" group-title=\"Music\",The Country Network\nhttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8",
+                  "#EXTINF:-1 tvg-id=\"KMBYLD5.us\" tvg-logo=\"https://i.imgur.com/GlpYAKt.png\" group-title=\"Music\",Blues TV\nhttps://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8")
 
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
 

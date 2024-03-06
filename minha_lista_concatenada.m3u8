@@ -10997,9 +10997,7 @@ https://distrib.noisypeak.com/d/89DI7GLSKAHGDGBZ2R5C/playlist.m3u8?ads.vast_id=6
 http://jp.vthanhnetwork.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-logo="https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_200x200.jpg" group-title="Music",Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-name="The Country Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-name="BLUES TV" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="Music",BLUES TV
+#EXTINF:-1 tvg-id="KMBYLD5.us" tvg-logo="https://i.imgur.com/GlpYAKt.png" group-title="Music",Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CATEDRAL DO ROCK TV" tvg-logo="https://imgur.com/p22Yewv.png" group-title="Music",CATEDRAL DO ROCK TV
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
