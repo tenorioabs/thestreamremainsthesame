@@ -194,8 +194,11 @@ conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Music\",MTV Japan\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
                   "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_200x200.jpg\" group-title=\"Music\",Music Japan TV\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
                   "#EXTINF:-1 tvg-id=\"TheCountryNetwork.us\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png\" group-title=\"Music\",The Country Network\nhttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8",
-                  "#EXTINF:-1 tvg-id=\"KMBYLD5.us\" tvg-logo=\"https://i.imgur.com/GlpYAKt.png\" group-title=\"Music\",Blues TV\nhttps://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8")
-
+                  "#EXTINF:-1 tvg-id=\"KMBYLD5.us\" tvg-logo=\"https://i.imgur.com/GlpYAKt.png\" group-title=\"Music\",Blues TV\nhttps://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV USA\nhttps://ourvinyltv-ourvinyltv-1-us.tcl.wurl.tv/playlist.m3u8",
+                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV Brazil\nhttps://ourvinyltv-ourvinyltv-1-br.tcl.wurl.tv",
+                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV France\nhttps://ourvinyltv-ourvinyltv-1-fr.tcl.wurl.tv/playlist.m3u8",
+                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV Mexico\nhttps://ourvinyltv-ourvinyltv-1-mx.tcl.wurl.tv/playlist.m3u8")
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
 
 # Escrever o conteúdo concatenado em um novo arquivo
