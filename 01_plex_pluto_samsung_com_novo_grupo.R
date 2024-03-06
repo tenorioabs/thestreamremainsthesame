@@ -177,6 +177,7 @@ for (canal in names(resultados_busca)) {
 
 ################################################################################
 ################################################################################
+# Bloco 3, Insere novos canais manualmente e concatena listas
 # Definir os caminhos dos arquivos
 caminho_lista_original <- "minha_lista.m3u8"
 caminho_lista_modificada <- "canais_encontrados_modificados.m3u8"
@@ -210,7 +211,7 @@ linhas <- readLines(caminho_do_arquivo)
 
 # Substituir a URL na primeira linha
 if (grepl("^#EXTM3U", linhas[1])) {
-  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml"', linhas[1], perl = TRUE)
+  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz"', linhas[1], perl = TRUE)
 }
 
 # Remover as linhas com a tag x-tvg-url, exceto a primeira linha
@@ -261,7 +262,7 @@ source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 source("03_funcoes_github.R")
-github_windows("Corrige URL de logo para o canal 'Music Japan TV' e corrige grupo da 'MTV Japan'")
+github_windows(paste0("update_rotina_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 file.remove("tabulacao_conteudo_final.xlsx")
