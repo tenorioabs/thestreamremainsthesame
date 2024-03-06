@@ -9599,6 +9599,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-tracesportsstar-xi
 https://lightning-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Trace Sports Stars alt
 https://tracetv-tracesportstars-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF: group-title="Omitir",-1,Our Vinyl TV (EU)
+https://ourvinyltv-ourvinyltv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Trace Brazuca
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Trace Latina
@@ -9859,6 +9861,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-qwestmix-vizio/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Trace Sports Stars -TCL
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF: group-title="Omitir",-1,Our Vinyl TV -TCL
+https://ourvinyltv-ourvinyltv-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF: group-title="Omitir",-1,Our Vinyl TV .BR -TCL
+https://ourvinyltv-ourvinyltv-1-br.tcl.wurl.tv
+#EXTINF: group-title="Omitir",-1,Our Vinyl TV .FR -TCL
+https://ourvinyltv-ourvinyltv-1-fr.tcl.wurl.tv/playlist.m3u8 
+#EXTINF: group-title="Omitir",-1,Our Vinyl TV .MX -TCL
+https://ourvinyltv-ourvinyltv-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Qwest Mix -TCL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwest-mix-tcl-tcl/playlist.m3u8
 #EXTINF: group-title="Omitir",-1,Qwest Jazz -TCL
