@@ -289,7 +289,7 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-#source("02_cria_xml.R")
+source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("minha_lista_concatenada.xml")
