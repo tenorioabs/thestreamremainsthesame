@@ -143,7 +143,8 @@ canais_buscados <- c("VH1",
                      "DittyTV",
                      "Broadway On Demand",
                      "Loupe Art",
-                     "AXS TV Now")
+                     "AXS TV Now",
+                     "Our Vinyl")
 
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
