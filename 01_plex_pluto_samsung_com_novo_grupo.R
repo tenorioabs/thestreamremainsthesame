@@ -198,7 +198,12 @@ novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikime
                   "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV USA\nhttps://ourvinyltv-ourvinyltv-1-us.tcl.wurl.tv/playlist.m3u8",
                   "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV Brazil\nhttps://ourvinyltv-ourvinyltv-1-br.tcl.wurl.tv",
                   "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV France\nhttps://ourvinyltv-ourvinyltv-1-fr.tcl.wurl.tv/playlist.m3u8",
-                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV Mexico\nhttps://ourvinyltv-ourvinyltv-1-mx.tcl.wurl.tv/playlist.m3u8")
+                  "#EXTINF:-1,tvg-id=\"sem.info\" tvg-logo=\"https://pbs.twimg.com/profile_images/1108077246999392258/e1rqU54I_400x400.png\" group-title=\"Music\",OurVinylTV Mexico\nhttps://ourvinyltv-ourvinyltv-1-mx.tcl.wurl.tv/playlist.m3u8",
+                  "#EXTINF:-1 tvg-id=\"BandNews.br\" tvg-logo=\"https://i.imgur.com/WwSAtkh.png\" group-title=\"Brazil\",Band News\nhttps://cdn2.connectbr.com.br/Band-News/tracks-v1a1/playlist.m3u8",
+                  "#EXTINF:-1 tvg-id=\"CNNBrasil.br\" tvg-logo=\"https://i.imgur.com/5AK7gLc.png\" group-title=\"Brazil\",CNN Brasil\nhttp://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8",
+                  "#EXTINF:-1 tvg-id=\"GloboNews.br\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png\" group-title=\"Brazil\",Globo News\nhttp://209.222.97.92:16436/GloboNews",
+                  "#EXTINF:-1 tvg-id=\"CNN.us\" tvg-logo=\"http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png\" group-title=\"United States\",CNN International\nhttp://linear-242.frequency.stream/242/hls/master/playlist.m3u8",
+                  "#EXTINF:-1 tvg-id=\"GBBA33000299M\" tvg-logo=\"https://i.imgur.com/p2nEd5g.png\" group-title=\"United States\",CNN International\nhttps://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8")
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
 
 # Escrever o conteúdo concatenado em um novo arquivo
@@ -249,10 +254,15 @@ titulos_mantidos <- c("Australia",
 # Função para verificar e substituir os títulos dos grupos
 substituir_titulos <- function(linha) {
   # Verifica se a linha é um canal
-  if (grepl("^#EXTINF:", linha)) {
+  if (grepl("^#EXTINF:", linha)) {data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAbElEQVR4Xs2RQQrAMAgEfZgf7W9LAguybljJpR3wEse5JOL3ZObDb4x1loDhHbBOFU6i2Ddnw2KNiXcdAXygJlwE8OFVBHDgKrLgSInN4WMe9iXiqIVsTMjH7z/GhNTEibOxQswcYIWYOR/zAjBJfiXh3jZ6AAAAAElFTkSuQmCC
     # Transforma "USA" em "United States" antes de qualquer coisa
     if (grepl('group-title="USA"', linha)) {
       linha <- sub('group-title="USA"', 'group-title="United States"', linha)
+    }
+    
+    # Adiciona uma condição para tratar "LocalNow:" seguido por quaisquer caracteres
+    if (grepl('group-title="LocalNow:.*"', linha)) {
+      linha <- sub('group-title="LocalNow:.*"', 'group-title="United States"', linha)
     }
     
     # Verifica se a linha contém algum dos títulos de grupos mantidos
@@ -289,7 +299,7 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-source("02_cria_xml.R")
+#source("02_cria_xml.R")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("minha_lista_concatenada.xml")
