@@ -254,7 +254,7 @@ titulos_mantidos <- c("Australia",
 # Função para verificar e substituir os títulos dos grupos
 substituir_titulos <- function(linha) {
   # Verifica se a linha é um canal
-  if (grepl("^#EXTINF:", linha)) {data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAbElEQVR4Xs2RQQrAMAgEfZgf7W9LAguybljJpR3wEse5JOL3ZObDb4x1loDhHbBOFU6i2Ddnw2KNiXcdAXygJlwE8OFVBHDgKrLgSInN4WMe9iXiqIVsTMjH7z/GhNTEibOxQswcYIWYOR/zAjBJfiXh3jZ6AAAAAElFTkSuQmCC
+  if (grepl("^#EXTINF:", linha)) {
     # Transforma "USA" em "United States" antes de qualquer coisa
     if (grepl('group-title="USA"', linha)) {
       linha <- sub('group-title="USA"', 'group-title="United States"', linha)
@@ -303,8 +303,8 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("minha_lista_concatenada.xml")
-#source("03_funcoes_github.R")
-#github_windows(paste0("corrige_script_02_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
+source("03_funcoes_github.R")
+github_windows(paste0("corrige_script_02_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
 #github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
 file.remove("tabulacao_conteudo_final.xlsx")
