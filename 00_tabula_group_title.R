@@ -22,4 +22,4 @@ tabulacao <- as.data.frame(table(valores_group_title))
 # Exibe a tabulação
 print(tabulacao)
 
-writexl::write_xlsx(tabulacao, "tabulacao_conteudo_final.xlsx")
+#writexl::write_xlsx(tabulacao, "tabulacao_conteudo_final.xlsx")

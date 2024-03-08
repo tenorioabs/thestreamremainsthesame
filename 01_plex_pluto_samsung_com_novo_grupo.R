@@ -300,13 +300,16 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 # Bloco 6, atualiza GitHub
 #source("02_cria_xml.R")
-file.remove("canais_encontrados_modificados.m3u8")
+#file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("minha_lista_concatenada.xml")
-source("03_funcoes_github.R")
-github_windows(paste0("corrige_script_02_", str_replace_all(format(x = Sys.time(), "%Y-%m-%d"), "-", "_")))
-#github_linux("Reformulação Geral")
 source("00_tabula_group_title.R")
-file.remove("tabulacao_conteudo_final.xlsx")
+source("03_funcoes_github.R")
+dia_hora <- Sys.time()
+dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+github_windows(paste0("atualizacao_", dia_hora))
+#github_linux("Reformulação Geral")
 ################################################################################
 ################################################################################
