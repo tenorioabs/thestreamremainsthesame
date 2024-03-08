@@ -11,6 +11,7 @@ url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/Stirr/all.m3u8",
               "https://i.mjh.nz/Roku/all.m3u8",
               "https://www.apsattv.com/localnow.m3u",
+              "https://iptv-org.github.io/iptv/index.m3u",
               "https://u.m3uiptv.com/wp-content/plugins/download-attachments/includes/download.php?id=M93Oz32LSBA8sx4v7xOR5g")
 
 library(httr)
@@ -302,13 +303,35 @@ source("02_cria_xml.R")
 file.remove("minha_lista_concatenada.xml")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
+
 source("00_tabula_group_title.R")
-source("03_funcoes_github.R")
-dia_hora <- Sys.time()
-dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
-github_windows(paste0("atualizacao_", dia_hora))
+
+source("04_double_check_brasil.R")
+
+source("00_tabula_group_title.R")
+                
+source("05_testa_links_m3u8.R")
+file.remove("minha_lista_concatenada.m3u8")
+
+# source("03_funcoes_github.R")
+# dia_hora <- Sys.time()
+# dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+# dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+# dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+# github_windows(paste0("atualizacao_", dia_hora))
 #github_linux("Reformulação Geral")
 ################################################################################
 ################################################################################
+# Define o nome atual do arquivo e o novo nome
+nome_atual <- "minha_lista_concatenada.xml.gz"
+novo_nome <- "minha_lista_concatenada_ativa.xml.gz"
+
+# Usa a função file.rename() para alterar o nome do arquivo
+resultado <- file.rename(nome_atual, novo_nome)
+
+# Verifica se a renomeação foi bem-sucedida
+if (resultado) {
+  cat("O arquivo foi renomeado com sucesso para", novo_nome, "\n")
+} else {
+  cat("Falha ao renomear o arquivo. Verifique se o arquivo existe e se você tem permissão para alterá-lo.\n")
+}
