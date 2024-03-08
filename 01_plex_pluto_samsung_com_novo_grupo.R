@@ -10,8 +10,8 @@ url_m3u8 <- c("https://i.mjh.nz/Plex/all.m3u8",
               "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
               "https://i.mjh.nz/Stirr/all.m3u8",
               "https://i.mjh.nz/Roku/all.m3u8",
-              "https://www.apsattv.com/localnow.m3u,
-              https://u.m3uiptv.com/wp-content/plugins/download-attachments/includes/download.php?id=M93Oz32LSBA8sx4v7xOR5g")
+              "https://www.apsattv.com/localnow.m3u",
+              "https://u.m3uiptv.com/wp-content/plugins/download-attachments/includes/download.php?id=M93Oz32LSBA8sx4v7xOR5g")
 
 library(httr)
 
@@ -298,7 +298,8 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-#source("02_cria_xml.R")
+source("02_cria_xml.R")
+file.remove("minha_lista_concatenada.xml")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 source("00_tabula_group_title.R")
