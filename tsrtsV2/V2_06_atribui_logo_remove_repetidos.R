@@ -14,7 +14,7 @@ processar_conteudo <- function(conteudo) {
   conteudo_completo <- paste(conteudo, collapse = "\n")
   
   # Substituir tvg-logo="" pela URL do logo do Sepultura
-  conteudo_completo <- gsub('tvg-logo="[^"]*"', 'tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png"', conteudo_completo)
+  conteudo_completo <- gsub('tvg-logo="[^"]*"', 'tvg-logo="https://github.com/tenorioabs/thestreamremainsthesame/blob/main/tsrtsV2/SepulTV.png"', conteudo_completo)
   
   # Separar novamente em linhas para identificar blocos únicos
   linhas <- unlist(strsplit(conteudo_completo, "\n"))
