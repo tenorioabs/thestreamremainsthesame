@@ -1,6 +1,6 @@
 ################################################################################
 ################################################################################
-source("09_instala_carrega_pacotes.R")
+source("V01_09_instala_carrega_pacotes.R")
 ################################################################################
 ################################################################################
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
@@ -205,10 +205,10 @@ novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikime
                   "#EXTINF:-1 tvg-id=\"CNNBrasil.br\" tvg-logo=\"https://i.imgur.com/5AK7gLc.png\" group-title=\"Brazil\",CNN Brasil\nhttp://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8",
                   "#EXTINF:-1 tvg-id=\"GloboNews.br\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png\" group-title=\"Brazil\",Globo News\nhttp://209.222.97.92:16436/GloboNews",
                   "#EXTINF:-1 tvg-id=\"4music.uk\" tvg-name=\"UK - 4Music\" tvg-logo=\"http://attp.ddns.net:25461/images/3716d07c2ea18053da67e42f23510673.png\" group-title=\"Music\",4Music\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/59948",
-                  "#EXTINF:-1 tvg-id=\"Cnn.us\" tvg-name=\"USA - CNN\" tvg-logo=\"http://attp.ddns.net:25461/images/3b28681ca92c1a20a634cecda3944f7d.png\" group-title=\"USA\",CNN USA\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57214",
+                  "#EXTINF:-1 tvg-id=\"Cnn.us\" tvg-name=\"USA - CNN\" tvg-logo=\"http://attp.ddns.net:25461/images/3b28681ca92c1a20a634cecda3944f7d.png\" group-title=\"United States\",CNN USA\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57214",
                   "#EXTINF:-1 tvg-id=\"Cnn.ca\" tvg-name=\"CA - CNN HD\" tvg-logo=\"http://attp.ddns.net:25461/images/92de8241eb80455f9f1eb8bf008a79eb.png\" group-title=\"Canada\",CNN CA HD\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61130",
                   "#EXTINF:-1 tvg-id=\"Cnn.ca\" tvg-name=\"CA - CNN INTERNATIONAL  HD\" tvg-logo=\"http://attp.ddns.net:25461/images/92de8241eb80455f9f1eb8bf008a79eb.png\" group-title=\"Canada\",CNN INTERNATIONAL CA HD\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61131",
-                  "#EXTINF:-1 tvg-id=\"Cnn.us\" tvg-name=\"USA - CNN HD\" tvg-logo=\"http://attp.ddns.net:25461/images/8b0b0df3207d9e82299feba06c904a17.png\" group-title=\"USA\",CNN USA HD\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58495")
+                  "#EXTINF:-1 tvg-id=\"Cnn.us\" tvg-name=\"USA - CNN HD\" tvg-logo=\"http://attp.ddns.net:25461/images/8b0b0df3207d9e82299feba06c904a17.png\" group-title=\"United States\",CNN USA HD\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58495")
 
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
 
@@ -305,21 +305,23 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-source("02_cria_xml.R")
+source("V01_02_cria_xml.R")
 file.remove("minha_lista_concatenada.xml")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 
-source("00_tabula_group_title.R")
+source("V01_00_tabula_group_title.R")
 
-source("04_double_check_brasil.R")
+source("V01_04_double_check_brasil.R")
 
-source("00_tabula_group_title.R")
+source("V01_00_tabula_group_title.R")
                 
-source("05_testa_links_m3u8.R")
+source("V01_05_testa_links_m3u8.R")
 file.remove("minha_lista_concatenada.m3u8")
 
-source("03_funcoes_github.R")
+source("c:/Users/tenor/OneDrive/GitHub/thestreamremainsthesame/tsrtsV2/V2_01_plex_pluto_samsung_com_novo_grupo.R")
+
+source("V01_03_funcoes_github.R")
 dia_hora <- Sys.time()
 dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
 dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
