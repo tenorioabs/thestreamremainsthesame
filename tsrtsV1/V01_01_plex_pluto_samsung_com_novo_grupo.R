@@ -319,14 +319,10 @@ source("V01_00_tabula_group_title.R")
 source("V01_05_testa_links_m3u8.R")
 file.remove("minha_lista_concatenada.m3u8")
 
-source("c:/Users/tenor/OneDrive/GitHub/thestreamremainsthesame/tsrtsV2/V2_01_plex_pluto_samsung_com_novo_grupo.R")
+setwd("C:/Users/tenor/OneDrive/GitHub/thestreamremainsthesame/tsrtsV2")
+source("V2_01_plex_pluto_samsung_com_novo_grupo.R", encoding = "UTF-8")
+setwd("C:/Users/tenor/OneDrive/GitHub/thestreamremainsthesame/tsrtsV1")
 
-source("V01_03_funcoes_github.R")
-dia_hora <- Sys.time()
-dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
-github_windows(paste0("atualizacao_", dia_hora))
 ################################################################################
 ################################################################################
 # Define o nome atual do arquivo e o novo nome
@@ -342,5 +338,12 @@ if (resultado) {
 } else {
   cat("Falha ao renomear o arquivo. Verifique se o arquivo existe e se você tem permissão para alterá-lo.\n")
 }
+
+source("V01_03_funcoes_github.R")
+dia_hora <- Sys.time()
+dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+github_windows(paste0("atualizacao_", dia_hora))
 
 system("shutdown /s /t 0")
