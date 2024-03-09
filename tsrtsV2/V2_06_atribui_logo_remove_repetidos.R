@@ -13,8 +13,8 @@ processar_conteudo <- function(conteudo) {
   # Concatenar todo o conteúdo em uma única string para facilitar a substituição
   conteudo_completo <- paste(conteudo, collapse = "\n")
   
-  # Substituir tvg-logo="" pela URL do logo do Sepultura
-  conteudo_completo <- gsub('tvg-logo="[^"]*"', 'tvg-logo="https://github.com/tenorioabs/thestreamremainsthesame/blob/main/tsrtsV2/SepulTV.png"', conteudo_completo)
+  # Substituir apenas tvg-logo="" (vazio) pela URL do logo do Sepultura
+  conteudo_completo <- gsub('tvg-logo=""', 'tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png"', conteudo_completo)
   
   # Separar novamente em linhas para identificar blocos únicos
   linhas <- unlist(strsplit(conteudo_completo, "\n"))
@@ -32,7 +32,7 @@ processar_conteudo <- function(conteudo) {
 
 # Nomes dos arquivos de entrada e saída
 nome_arquivo_entrada <- "minha_lista_concatenada_ativa.m3u8"
-nome_arquivo_saida <- "minha_lista_concatenada_ativa.m3u8"
+nome_arquivo_saida <- "minha_lista_concatenada_sem_repeticao.m3u8"
 
 # Ler, processar e escrever o arquivo
 conteudo <- ler_arquivo(nome_arquivo_entrada)

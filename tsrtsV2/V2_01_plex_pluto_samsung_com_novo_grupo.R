@@ -88,7 +88,8 @@ url_m3u8 <- c(
   "https://www.apsattv.com/klowd.m3u",
   "https://www.apsattv.com/lg.m3u",
   "https://www.apsattv.com/vizio.m3u",
-  "https://www.apsattv.com/tcl.m3u"
+  "https://www.apsattv.com/tcl.m3u",
+  "http://m3u4u.com/m3u/w16vy5xw9gaxx42jn39p"
 )
 
 processa_url <- function(url) {
@@ -330,7 +331,12 @@ titulos_mantidos <- c("Australia",
                       "Canada",
                       "Great Britain",
                       "Music",
-                      "United States")
+                      "United States",
+                      "NBA League Pass",
+                      "Campeonatos Estaduais",
+                      "Esportes Pay-Per-View",
+                      "Jogos de Hoje",
+                      "Premiere")
 
 # Função para verificar e substituir os títulos dos grupos
 substituir_titulos <- function(linha) {
@@ -380,18 +386,21 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-source("V2_02_cria_xml.R")
-file.remove("minha_lista_concatenada.xml")
+#source("V2_02_cria_xml.R")
+#file.remove("minha_lista_concatenada.xml")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 
-source("V2_00_tabula_group_title.R")
+#source("V2_00_tabula_group_title.R")
 
 source("V2_04_double_check_brasil.R")
 
-source("V2_00_tabula_group_title.R")
-                
+#source("V2_00_tabula_group_title.R")
+              
 source("V2_05_testa_links_m3u8.R")
+
+source("V2_06_atribui_logo_remove_repetidos.R")
+
 file.remove("minha_lista_concatenada.m3u8")
 
 source("V2_03_funcoes_github.R")
@@ -417,4 +426,4 @@ if (resultado) {
   cat("Falha ao renomear o arquivo. Verifique se o arquivo existe e se você tem permissão para alterá-lo.\n")
 }
 
-system("shutdown /s /t 0")
+#system("shutdown /s /t 0")
