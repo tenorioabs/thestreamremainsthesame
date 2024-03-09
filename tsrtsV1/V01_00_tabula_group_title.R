@@ -1,5 +1,5 @@
 # Define o caminho para o arquivo M3U8 unificado
-arquivo <- "minha_lista_concatenada.m3u8"
+arquivo <- "minha_lista_concatenada_ativa.m3u8"
 
 # Lê o conteúdo do arquivo
 conteudo <- readLines(arquivo, warn = FALSE)
