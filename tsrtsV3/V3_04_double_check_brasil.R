@@ -15,6 +15,7 @@ inicio_novo_bloco <- TRUE
 
 # Constrói os blocos de canais manualmente
 for (linha in linhas_arquivo) {
+  print(linha)
   if (str_detect(linha, "^#EXTINF")) {
     if (!inicio_novo_bloco) {
       blocos_canais <- c(blocos_canais, list(bloco_atual))
@@ -39,6 +40,7 @@ pb <- txtProgressBar(min = 0, max = length(blocos_canais), style = 3)
 
 # Processa cada bloco
 for (i in seq_along(blocos_canais)) {
+  print(i)
   bloco <- blocos_canais[[i]]
   
   # Verifica se contém menção ao Brasil

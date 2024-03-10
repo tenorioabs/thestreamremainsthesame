@@ -5,9 +5,19 @@ source("V3_03_funcoes.R")
 ################################################################################
 ################################################################################
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
-# Lista de URLs
+# Definir caminho do arquivo e nome da coluna
 caminho_arquivo <- "C:/Users/tenor/OneDrive/GitHub/outros_scripts/urls_geral.xlsx"
 nome_coluna <- "urls_geral"
+
+# Função para carregar URLs do arquivo Excel
+carrega_urls_geral <- function(caminho_arquivo, nome_coluna) {
+  urls <- read_excel(caminho_arquivo, col_types = "text")
+  if (nome_coluna %in% colnames(urls)) {
+    return(urls[[nome_coluna]])
+  } else {
+    stop("Coluna não encontrada no arquivo.")
+  }
+}
 
 # Chamar a função e salvar o resultado
 url_m3u8 <- carrega_urls_geral(caminho_arquivo, nome_coluna)
@@ -20,7 +30,9 @@ if (!is.null(url_m3u8)) {
   cat("Falha ao carregar os dados.\n")
 }
 
+# Modificar a função processa_url para incluir a verificação de sucesso
 processa_url <- function(url) {
+  print(url)
   response <- tryCatch({
     GET(url)
   }, error = function(e) {
@@ -31,26 +43,37 @@ processa_url <- function(url) {
   if (is.null(response)) return(NULL)
   
   conteudo <- content(response, "text", encoding = "UTF-8")
-  return(conteudo)
+  return(list(url = url, conteudo = conteudo))
 }
 
 # Processar URLs e coletar o conteúdo para cada uma
 conteudos <- lapply(url_m3u8, processa_url)
 
-# Filtrar linhas em branco para cada conteúdo e então unlist
-# Aqui, ajustamos para garantir que mesmo após a concatenação, linhas completamente vazias sejam removidas
-conteudos_filtrados <- lapply(conteudos, function(x) grep("^\\S", x, value = TRUE))
-conteudo_final_sem_filtro <- paste(unlist(conteudos_filtrados), collapse = "\n")
+# Inicializar o DataFrame para armazenar URLs bem-sucedidas
+urls_funcionando <- data.frame(urls_geral = character(), stringsAsFactors = FALSE)
 
-# Novo passo: remover linhas completamente vazias após a concatenação
+# Filtrar linhas em branco para cada conteúdo e então unlist
+conteudos_filtrados <- lapply(conteudos, function(x) {
+  if (!is.null(x)) {
+    urls_funcionando <<- rbind(urls_funcionando, data.frame(urls_geral = x$url))
+    grep("^\\S", x$conteudo, value = TRUE)
+  }
+})
+
+conteudo_final_sem_filtro <- paste(unlist(conteudos_filtrados), collapse = "\n")
 conteudo_final <- gsub("\n{2,}", "\n", conteudo_final_sem_filtro)
 
 # Salvar o conteúdo final no arquivo "minha_lista.m3u8", eliminando linhas em branco
 writeLines(conteudo_final, "minha_lista.m3u8")
-
 message("Arquivo 'minha_lista.m3u8' salvo com sucesso, sem linhas em branco.")
+
+# Salvar o DataFrame de URLs bem-sucedidas no arquivo Excel, sobrescrevendo o existente
+write_xlsx(urls_funcionando, caminho_arquivo)
+message("Arquivo 'urls_geral.xlsx' atualizado com sucesso, contendo apenas as URLs que funcionaram.")
+
 ################################################################################
 ################################################################################
+
 # Bloco 2, carrega o arquivo "minha_lista.m3u8", aplica Regex e cria novo grupo
 # chamado "Music" e salva no arquivo "canais_encontrados_modificados.m3u8"
 # Ler o arquivo com os dados dos canais
@@ -59,69 +82,76 @@ linhas <- readLines(caminho_do_arquivo)
 
 # Especificar os nomes dos canais buscados
 canais_buscados <- c("4Music",
-                      "AMusic Channel",
-                      "AXS TV Now",
-                      "BMTV",
-                      "Best of MTV",
-                      "Broadway On Demand",
-                      "CMT",
-                      "CMusic",
-                      "Classica",
-                      "Classic Rock",
-                      "Deluxe Lounge HD",
-                      "DittyTV",
-                      "Djazz",
-                      "IFM TV",
-                      "KMTV",
-                      "Live Music Replay",
-                      "Littoral FM",
-                      "Loupe Art",
-                      "MTV Approved Hip Hop",
-                      "MTV Beats",
-                      "MTV Biggest Pop",
-                      "MTV Classic",
-                      "MTV Flow Latino",
-                      "MTV Frauen Power",
-                      "MTV German Music",
-                      "MTV Hits France",
-                      "MTV Just Tattoo of Us",
-                      "MTV Love",
-                      "MTV Movie Hits",
-                      "MTV Music",
-                      "MTV Original Version",
-                      "MTV Party",
-                      "MTV Pluto TV",
-                      "MTV Rocks",
-                      "MTV RockZone",
-                      "MTV Summer Hits",
-                      "MTV Tattoo a dos",
-                      "MTV Unplugged",
-                      "MTV Urban Music",
-                      "MTV Vergüenza ajena",
-                      "MTV en español",
-                      "MTV: Best of",
-                      "Music Legends Network",
-                      "Naturescape",
-                      "Now 80's",
-                      "Now 80s",
-                      "Now Rock",
-                      "OFIVE",
-                      "OurVinyl TV",
-                      "Pluto TV Fireplace",
-                      "Pluto TV MTV",
-                      "Qello",
-                      "Qwest",
-                      "Rock Story",
-                      "Rock TV",
-                      "Stingray",
-                      "Trace",
-                      "Vevo",
-                      "VH1",
-                      "Vivaldi TV",
-                      "WMX",
-                      "XITE",
-                      "Xite",
-                      "Yo! MTV Raps Classic")
+                     "AMusic Channel",
+                     "AXS TV Now",
+                     "Bis",
+                     "BIS",
+                     "BMTV",
+                     "Best of MTV",
+                     "Broadway On Demand",
+                     "CMT",
+                     "CMusic",
+                     "Classica",
+                     "Classic Rock",
+                     "Deluxe Lounge HD",
+                     "DittyTV",
+                     "Djazz",
+                     "IFM TV",
+                     "KMTV",
+                     "Live Music Replay",
+                     "Littoral FM",
+                     "Loupe Art",
+                     "MTV Approved Hip Hop",
+                     "MTV Beats",
+                     "MTV Biggest Pop",
+                     "MTV Classic",
+                     "MTV Flow Latino",
+                     "MTV Frauen Power",
+                     "MTV German Music",
+                     "MTV Hits France",
+                     "MTV Just Tattoo of Us",
+                     "MTV Love",
+                     "MTV Movie Hits",
+                     "MTV Music",
+                     "MTV Original Version",
+                     "MTV Party",
+                     "MTV Pluto TV",
+                     "MTV Rocks",
+                     "MTV RockZone",
+                     "MTV Summer Hits",
+                     "MTV Tattoo a dos",
+                     "MTV Unplugged",
+                     "MTV Urban Music",
+                     "MTV Vergüenza ajena",
+                     "MTV en español",
+                     "MTV: Best of",
+                     "Music",
+                     "music",
+                     "Music Legends Network",
+                     "Naturescape",
+                     "Now 80's",
+                     "Now 80s",
+                     "Now Rock",
+                     "OFIVE",
+                     "OurVinyl TV",
+                     "Pluto TV Fireplace",
+                     "Pluto TV MTV",
+                     "Qello",
+                     "Qwest",
+                     "Rock Story",
+                     "Rockstory",
+                     "RockZone",
+                     "Rock TV",
+                     "Stingray",
+                     "Trace",
+                     "Unplugged",
+                     "Vevo",
+                     "VH1",
+                     "Vivaldi TV",
+                     "WMX",
+                     "XITE",
+                     "Xite",
+                     "Yo! MTV Raps Classic")
 
 # Inicializar uma lista para armazenar os resultados da busca
 resultados_busca <- list()
@@ -131,6 +161,7 @@ novo_group_title <- "Music"
 
 # Inicializar os elementos da lista para cada canal buscado
 for (canal in canais_buscados) {
+  print(canal)
   resultados_busca[[canal]] <- c()
 }
 
@@ -139,6 +170,7 @@ canais_encontrados <- c()
 capturar_proxima_linha <- FALSE
 
 for (linha in linhas) {
+  print(linha)
   if (capturar_proxima_linha) {
     # Adiciona a URL do canal encontrado na lista
     canais_encontrados <- c(canais_encontrados, linha)
@@ -147,6 +179,7 @@ for (linha in linhas) {
   }
   
   for (canal in canais_buscados) {
+    print(canal)
     if (str_detect(linha, fixed(canal))) {
       # Substituir o valor da tag "group-title" pelo valor especificado
       linha_modificada <- str_replace(linha, pattern = "group-title=\"[^\"]*\"", replacement = sprintf("group-title=\"%s\"", novo_group_title))
@@ -172,6 +205,7 @@ if (length(canais_encontrados) > 0) {
 
 # Imprime os resultados
 for (canal in names(resultados_busca)) {
+  print(canal)
   if (length(resultados_busca[[canal]]) > 0) {
     cat("Canal:", canal, "\n")
     cat("Quantidade encontrada:", length(resultados_busca[[canal]]), "\n")
@@ -314,31 +348,20 @@ cat("O arquivo", arquivo_saida, "foi atualizado com sucesso.")
 ################################################################################
 ################################################################################
 # Bloco 6, atualiza GitHub
-#source("V3_02_cria_xml.R")
-#file.remove("minha_lista_concatenada.xml")
+
+source("V3_02_cria_xml.R")
+file.remove("minha_lista_concatenada.xml")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 
-#source("V3_00_tabula_group_title.R")
-
 source("V3_04_double_check_brasil.R")
-
-#source("V3_00_tabula_group_title.R")
-              
-source("V3_05_testa_links_m3u8.R")
 
 source("V3_06_atribui_logo_remove_repetidos.R")
 
+source("V3_05_testa_links_m3u8.R")
+
 file.remove("minha_lista_concatenada.m3u8")
 
-dia_hora <- Sys.time()
-dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
-github_windows(paste0("atualizacao_", dia_hora))
-#github_linux("Reformulação Geral")
-################################################################################
-################################################################################
 # Define o nome atual do arquivo e o novo nome
 nome_atual <- "minha_lista_concatenada.xml.gz"
 novo_nome <- "minha_lista_concatenada_ativa.xml.gz"
@@ -353,4 +376,14 @@ if (resultado) {
   cat("Falha ao renomear o arquivo. Verifique se o arquivo existe e se você tem permissão para alterá-lo.\n")
 }
 
+dia_hora <- Sys.time()
+dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+github_windows(paste0("atualizacao_", dia_hora))
+#github_linux("Reformulação Geral")
+
 system("shutdown /s /t 0")
+
+################################################################################
+################################################################################

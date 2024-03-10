@@ -24,6 +24,7 @@ conteudo_concatenado <- ""
 
 # Loop para processar cada URL
 for (url in urls) {
+  print(url)
   # Faz o download do conteúdo da URL
   conteudo <- readLines(url, warn = FALSE)
   
