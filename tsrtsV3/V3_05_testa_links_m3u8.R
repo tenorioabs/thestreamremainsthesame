@@ -21,7 +21,7 @@ verificarURL <- function(url) {
 }
 
 # Lê o arquivo m3u8 e remove blocos com group-title="Omitir"
-caminho_arquivo <- "minha_lista_concatenada.m3u8"
+caminho_arquivo <- "minha_lista_concatenada_ativa.m3u8"
 linhas <- readLines(caminho_arquivo, warn = FALSE)
 
 # Identifica e remove blocos com "group-title="Omitir""

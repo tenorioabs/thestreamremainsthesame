@@ -6,7 +6,7 @@ source("V3_03_funcoes.R")
 ################################################################################
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
 # Definir caminho do arquivo e nome da coluna
-caminho_arquivo <- "C:/Users/tenor/OneDrive/GitHub/outros_scripts/urls_geral.xlsx"
+caminho_arquivo <- "F:/GitHub/outros_scripts/urls_geral.xlsx"
 nome_coluna <- "urls_geral"
 
 # Função para carregar URLs do arquivo Excel
@@ -170,7 +170,7 @@ canais_encontrados <- c()
 capturar_proxima_linha <- FALSE
 
 for (linha in linhas) {
-  print(linha)
+  #print(linha)
   if (capturar_proxima_linha) {
     # Adiciona a URL do canal encontrado na lista
     canais_encontrados <- c(canais_encontrados, linha)
@@ -179,7 +179,7 @@ for (linha in linhas) {
   }
   
   for (canal in canais_buscados) {
-    print(canal)
+    #print(canal)
     if (str_detect(linha, fixed(canal))) {
       # Substituir o valor da tag "group-title" pelo valor especificado
       linha_modificada <- str_replace(linha, pattern = "group-title=\"[^\"]*\"", replacement = sprintf("group-title=\"%s\"", novo_group_title))
@@ -383,7 +383,7 @@ dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
 github_windows(paste0("atualizacao_", dia_hora))
 #github_linux("Reformulação Geral")
 
-system("shutdown /s /t 0")
+#system("shutdown /s /t 0")
 
 ################################################################################
 ################################################################################

@@ -31,7 +31,7 @@ processar_conteudo <- function(conteudo) {
 }
 
 # Nomes dos arquivos de entrada e saída
-nome_arquivo_entrada <- "minha_lista_concatenada_ativa.m3u8"
+nome_arquivo_entrada <- "minha_lista_concatenada.m3u8"
 nome_arquivo_saida <- "minha_lista_concatenada_ativa.m3u8"
 
 # Ler, processar e escrever o arquivo
