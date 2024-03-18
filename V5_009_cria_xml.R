@@ -9,7 +9,7 @@ urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/SamsungTVPlus/all.xml",
           "https://i.mjh.nz/Stirr/all.xml",
           "https://i.mjh.nz/Roku/epg.xml",
-          "https://i.mjh.nz/PBS/all.m3u8")
+          "https://i.mjh.nz/PBS/all.xml")
 
 # Inicializa um objeto para armazenar o conteúdo concatenado
 conteudo_concatenado <- ""
