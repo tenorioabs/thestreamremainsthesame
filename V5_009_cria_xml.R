@@ -9,14 +9,7 @@ urls <- c("https://i.mjh.nz/Plex/all.xml",
           "https://i.mjh.nz/SamsungTVPlus/all.xml",
           "https://i.mjh.nz/Stirr/all.xml",
           "https://i.mjh.nz/Roku/epg.xml",
-          "https://www.bevy.be/bevyfiles/brazil.xml",
-          "https://www.bevy.be/bevyfiles/brazilpremium.xml",
-          "https://www.bevy.be/bevyfiles/brazilpremium2.xml",
-          "https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml",
-          "https://www.bevy.be/bevyfiles/unitedstatespremium1.xml",
-          "https://www.bevy.be/bevyfiles/unitedstatespremium2.xml",
-          "https://www.bevy.be/bevyfiles/unitedstatespremium3.xml",
-          "https://www.bevy.be/bevyfiles/unitedstatespremium4.xml")
+          "https://i.mjh.nz/PBS/all.m3u8")
 
 # Inicializa um objeto para armazenar o conteúdo concatenado
 conteudo_concatenado <- ""
