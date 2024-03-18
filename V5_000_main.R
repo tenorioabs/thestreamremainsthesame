@@ -1,4 +1,4 @@
-uisource("V5_099_instala_carrega_pacotes.R")
+source("V5_099_instala_carrega_pacotes.R")
 source("V5_098_funcoes.R")
 source("V5_001_download_concatenacao_urls.R")
 tabula_group_title("minha_lista.m3u8")
