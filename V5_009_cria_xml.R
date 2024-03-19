@@ -18,7 +18,7 @@ conteudo_concatenado <- ""
 for (url in urls) {
   print(url)
   # Faz o download do conteúdo da URL
-  conteudo <- readLines(url, warn = FALSE)
+  conteudo <- readLines(url, warn = FALSE, timeout=240)
   
   # Remove a primeira e a última linha
   conteudo <- conteudo[-1]
