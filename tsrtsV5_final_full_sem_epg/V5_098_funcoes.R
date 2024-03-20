@@ -1,7 +1,10 @@
 github_linux <- function(mensagem){
-  system("git add .")
-  system(paste0("git commit -m \"", mensagem, "\"")) # Note as aspas escapadas
-  system("git push origin main")
+  add_res <- system("git add .", intern = TRUE)
+  cat("git add result:", add_res, "\n") # Exibe o resultado do git add
+  commit_res <- system(paste0("git commit -m \"", mensagem, "\""), intern = TRUE)
+  cat("git commit result:", commit_res, "\n") # Exibe o resultado do git commit
+  push_res <- system("git push origin main", intern = TRUE)
+  cat("git push result:", push_res, "\n") # Exibe o resultado do git push
 }
 
 github_windows <- function(mensagem){
