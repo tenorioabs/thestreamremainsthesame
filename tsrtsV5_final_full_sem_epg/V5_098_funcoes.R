@@ -1,6 +1,6 @@
 github_linux <- function(mensagem){
   system("git add .")
-  system(paste0("git commit -m ", mensagem))
+  system(paste0("git commit -m \"", mensagem, "\"")) # Note as aspas escapadas
   system("git push origin main")
 }
 
