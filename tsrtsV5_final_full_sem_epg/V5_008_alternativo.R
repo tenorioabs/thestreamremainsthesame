@@ -10,7 +10,7 @@ library(future.apply)
 library(progressr)
 
 # Configuração inicial para paralelização
-future::plan("multisession", workers = 6)
+future::plan("multisession", workers = 10)
 
 # Função para imprimir mensagens coloridas
 imprimirColorido <- function(mensagem, cor = "verde") {
