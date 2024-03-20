@@ -10,6 +10,7 @@ tabula_group_title("minha_lista_concatenada.m3u8")
 #source("V5_006_double_check_canais.R")
 source("V5_007_atribui_logo_remove_repetidos.R")
 #source("V5_008_testa_links_m3u8.R")
+source("V5_008_alternativo.R")
 #source("V5_009_cria_xml.R")
 
 tabula_group_title("minha_lista_concatenada_ativa.m3u8")
