@@ -9,7 +9,7 @@ linhas <- readLines(caminho_do_arquivo)
 
 # Substituir a URL na primeira linha
 if (grepl("^#EXTM3U", linhas[1])) {
-  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz"', linhas[1], perl = TRUE)
+  linhas[1] <- gsub('x-tvg-url="[^"]+"', 'x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/tsrtsV5_final_reduced_com_epg/minha_lista_concatenada_ativa.xml.gz"', linhas[1], perl = TRUE)
 }
 
 # Remover as linhas com a tag x-tvg-url, exceto a primeira linha
