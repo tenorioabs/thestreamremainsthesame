@@ -56,4 +56,6 @@ gzip("minha_lista_concatenada.xml", destname = arquivo_gz, remove = FALSE)
 # Define o nome atual do arquivo e o novo nome
 nome_atual <- "minha_lista_concatenada.xml.gz"
 novo_nome <- "minha_lista_concatenada_ativa.xml.gz"
+# Usa a função file.rename() para alterar o nome do arquivo
+resultado <- file.rename(nome_atual, novo_nome)
 file.remove("minha_lista_concatenada.xml")

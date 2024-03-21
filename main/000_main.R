@@ -1,0 +1,26 @@
+source("099_instala_carrega_pacotes.R")
+source("098_funcoes.R")
+source("001_download_concatenacao_urls.R")
+tabula_group_title("minha_lista.m3u8")
+source("002_cria_music_salva_arquivo.R")
+source("003_insere_canais_manualmente_concatena_resultados_buscados.R")
+source("004_cria_index_epg_no_m3u8.R")
+source("005_cria_grupos.R")
+tabula_group_title("minha_lista_concatenada.m3u8")
+#source("006_double_check_canais.R")
+source("008_testa_links_m3u8.R")
+#source("009_cria_xml.R")
+
+tabula_group_title("minha_lista_concatenada_ativa.m3u8")
+
+file.remove("minha_lista_concatenada.m3u8")
+file.remove("canais_encontrados_modificados.m3u8")
+file.remove("minha_lista.m3u8")
+file.remove("tabulacao_conteudo_final.xlsx")
+
+dia_hora <- Sys.time()
+dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+github_windows(paste0("atualizacao_", dia_hora))
+
