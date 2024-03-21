@@ -20,9 +20,6 @@ file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("tabulacao_conteudo_final.xlsx")
 
-# Usa a função file.rename() para alterar o nome do arquivo
-resultado <- file.rename(nome_atual, novo_nome)
-
 dia_hora <- Sys.time()
 dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
 dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
