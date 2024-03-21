@@ -15,15 +15,10 @@ source("V5_009_cria_xml.R")
 
 tabula_group_title("minha_lista_concatenada_ativa.m3u8")
 
-file.remove("minha_lista_concatenada.xml")
 file.remove("minha_lista_concatenada.m3u8")
 file.remove("canais_encontrados_modificados.m3u8")
 file.remove("minha_lista.m3u8")
 file.remove("tabulacao_conteudo_final.xlsx")
-
-# Define o nome atual do arquivo e o novo nome
-nome_atual <- "minha_lista_concatenada.xml.gz"
-novo_nome <- "minha_lista_concatenada_ativa.xml.gz"
 
 # Usa a função file.rename() para alterar o nome do arquivo
 resultado <- file.rename(nome_atual, novo_nome)

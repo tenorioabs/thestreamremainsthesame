@@ -52,3 +52,8 @@ if (file.exists(arquivo_gz)) {
 
 # Compacta o arquivo XML para o formato GZ
 gzip("minha_lista_concatenada.xml", destname = arquivo_gz, remove = FALSE)
+
+# Define o nome atual do arquivo e o novo nome
+nome_atual <- "minha_lista_concatenada.xml.gz"
+novo_nome <- "minha_lista_concatenada_ativa.xml.gz"
+file.remove("minha_lista_concatenada.xml")
