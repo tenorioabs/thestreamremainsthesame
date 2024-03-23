@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada_ativa.xml.gz"
 #EXTINF:-1 channel-id="samsung-GBAJ42000019J" tvg-id="GBAJ42000019J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ42000019J_20240117T032810SQUARE.png_20240117032810.png" tvg-chno="4409" group-title="Great Britain" , INTROUBLE
 https://i.mjh.nz/SamsungTVPlus/GBAJ42000019J.m3u8
 #EXTINF:-1 channel-id="pluto-63d000ef4e83e700086e0d6c" tvg-id="63d000ef4e83e700086e0d6c" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" tvg-chno="206" group-title="Great Britain" , Scorpion
