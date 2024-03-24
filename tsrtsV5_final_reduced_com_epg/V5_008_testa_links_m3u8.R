@@ -1,16 +1,6 @@
 # Carrega os pacotes necessários
 if (!requireNamespace("httr", quietly = TRUE)) install.packages("httr")
-if (!requireNamespace("future", quietly = TRUE)) install.packages("future")
-if (!requireNamespace("future.apply", quietly = TRUE)) install.packages("future.apply")
-if (!requireNamespace("progressr", quietly = TRUE)) install.packages("progressr")
-
 library(httr)
-library(future)
-library(future.apply)
-library(progressr)
-
-# Configuração inicial para paralelização
-future::plan("multisession", workers = 6)
 
 # Função para imprimir mensagens coloridas
 imprimirColorido <- function(mensagem, cor = "verde") {
@@ -57,31 +47,22 @@ linha_cabecalho <- "#EXTM3U x-tvg-url=\"https://raw.githubusercontent.com/tenori
 # Inicializa a lista para guardar as URLs ativas
 urls_ativas <- c(linha_cabecalho)
 
-# Define uma função para processar as URLs com barra de progresso
-processarURLs <- function(posicoes) {
-  handlers(global = TRUE)
-  p <- progressor(along = posicoes)
+# Processa cada posição embaralhada
+total_urls <- length(posicoes_urls_embaralhadas)
+for (i in seq_along(posicoes_urls_embaralhadas)) {
+  posicao_atual <- posicoes_urls_embaralhadas[i]
+  url_atual <- linhas_filtradas[posicao_atual]
+  linha_extinf <- linhas_filtradas[posicao_atual - 1]
   
-  resultados <- future_lapply(posicoes, function(posicao) {
-    p()
-    url_atual <- linhas_filtradas[posicao]
-    linha_extinf <- linhas_filtradas[posicao - 1]
-    if (verificarURL(url_atual)) {
-      imprimirColorido(sprintf("URL: Streaming ativo."), "verde")
-      return(c(linha_extinf, url_atual))
-    } else {
-      imprimirColorido(sprintf("URL: Streaming inativo."), "vermelho")
-      return(NULL)
-    }
-  })
+  cat(sprintf("Verificando URL %d de %d: %s\n", i, total_urls, substr(url_atual, 1, 50)))
   
-  return(do.call("c", resultados))
+  if (verificarURL(url_atual)) {
+    imprimirColorido(sprintf("URL %d/%d: Streaming ativo.", i, total_urls), "verde")
+    urls_ativas <- c(urls_ativas, linha_extinf, url_atual)
+  } else {
+    imprimirColorido(sprintf("URL %d/%d: Streaming inativo.", i, total_urls), "vermelho")
+  }
 }
-
-# Processa cada posição embaralhada com barra de progresso
-with_progress({
-  urls_ativas <- c(urls_ativas, processarURLs(posicoes_urls_embaralhadas))
-})
 
 # Caminho para o novo arquivo .m3u8 com as URLs ativas
 novo_arquivo <- "minha_lista_concatenada_ativa.m3u8"
