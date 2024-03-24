@@ -3,10 +3,10 @@
 # Bloco 1, recebe a lista de URLs e concatena em um arquivo chamado "minha_lista.m3u8"
 # Definir caminho do arquivo e nome da coluna
 caminho_arquivo <- "urls_geral.xlsx"
-nome_coluna <- "urls_geral"
+nome_coluna <- "urls_full"
 
-url_m3u8 <- read_xlsx(caminho_arquivo, sheet ='urls')
-url_m3u8 <- url_m3u8$urls_geral
+url_m3u8 <- read_xlsx(caminho_arquivo, sheet ='urls_full')
+url_m3u8 <- url_m3u8$urls_full
 url_m3u8 <- unique(url_m3u8)
 
 # Processar URLs e coletar o conteúdo para cada uma

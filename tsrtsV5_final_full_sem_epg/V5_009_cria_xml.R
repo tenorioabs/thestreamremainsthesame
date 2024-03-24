@@ -4,8 +4,9 @@ library(xml2)
 library(R.utils)
 
 # URLs dos arquivos XML
-urls <- read_excel("urls_geral.xlsx", sheet = "xml")
-urls <- urls$xml
+urls <- read_excel("urls_geral.xlsx", sheet = "xml_full")
+urls <- urls$xml_full
+urls <- unique(urls)
 
 # Inicializa um objeto para armazenar o conteúdo concatenado
 conteudo_concatenado <- ""

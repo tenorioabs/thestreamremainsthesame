@@ -10,7 +10,7 @@ library(future.apply)
 library(progressr)
 
 # Configuração inicial para paralelização
-future::plan("multisession", workers = 10)
+future::plan("multisession", workers = 6)
 
 # Função para imprimir mensagens coloridas
 imprimirColorido <- function(mensagem, cor = "verde") {
@@ -79,9 +79,9 @@ processarURLs <- function(posicoes) {
 }
 
 # Processa cada posição embaralhada com barra de progresso
-with_progress({
+#with_progress({
   urls_ativas <- c(urls_ativas, processarURLs(posicoes_urls_embaralhadas))
-})
+#})
 
 # Caminho para o novo arquivo .m3u8 com as URLs ativas
 novo_arquivo <- "minha_lista_concatenada_ativa.m3u8"
@@ -90,3 +90,4 @@ novo_arquivo <- "minha_lista_concatenada_ativa.m3u8"
 writeLines(urls_ativas, novo_arquivo)
 
 cat("Arquivo com URLs ativas criado com sucesso:", novo_arquivo, "\n")
+
