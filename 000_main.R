@@ -6,7 +6,7 @@ source("098_funcoes.R")
 opcoes <- c(1, 2)
 
 for (i in 1:length(opcoes)) {
-  valor_numerico <- i
+  valor_numerico <- 2
   source("001_download_concatenacao_urls.R")
   tabula_group_title(nome_coluna)
   source("002_cria_music_salva_arquivo.R")
@@ -22,11 +22,11 @@ for (i in 1:length(opcoes)) {
   
   if (valor_numerico == 1) {
     retry(source("009_cria_xml.R"), max = Inf)
+    file.remove("minha_lista_concatenada.xml")
+    file.remove("tabulacao_conteudo_final.xlsx")
   }
   
-  file.remove("minha_lista_concatenada.xml")
   file.remove("canais_encontrados_modificados.m3u8")
-  file.remove("tabulacao_conteudo_final.xlsx")
   
   # Define o nome atual do arquivo e o novo nome
   nome_atual <- "minha_lista_concatenada.xml.gz"

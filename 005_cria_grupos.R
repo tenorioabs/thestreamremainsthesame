@@ -21,9 +21,9 @@ titulos_mantidos <- c("Australia",
                       "NHL",
                       "Portugal",
                       "United States",
-                      "NBA LEAGUE PASS",
+                      "NBA",
                       "UFC",
-                      "PREMIERE")
+                      "Sports")
 
 # Função para verificar e substituir os títulos dos grupos
 substituir_titulos <- function(linha) {
