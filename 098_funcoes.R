@@ -79,6 +79,9 @@ processa_url <- function(url) {
   return(list(url = url, conteudo = conteudo))
 }
 
+retry <- function(a, max = Inf, init = 0){suppressWarnings( tryCatch({
+  if(init<max) a
+}, error = function(e){retry(a, max, init = init+1)}))}
 
 tabula_group_title <- function(arquivo_a_ser_tabulado){
   # Define o caminho para o arquivo M3U8 unificado

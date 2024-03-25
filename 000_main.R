@@ -21,7 +21,7 @@ for (i in 1:length(opcoes)) {
   tabula_group_title(nome_coluna)
   
   if (valor_numerico == 1) {
-    source("009_cria_xml.R")
+    retry(source("009_cria_xml.R"), max = Inf)
   }
   
   file.remove("minha_lista_concatenada.xml")

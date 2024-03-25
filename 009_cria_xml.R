@@ -1,7 +1,3 @@
-# Carregar pacotes necessários
-library(httr)
-library(xml2)
-library(R.utils)
 
 # URLs dos arquivos XML
 urls <- read_excel("urls_geral.xlsx", sheet = "xml_full")
@@ -33,7 +29,7 @@ for (url in urls) {
 }
 
 # Preparar cabeçalho e rodapé
-cabecalho <- '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://raw.githubusercontent.com/tenorioabs/thestreamremainsthesame/main/minha_lista_concatenada.xml.gz">'
+cabecalho <- '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://github.com/tenorioabs/thestreamremainsthesame/raw/main/epg.xml.gz">'
 rodape <- "</tv>"
 
 # Adiciona o cabeçalho e o rodapé ao conteúdo concatenado de forma que não haja linha em branco entre eles
