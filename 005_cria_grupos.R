@@ -17,6 +17,7 @@ titulos_mantidos <- c("Australia",
                       "Great Britain",
                       "MLB",
                       "Music",
+                      "New Zealand",
                       "NFL",
                       "NHL",
                       "Portugal",
@@ -29,6 +30,8 @@ titulos_mantidos <- c("Australia",
 substituir_titulos <- function(linha) {
   # Verifica se a linha é um canal
   if (grepl("^#EXTINF:", linha)) {
+    if (grepl('group-title="Nz"', linha)) { linha <- sub('group-title="Nz"', 'group-title="New Zealand"', linha) }
+    if (grepl('group-title="Au"', linha)) { linha <- sub('group-title="Au"', 'group-title="Australia"', linha) }
     if (grepl('group-title="Anthym TV"', linha)) { linha <- sub('group-title="Anthym TV"', 'group-title="United States"', linha) }
     if (grepl('group-title="DistroTV: Business"', linha)) { linha <- sub('group-title="DistroTV: Business"', 'group-title="United States"', linha) }
     if (grepl('group-title="DistroTV: Education"', linha)) { linha <- sub('group-title="DistroTV: Education"', 'group-title="United States"', linha) }
