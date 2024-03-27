@@ -17,7 +17,7 @@ for (i in 1:length(opcoes)) {
   source("006_double_check_canais.R")
   source("007_atribui_logo_remove_repetidos.R")
   tabula_group_title(nome_coluna)
-  #source("008_testa_links_m3u8.R")
+  source("008_testa_links_m3u8.R")
   tabula_group_title(nome_coluna)
   
   if (valor_numerico == 2) {
