@@ -21,7 +21,7 @@ verificarURL <- function(url) {
 }
 
 # Lê o arquivo m3u8 e remove blocos com group-title="Omitir"
-caminho_arquivo <- "minha_lista_concatenada_ativa.m3u8"
+caminho_arquivo <- nome_coluna
 linhas <- readLines(caminho_arquivo, warn = FALSE)
 
 # Identifica e remove blocos com "group-title="Omitir""
@@ -65,7 +65,7 @@ for (i in seq_along(posicoes_urls_embaralhadas)) {
 }
 
 # Caminho para o novo arquivo .m3u8 com as URLs ativas
-novo_arquivo <- "minha_lista_concatenada_ativa.m3u8"
+novo_arquivo <- nome_coluna
 
 # Escreve as URLs ativas no novo arquivo
 writeLines(urls_ativas, novo_arquivo)
