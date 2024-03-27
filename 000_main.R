@@ -19,7 +19,7 @@ for (i in 1:length(opcoes)) {
   tabula_group_title(nome_coluna)
   
   if (valor_numerico == 2) {
-    #source("008_testa_links_m3u8_unit.R")
+    source("008_testa_links_m3u8_unit.R")
     tabula_group_title(nome_coluna)
     retry(source("009_cria_xml.R"), max = Inf)
     file.remove("minha_lista_concatenada.xml")
