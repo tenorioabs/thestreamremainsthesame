@@ -17,17 +17,12 @@ for (i in 1:length(opcoes)) {
   #source("006_double_check_canais.R")
   source("007_atribui_logo_remove_repetidos.R")
   tabula_group_title(nome_coluna)
+  source("008_testa_links_m3u8_group.R")
+  tabula_group_title(nome_coluna)
+  retry(source("009_cria_xml.R"), max = Inf)
+  
   
   if (valor_numerico == 2) {
-    source("008_testa_links_m3u8_unit.R")
-    tabula_group_title(nome_coluna)
-    retry(source("009_cria_xml.R"), max = Inf)
-    file.remove("minha_lista_concatenada.xml")
-    file.remove("tabulacao_conteudo_final.xlsx")
-    nome_atual <- "minha_lista_concatenada.xml.gz"
-    novo_nome <- "epg.xml.gz"
-    # Usa a função file.rename() para alterar o nome do arquivo
-    resultado <- file.rename(nome_atual, novo_nome)
     file.remove("canais_encontrados_modificados.m3u8")
     # Define o nome atual do arquivo e o novo nome
     dia_hora <- Sys.time()

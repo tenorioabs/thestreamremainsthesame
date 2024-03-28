@@ -13,6 +13,7 @@ conteudo_lista_modificada <- readLines(caminho_lista_modificada)
 # Concatenar os conteúdos
 conteudo_concatenado <- c(conteudo_lista_original, conteudo_lista_modificada)
 
+if (valor_numerico == 2) {
 # Adicionar os dois novos canais ao conteúdo concatenado
 novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png\" group-title=\"Music\",MTV Japan\nhttp://jp.vthanhnetwork.com/MTV/index.m3u8",
                   "#EXTINF:-1 tvg-id=\"MusicJapanTV.jp\" tvg-logo=\"https://pbs.twimg.com/profile_images/875521212432003073/jTDObCPJ_200x200.jpg\" group-title=\"Music\",Music Japan TV\nhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06",
@@ -32,6 +33,7 @@ novos_canais <- c("#EXTINF:-1 tvg-id=\"MTV.jp\" tvg-logo=\"https://upload.wikime
                   "#EXTINF:-1 tvg-id=\"Cnn.us\" tvg-name=\"USA - CNN HD\" tvg-logo=\"http://attp.ddns.net:25461/images/8b0b0df3207d9e82299feba06c904a17.png\" group-title=\"United States\",CNN USA HD\nhttp://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58495")
 
 conteudo_concatenado <- c(conteudo_concatenado, novos_canais)
+} 
 
 # Escrever o conteúdo concatenado em um novo arquivo
 writeLines(conteudo_concatenado, caminho_lista_concatenada)

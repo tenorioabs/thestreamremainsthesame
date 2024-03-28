@@ -1,8 +1,15 @@
 
-# URLs dos arquivos XML
-urls <- read_excel("urls_geral.xlsx", sheet = "xml_full")
-urls <- urls$xml_full
-urls <- unique(urls)
+if (valor_numerico==1) {
+  # URLs dos arquivos XML
+  urls <- read_excel("urls_geral.xlsx", sheet = "xml_reduced")
+  urls <- urls$xml_full
+  urls <- unique(urls)
+} else {
+  # URLs dos arquivos XML
+  urls <- read_excel("urls_geral.xlsx", sheet = "xml_full")
+  urls <- urls$xml_full
+  urls <- unique(urls)
+}
 
 # Inicializa um objeto para armazenar o conteúdo concatenado
 conteudo_concatenado <- ""
@@ -29,8 +36,13 @@ for (url in urls) {
 }
 
 # Preparar cabeçalho e rodapé
-cabecalho <- '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://github.com/tenorioabs/thestreamremainsthesame/raw/main/epg.xml.gz">'
-rodape <- "</tv>"
+if (valor_numerico==1) {
+  cabecalho <- '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://github.com/tenorioabs/thestreamremainsthesame/raw/main/reduced.xml">'
+  rodape <- "</tv>"
+} else {
+    cabecalho <- '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="https://github.com/tenorioabs/thestreamremainsthesame/raw/main/full.xml.gz">'
+    rodape <- "</tv>"
+}
 
 # Adiciona o cabeçalho e o rodapé ao conteúdo concatenado de forma que não haja linha em branco entre eles
 conteudo_final <- paste(cabecalho, conteudo_concatenado, rodape, sep="\n")
@@ -38,14 +50,10 @@ conteudo_final <- paste(cabecalho, conteudo_concatenado, rodape, sep="\n")
 # Remove possíveis linhas em branco adicionais entre o cabeçalho e o corpo
 conteudo_final <- gsub("\n\n", "\n", conteudo_final)
 
-# Salva o conteúdo final no arquivo XML
-writeLines(conteudo_final, "minha_lista_concatenada.xml")
-
-# Verifica se o arquivo compactado já existe e o remove, se necessário
-arquivo_gz <- "minha_lista_concatenada.xml.gz"
-if (file.exists(arquivo_gz)) {
-  file.remove(arquivo_gz)
+if (valor_numerico==1) {
+  # Salva o conteúdo final no arquivo XML
+  writeLines(conteudo_final, "reduced.xml")
+} else {
+  writeLines(conteudo_final, gzip("full.xml", destname = arquivo_gz, remove = FALSE))
 }
 
-# Compacta o arquivo XML para o formato GZ
-gzip("minha_lista_concatenada.xml", destname = arquivo_gz, remove = FALSE)
