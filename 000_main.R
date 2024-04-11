@@ -10,6 +10,7 @@ for (i in 1:length(opcoes)) {
   source("001_download_concatenacao_urls.R")
   tabula_group_title(nome_coluna)
   source("002_cria_music_salva_arquivo.R")
+  source("010_cria_nba_salva_arquivo.R")
   source("003_insere_canais_manualmente_concatena_resultados_buscados.R")
   source("004_cria_index_epg_no_m3u8.R")
   source("005_cria_grupos.R")
