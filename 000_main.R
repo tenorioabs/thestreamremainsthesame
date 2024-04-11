@@ -17,10 +17,10 @@ for (i in 1:length(opcoes)) {
   source("007_atribui_logo_remove_repetidos.R")
   tabula_group_title(nome_coluna)
 
-  if (valor_numerico == 2) {
-    source("008_testa_links_m3u8_group.R")
-    tabula_group_title(nome_coluna)
-  }
+  # if (valor_numerico == 2) {
+  #   source("008_testa_links_m3u8_group.R")
+  #   tabula_group_title(nome_coluna)
+  # }
   
   if (valor_numerico==1) {
     retry(source("009_cria_xml.R"), max = Inf)

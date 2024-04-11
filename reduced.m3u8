@@ -89,7 +89,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-608aec5fa09205002da4f28f.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" tvg-id="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="Omitir" , BBC Comedy
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" tvg-id="5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed42eded-81ff-4c9c-bba1-34045d129f9b/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-title="Omitir" , BBC Earth
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" tvg-id="5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-title="Omitir" , BBC Earth
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e" tvg-id="5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38bb71ea-ecc8-42f9-9f21-abe72f2e66df/PLEX_BBCFOOD_Logo_Light_1500X1000.png" group-title="Omitir" , BBC Food
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-630905af0417b7074a4ad95e.m3u8
@@ -447,6 +447,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f9b67c3070b6e06e0aad.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e405b42b16ff56feb98444.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png" group-title="Omitir" , Glewed TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b" tvg-id="5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/748615927d196d6891a2208e06d3a4a6.png" group-title="Omitir" , Go Wild
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-id="5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25fe7ecc-9dce-41e3-baea-bb1d5cf49041/GoTraveler_logo_dark_background.png" group-title="Omitir" , GoTraveler
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961" tvg-id="5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2a937d36-e14d-470b-a909-746fb0744ec4/gousa-tvWHITE_RDX1500x1000.png" group-title="Omitir" , GoUSA TV
@@ -535,8 +537,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f" tvg-id="5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="Omitir" , Just For Laughs Gags
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61f9a1f5c68d91e31d4cc864" tvg-id="5e20b730f2f8d5003d739db7-61f9a1f5c68d91e31d4cc864" tvg-logo="https://provider-static.plex.tv/epg/cms/production/12791c07-0433-4874-87a6-3197176e8d48/KIRO_-_Channel_Logo_-_Dark_-_Matthew_Dominguez.png" group-title="Omitir" , KIRO 7 Seattle
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a1f5c68d91e31d4cc864.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/785ee254-61da-47ed-a734-6f00be0444fb/Kidoodle.TV_Channel_Logo1500x1000rdx.png" group-title="Omitir" , Kidoodle TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-id="5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" group-title="Omitir" , KidsFlix
@@ -953,7 +953,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c141129.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f170d60b898490041b49359.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139" tvg-id="5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ef6deb5d-a3e8-4450-a0dc-04cf62985293/PLEX-_Channel_Logo-color.png" group-title="Omitir" , Toony Planet
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4eddfb2fdec002c141139.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd" tvg-id="5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/026a2381-f778-42d2-8bf0-f6679fc0a159/PLEX_TOP_GEAR_Logo_Light_1500X1000.png" group-title="Omitir" , Top Gear
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd" tvg-id="5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09f2921f-352e-46dd-93c3-6ab691790898/PLEX_TOP_GEAR_Logo_White_1500X1000.png" group-title="Omitir" , Top Gear
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6308f121ac9983739c8a29bd.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-63c1e64df0f132afc3afbab4" tvg-id="5e20b730f2f8d5003d739db7-63c1e64df0f132afc3afbab4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0dcfd0eb-6e7f-4b62-a013-366a859e7cf4/Torque-Channel-Logo-_Light_-rdx.png" group-title="Omitir" , Torque Presented By History
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c1e64df0f132afc3afbab4.m3u8
@@ -1157,6 +1157,8 @@ https://i.mjh.nz/Plex/643054b1fc3be59477853717-627ae479bd57d9f1e5a82e18.m3u8
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-627eb08c92d8e6a705784bcd.m3u8
 #EXTINF:-1 channel-id="plex-643054b1fc3be59477853717-62990665171ca654f77b1e6c" tvg-id="643054b1fc3be59477853717-62990665171ca654f77b1e6c" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc8af8f6-3e93-43f8-9aa9-b7fe69dc5fc5/SP_FAMILY_Logo_2-1500x1000RDX.png" group-title="Omitir" , Familiares - Rakuten TV
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62990665171ca654f77b1e6c.m3u8
+#EXTINF:-1 channel-id="plex-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-id="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8f6895f0-4821-430c-98bc-c061238f4c35/Plex_FilmRise_SciFi_Color_Logo.png" group-title="Omitir" , FilmRise Sci-Fi
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8
 #EXTINF:-1 channel-id="plex-643054b1fc3be59477853717-631bbf79a273cc38add9e5e3" tvg-id="643054b1fc3be59477853717-631bbf79a273cc38add9e5e3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0ca91ff3-ebc2-4914-9b44-444b3a8c1a3d/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Omitir" , FreeTV Estelar
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-631bbf79a273cc38add9e5e3.m3u8
 #EXTINF:-1 channel-id="plex-643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-id="643054b1fc3be59477853717-64487696af92c31f4a190bc4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb43f8a1-fb9e-4a1b-b0db-0d720db95f66/MT_PLEX_1500x1000_SPAIN_WHITE_-_Sam_Abraham.png" group-title="Omitir" , MyTime Movie Network
@@ -2067,18 +2069,12 @@ https://r.mjh.nz/PlutoTV/65a6a7a00c7ff50008cba07b-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a6a5e90c7ff50008cb9815-alt.m3u8
 #EXTINF:-1 channel-id="pluto-654a457ff9cc820008685290" tvg-id="654a457ff9cc820008685290" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" tvg-chno="19" group-title="Great Britain" , Medium
 https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64ff1d3d3a0d700008b110e9" tvg-id="64ff1d3d3a0d700008b110e9" tvg-logo="https://images.pluto.tv/channels/64ff1d3d3a0d700008b110e9/colorLogoPNG.png" tvg-chno="21" group-title="Great Britain" , Robot Wars by MECH+
-https://r.mjh.nz/PlutoTV/64ff1d3d3a0d700008b110e9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65f9989666eec80008cd252c" tvg-id="65f9989666eec80008cd252c" tvg-logo="https://images.pluto.tv/channels/65f9989666eec80008cd252c/colorLogoPNG.png" tvg-chno="22" group-title="Great Britain" , Top Million Dollar Agent
 https://r.mjh.nz/PlutoTV/65f9989666eec80008cd252c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-656df599c0fc8800089c75ab" tvg-id="656df599c0fc8800089c75ab" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-chno="23" group-title="Great Britain" , Avatar
 https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65c4960d11ced7000812c433" tvg-id="65c4960d11ced7000812c433" tvg-logo="https://images.pluto.tv/channels/65c4960d11ced7000812c433/colorLogoPNG.png" tvg-chno="24" group-title="Great Britain" , Geordie Shore
 https://r.mjh.nz/PlutoTV/65c4960d11ced7000812c433-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65b3895660eb8700089e7f53" tvg-id="65b3895660eb8700089e7f53" tvg-logo="https://images.pluto.tv/channels/65b3895660eb8700089e7f53/colorLogoPNG.png" tvg-chno="25" group-title="Great Britain" , Car Chase
-https://r.mjh.nz/PlutoTV/65b3895660eb8700089e7f53-alt.m3u8
-#EXTINF:-1 channel-id="pluto-659fed24b228b7000889ddf7" tvg-id="659fed24b228b7000889ddf7" tvg-logo="https://images.pluto.tv/channels/659fed24b228b7000889ddf7/colorLogoPNG.png" tvg-chno="26" group-title="Great Britain" , Monster Jam
-https://r.mjh.nz/PlutoTV/659fed24b228b7000889ddf7-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ad8d3a31b95267e225e4e09" tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" tvg-chno="100" group-title="Great Britain" , Pluto TV Movies
 https://r.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5dbfeb961b411c00090b52b3" tvg-id="5dbfeb961b411c00090b52b3" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" tvg-chno="101" group-title="Great Britain" , Pluto TV Action
@@ -2171,29 +2167,35 @@ https://r.mjh.nz/PlutoTV/64edf6eaa7ec0d000812f58c-alt.m3u8
 https://r.mjh.nz/PlutoTV/622f498d119b4c000719c0b7-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5e6f38792075160007d85823" tvg-id="5e6f38792075160007d85823" tvg-logo="https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png" tvg-chno="401" group-title="Great Britain" , Hell's Kitchen
 https://r.mjh.nz/PlutoTV/5e6f38792075160007d85823-alt.m3u8
-#EXTINF:-1 channel-id="pluto-60e453641239a700071f53a1" tvg-id="60e453641239a700071f53a1" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" tvg-chno="402" group-title="Great Britain" , Dog Whisperer
+#EXTINF:-1 channel-id="pluto-64ff1d3d3a0d700008b110e9" tvg-id="64ff1d3d3a0d700008b110e9" tvg-logo="https://images.pluto.tv/channels/64ff1d3d3a0d700008b110e9/colorLogoPNG.png" tvg-chno="402" group-title="Great Britain" , Robot Wars by MECH+
+https://r.mjh.nz/PlutoTV/64ff1d3d3a0d700008b110e9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65b3895660eb8700089e7f53" tvg-id="65b3895660eb8700089e7f53" tvg-logo="https://images.pluto.tv/channels/65b3895660eb8700089e7f53/colorLogoPNG.png" tvg-chno="403" group-title="Great Britain" , Car Chase
+https://r.mjh.nz/PlutoTV/65b3895660eb8700089e7f53-alt.m3u8
+#EXTINF:-1 channel-id="pluto-659fed24b228b7000889ddf7" tvg-id="659fed24b228b7000889ddf7" tvg-logo="https://images.pluto.tv/channels/659fed24b228b7000889ddf7/colorLogoPNG.png" tvg-chno="404" group-title="Great Britain" , Monster Jam
+https://r.mjh.nz/PlutoTV/659fed24b228b7000889ddf7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60e453641239a700071f53a1" tvg-id="60e453641239a700071f53a1" tvg-logo="https://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" tvg-chno="405" group-title="Great Britain" , Dog Whisperer
 https://r.mjh.nz/PlutoTV/60e453641239a700071f53a1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5bd833b41843b56328bac189" tvg-id="5bd833b41843b56328bac189" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" tvg-chno="403" group-title="Great Britain" , Mythbusters
+#EXTINF:-1 channel-id="pluto-5bd833b41843b56328bac189" tvg-id="5bd833b41843b56328bac189" tvg-logo="https://images.pluto.tv/channels/5bd833b41843b56328bac189/colorLogoPNG.png" tvg-chno="406" group-title="Great Britain" , Mythbusters
 https://r.mjh.nz/PlutoTV/5bd833b41843b56328bac189-alt.m3u8
-#EXTINF:-1 channel-id="pluto-619243059541940007d1ff86" tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" tvg-chno="404" group-title="Great Britain" , Pimp my Ride
+#EXTINF:-1 channel-id="pluto-619243059541940007d1ff86" tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" tvg-chno="407" group-title="Great Britain" , Pimp my Ride
 https://r.mjh.nz/PlutoTV/619243059541940007d1ff86-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5f0dc00b15eef10007726ef7" tvg-id="5f0dc00b15eef10007726ef7" tvg-logo="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/colorLogoPNG.png" tvg-chno="405" group-title="Great Britain" , Undercover Boss Global
+#EXTINF:-1 channel-id="pluto-5f0dc00b15eef10007726ef7" tvg-id="5f0dc00b15eef10007726ef7" tvg-logo="https://images.pluto.tv/channels/5f0dc00b15eef10007726ef7/colorLogoPNG.png" tvg-chno="408" group-title="Great Britain" , Undercover Boss Global
 https://r.mjh.nz/PlutoTV/5f0dc00b15eef10007726ef7-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5dc2ba1a9c91420009db4858" tvg-id="5dc2ba1a9c91420009db4858" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" tvg-chno="406" group-title="Great Britain" , Nosey
+#EXTINF:-1 channel-id="pluto-5dc2ba1a9c91420009db4858" tvg-id="5dc2ba1a9c91420009db4858" tvg-logo="https://images.pluto.tv/channels/5dc2ba1a9c91420009db4858/colorLogoPNG.png" tvg-chno="409" group-title="Great Britain" , Nosey
 https://r.mjh.nz/PlutoTV/5dc2ba1a9c91420009db4858-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6565bd7657fe4a0008687329" tvg-id="6565bd7657fe4a0008687329" tvg-logo="https://images.pluto.tv/channels/6565bd7657fe4a0008687329/colorLogoPNG.png" tvg-chno="407" group-title="Great Britain" , Hot Ones
+#EXTINF:-1 channel-id="pluto-6565bd7657fe4a0008687329" tvg-id="6565bd7657fe4a0008687329" tvg-logo="https://images.pluto.tv/channels/6565bd7657fe4a0008687329/colorLogoPNG.png" tvg-chno="410" group-title="Great Britain" , Hot Ones
 https://r.mjh.nz/PlutoTV/6565bd7657fe4a0008687329-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62ac50e92c48f900071444c9" tvg-id="62ac50e92c48f900071444c9" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png" tvg-chno="408" group-title="Great Britain" , Auction Hunters
+#EXTINF:-1 channel-id="pluto-62ac50e92c48f900071444c9" tvg-id="62ac50e92c48f900071444c9" tvg-logo="https://images.pluto.tv/channels/62ac50e92c48f900071444c9/colorLogoPNG.png" tvg-chno="411" group-title="Great Britain" , Auction Hunters
 https://r.mjh.nz/PlutoTV/62ac50e92c48f900071444c9-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63e2311c4e83e70008953121" tvg-id="63e2311c4e83e70008953121" tvg-logo="https://images.pluto.tv/channels/63e2311c4e83e70008953121/colorLogoPNG.png" tvg-chno="409" group-title="Great Britain" , Pluto TV Trash to Cash
+#EXTINF:-1 channel-id="pluto-63e2311c4e83e70008953121" tvg-id="63e2311c4e83e70008953121" tvg-logo="https://images.pluto.tv/channels/63e2311c4e83e70008953121/colorLogoPNG.png" tvg-chno="412" group-title="Great Britain" , Pluto TV Trash to Cash
 https://r.mjh.nz/PlutoTV/63e2311c4e83e70008953121-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64c0d6f34096290008132d6b" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" tvg-chno="410" group-title="Great Britain" , UKTV Play Laughs
+#EXTINF:-1 channel-id="pluto-64c0d6f34096290008132d6b" tvg-id="64c0d6f34096290008132d6b" tvg-logo="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/colorLogoPNG.png" tvg-chno="413" group-title="Great Britain" , UKTV Play Laughs
 https://r.mjh.nz/PlutoTV/64c0d6f34096290008132d6b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-612f761008a9e50007984ba0" tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" tvg-chno="416" group-title="Great Britain" , Pluto TV Animation
+#EXTINF:-1 channel-id="pluto-612f761008a9e50007984ba0" tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" tvg-chno="414" group-title="Great Britain" , Pluto TV Animation
 https://r.mjh.nz/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62a069bfd88ef000073f6775" tvg-id="62a069bfd88ef000073f6775" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" tvg-chno="417" group-title="Great Britain" , Garfield & Friends
+#EXTINF:-1 channel-id="pluto-62a069bfd88ef000073f6775" tvg-id="62a069bfd88ef000073f6775" tvg-logo="https://images.pluto.tv/channels/62a069bfd88ef000073f6775/colorLogoPNG.png" tvg-chno="415" group-title="Great Britain" , Garfield & Friends
 https://r.mjh.nz/PlutoTV/62a069bfd88ef000073f6775-alt.m3u8
-#EXTINF:-1 channel-id="pluto-647f09e5f77b61000823ff24" tvg-id="647f09e5f77b61000823ff24" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" tvg-chno="418" group-title="Great Britain" , Tattoo Fixers
+#EXTINF:-1 channel-id="pluto-647f09e5f77b61000823ff24" tvg-id="647f09e5f77b61000823ff24" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" tvg-chno="416" group-title="Great Britain" , Tattoo Fixers
 https://r.mjh.nz/PlutoTV/647f09e5f77b61000823ff24-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6081648340382e0007f73d45" tvg-id="6081648340382e0007f73d45" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG.png" tvg-chno="450" group-title="Great Britain" , Most Haunted
 https://r.mjh.nz/PlutoTV/6081648340382e0007f73d45-alt.m3u8
@@ -2257,10 +2259,10 @@ https://r.mjh.nz/PlutoTV/62d550d81054990007db7798-alt.m3u8
 https://r.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62d556fe2888ce000764b3fa" tvg-id="62d556fe2888ce000764b3fa" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" tvg-chno="604" group-title="Great Britain" , 16 & Pregnant
 https://r.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6304f7bac6073d000725a5a9" tvg-id="6304f7bac6073d000725a5a9" tvg-logo="https://images.pluto.tv/channels/6304f7bac6073d000725a5a9/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Relative Justice
-https://r.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-600acdc434a37000070004cf" tvg-id="600acdc434a37000070004cf" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Judge Nosey
 https://r.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6304f7bac6073d000725a5a9" tvg-id="6304f7bac6073d000725a5a9" tvg-logo="https://images.pluto.tv/channels/6304f7bac6073d000725a5a9/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Relative Justice
+https://r.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60c8807f46b11c0007b800a9" tvg-id="60c8807f46b11c0007b800a9" tvg-logo="https://images.pluto.tv/channels/60c8807f46b11c0007b800a9/colorLogoPNG.png" tvg-chno="607" group-title="Great Britain" , Bridezillas
 https://r.mjh.nz/PlutoTV/60c8807f46b11c0007b800a9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60e455469bb4200008374d7e" tvg-id="60e455469bb4200008374d7e" tvg-logo="https://images.pluto.tv/channels/60e455469bb4200008374d7e/colorLogoPNG.png" tvg-chno="607" group-title="Great Britain" , My Strange Addiction
@@ -2371,11 +2373,13 @@ https://r.mjh.nz/PlutoTV/6231eb3865be650007f59595-alt.m3u8
 https://r.mjh.nz/PlutoTV/5ca1da6c593a5d78f0e7edce-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61559552dd585f0007321eca" tvg-id="61559552dd585f0007321eca" tvg-logo="https://images.pluto.tv/channels/61559552dd585f0007321eca/colorLogoPNG.png" tvg-chno="872" group-title="Great Britain" , Bloomberg TV
 https://r.mjh.nz/PlutoTV/61559552dd585f0007321eca-alt.m3u8
-#EXTINF:-1 channel-id="pluto-659bfdc66e4f6a0008ae4a3c" tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-logo="https://images.pluto.tv/channels/659bfdc66e4f6a0008ae4a3c/colorLogoPNG.png" tvg-chno="873" group-title="Great Britain" , DAZN Women's Football
+#EXTINF:-1 channel-id="pluto-65f96980f7f0af0008fa6302" tvg-id="65f96980f7f0af0008fa6302" tvg-logo="https://images.pluto.tv/channels/65f96980f7f0af0008fa6302/colorLogoPNG.png" tvg-chno="873" group-title="Great Britain" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/65f96980f7f0af0008fa6302-alt.m3u8
+#EXTINF:-1 channel-id="pluto-659bfdc66e4f6a0008ae4a3c" tvg-id="659bfdc66e4f6a0008ae4a3c" tvg-logo="https://images.pluto.tv/channels/659bfdc66e4f6a0008ae4a3c/colorLogoPNG.png" tvg-chno="874" group-title="Great Britain" , DAZN Women's Football
 https://r.mjh.nz/PlutoTV/659bfdc66e4f6a0008ae4a3c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65b14aae0cb1a100087a216e" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" tvg-chno="874" group-title="Great Britain" , DAZN Ringside
+#EXTINF:-1 channel-id="pluto-65b14aae0cb1a100087a216e" tvg-id="65b14aae0cb1a100087a216e" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" tvg-chno="875" group-title="Great Britain" , DAZN Ringside
 https://r.mjh.nz/PlutoTV/65b14aae0cb1a100087a216e-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5ea1966ae0e0610007b1faf2" tvg-id="5ea1966ae0e0610007b1faf2" tvg-logo="https://images.pluto.tv/channels/5ea1966ae0e0610007b1faf2/colorLogoPNG.png" tvg-chno="875" group-title="Great Britain" , Extreme Channel
+#EXTINF:-1 channel-id="pluto-5ea1966ae0e0610007b1faf2" tvg-id="5ea1966ae0e0610007b1faf2" tvg-logo="https://images.pluto.tv/channels/5ea1966ae0e0610007b1faf2/colorLogoPNG.png" tvg-chno="876" group-title="Great Britain" , Extreme Channel
 https://r.mjh.nz/PlutoTV/5ea1966ae0e0610007b1faf2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64634eb42858cb0008fd92d6" tvg-id="64634eb42858cb0008fd92d6" tvg-logo="https://images.pluto.tv/channels/64634eb42858cb0008fd92d6/colorLogoPNG.png" tvg-chno="878" group-title="Great Britain" , How To Use Pluto TV
 https://r.mjh.nz/PlutoTV/64634eb42858cb0008fd92d6-alt.m3u8
@@ -2399,6 +2403,8 @@ https://r.mjh.nz/PlutoTV/60cc68f4b2591a0007f0ac65-alt.m3u8
 https://r.mjh.nz/PlutoTV/60e44d0d659db600074cbb49-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62556bfa3261a300076b0baa" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="890" group-title="Great Britain" , Arthur
 https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65f96cd34e01740008ef1c97" tvg-id="65f96cd34e01740008ef1c97" tvg-logo="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png" tvg-chno="29" group-title="Omitir" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/65f96cd34e01740008ef1c97-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65b91e530d9ab40008340d8d" tvg-id="65b91e530d9ab40008340d8d" tvg-logo="https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png" tvg-chno="30" group-title="Omitir" , Al salir de clase
 https://r.mjh.nz/PlutoTV/65b91e530d9ab40008340d8d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65786abdb3801200084c593a" tvg-id="65786abdb3801200084c593a" tvg-logo="https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png" tvg-chno="31" group-title="Omitir" , Homeful
@@ -2653,6 +2659,8 @@ https://r.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8
 https://r.mjh.nz/PlutoTV/6511a53f473a54000854e2ee-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" tvg-chno="919" group-title="Omitir" , iCarly
 https://r.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65f9ba32f7f0af0008fbcb3d" tvg-id="65f9ba32f7f0af0008fbcb3d" tvg-logo="https://images.pluto.tv/channels/65f9ba32f7f0af0008fbcb3d/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/65f9ba32f7f0af0008fbcb3d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" tvg-chno="100" group-title="Canada" , CSI
 https://r.mjh.nz/PlutoTV/62e9224f41d5e100076db2b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f4e0e63fde020007835cbe" tvg-id="63f4e0e63fde020007835cbe" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" tvg-chno="101" group-title="Canada" , CSI: Miami
@@ -4063,6 +4071,8 @@ https://r.mjh.nz/PlutoTV/652d0b9ceb72580008a4ea5b-alt.m3u8
 https://r.mjh.nz/PlutoTV/652d0b756208700008d758ad-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65d4be214e01740008991d3b" tvg-id="65d4be214e01740008991d3b" tvg-logo="https://images.pluto.tv/channels/65d4be214e01740008991d3b/colorLogoPNG.png" tvg-chno="35" group-title="Omitir" , Pluto TV Rap
 https://r.mjh.nz/PlutoTV/65d4be214e01740008991d3b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65f96c0c2873090008d356d1" tvg-id="65f96c0c2873090008d356d1" tvg-logo="https://images.pluto.tv/channels/65f96c0c2873090008d356d1/colorLogoPNG.png" tvg-chno="36" group-title="Omitir" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/65f96c0c2873090008d356d1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62f3e4bc08f5ec000744f552" tvg-id="62f3e4bc08f5ec000744f552" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" tvg-chno="50" group-title="Omitir" , Alerte Cobra
 https://r.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60afa749ac7f3200078adb40" tvg-id="60afa749ac7f3200078adb40" tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png" tvg-chno="55" group-title="Omitir" , Walker Texas Ranger
@@ -4509,6 +4519,10 @@ https://r.mjh.nz/PlutoTV/63c923944207be0007fd0887-alt.m3u8
 https://r.mjh.nz/PlutoTV/6536608b4f123d000876b78b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-653660b4295b840008a70ba3" tvg-id="653660b4295b840008a70ba3" tvg-logo="https://images.pluto.tv/channels/653660b4295b840008a70ba3/colorLogoPNG.png" tvg-chno="940" group-title="Omitir" , Le vite degli altri
 https://r.mjh.nz/PlutoTV/653660b4295b840008a70ba3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65cba778ec452d0008acbe86" tvg-id="65cba778ec452d0008acbe86" tvg-logo="https://images.pluto.tv/channels/65cba778ec452d0008acbe86/colorLogoPNG.png" tvg-chno="13" group-title="Omitir" , Broad City
+https://r.mjh.nz/PlutoTV/65cba778ec452d0008acbe86-alt.m3u8
+#EXTINF:-1 channel-id="pluto-660d71e2aec9680008f8f18a" tvg-id="660d71e2aec9680008f8f18a" tvg-logo="https://images.pluto.tv/channels/660d71e2aec9680008f8f18a/colorLogoPNG.png" tvg-chno="14" group-title="Omitir" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/660d71e2aec9680008f8f18a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65c2428f3ba51e000836b553" tvg-id="65c2428f3ba51e000836b553" tvg-logo="https://images.pluto.tv/channels/65c2428f3ba51e000836b553/colorLogoPNG.png" tvg-chno="15" group-title="Omitir" , Padeltime TV
 https://r.mjh.nz/PlutoTV/65c2428f3ba51e000836b553-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65d87f53ec9fda0008a5b810" tvg-id="65d87f53ec9fda0008a5b810" tvg-logo="https://images.pluto.tv/channels/65d87f53ec9fda0008a5b810/colorLogoPNG.png" tvg-chno="25" group-title="Omitir" , South Park: Best of Kenny
@@ -4873,6 +4887,10 @@ https://r.mjh.nz/PlutoTV/61c1e433cbc58f0007b8cb10-alt.m3u8
 https://r.mjh.nz/PlutoTV/61c1d5055d85c00007cd74f7-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6178175dbac12b000750d6e6" tvg-id="6178175dbac12b000750d6e6" tvg-logo="https://images.pluto.tv/channels/6178175dbac12b000750d6e6/colorLogoPNG.png" tvg-chno="970" group-title="Omitir" , Familien Thunderman
 https://r.mjh.nz/PlutoTV/6178175dbac12b000750d6e6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65cba7b1ec452d0008acbed8" tvg-id="65cba7b1ec452d0008acbed8" tvg-logo="https://images.pluto.tv/channels/65cba7b1ec452d0008acbed8/colorLogoPNG.png" tvg-chno="9" group-title="Omitir" , Broad City
+https://r.mjh.nz/PlutoTV/65cba7b1ec452d0008acbed8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-660d7232635c75000828c95a" tvg-id="660d7232635c75000828c95a" tvg-logo="https://images.pluto.tv/channels/660d7232635c75000828c95a/colorLogoPNG.png" tvg-chno="10" group-title="Omitir" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/660d7232635c75000828c95a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65e97cd118036500082ed0ce" tvg-id="65e97cd118036500082ed0ce" tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png" tvg-chno="11" group-title="Omitir" , Best of Paradise Hotel: Skolveckan
 https://r.mjh.nz/PlutoTV/65e97cd118036500082ed0ce-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65e97d41f7f0af0008da2543" tvg-id="65e97d41f7f0af0008da2543" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" tvg-chno="12" group-title="Omitir" , Best of Paradise Hotel: Finalveckan
@@ -5247,6 +5265,12 @@ https://r.mjh.nz/PlutoTV/61c18d66d21a6600078cfcd1-alt.m3u8
 https://r.mjh.nz/PlutoTV/61e064b4fbbcc60007ffbecd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61780c88a3580d00089679a6" tvg-id="61780c88a3580d00089679a6" tvg-logo="https://images.pluto.tv/channels/61780c88a3580d00089679a6/colorLogoPNG.png" tvg-chno="970" group-title="Omitir" , Familjen Thunderman
 https://r.mjh.nz/PlutoTV/61780c88a3580d00089679a6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65cba73611ced700082123bc" tvg-id="65cba73611ced700082123bc" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" tvg-chno="12" group-title="Omitir" , Broad City
+https://r.mjh.nz/PlutoTV/65cba73611ced700082123bc-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65e9eb1e4e01740008cbbd2b" tvg-id="65e9eb1e4e01740008cbbd2b" tvg-logo="https://images.pluto.tv/channels/65e9eb1e4e01740008cbbd2b/colorLogoPNG.png" tvg-chno="13" group-title="Omitir" , Horton-sagaen
+https://r.mjh.nz/PlutoTV/65e9eb1e4e01740008cbbd2b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-660d714719ca71000849cc1f" tvg-id="660d714719ca71000849cc1f" tvg-logo="https://images.pluto.tv/channels/660d714719ca71000849cc1f/colorLogoPNG.png" tvg-chno="14" group-title="Omitir" , Realmadrid TV
+https://r.mjh.nz/PlutoTV/660d714719ca71000849cc1f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65c2424eec452d0008987459" tvg-id="65c2424eec452d0008987459" tvg-logo="https://images.pluto.tv/channels/65c2424eec452d0008987459/colorLogoPNG.png" tvg-chno="15" group-title="Omitir" , Padeltime TV
 https://r.mjh.nz/PlutoTV/65c2424eec452d0008987459-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65d879bd0d4561000805d190" tvg-id="65d879bd0d4561000805d190" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" tvg-chno="25" group-title="Omitir" , South Park: Best of Kenny
@@ -5785,8 +5809,6 @@ https://i.mjh.nz/Roku/7bdac47dd6dd5204b00b1d0e4cbc9684.m3u8
 https://i.mjh.nz/Roku/f2ad636c723a58b78276ee28f5edba58.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-479fe0d11f3f5132a3f36b617547da3b" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/479fe0d11f3f5132a3f36b617547da3b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563307973_LoveNature_260x147.png" tvg-chno="471" , Love Nature English
 https://i.mjh.nz/Roku/479fe0d11f3f5132a3f36b617547da3b.m3u8
-#EXTINF: group-title="Omitir",-1 channel-id="roku-2b50362a8bbc5a12a203aa48e6ea9fe1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2b50362a8bbc5a12a203aa48e6ea9fe1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655144220271_hud-center_260x147.png" tvg-chno="472" , The Jack Hanna Channel
-https://i.mjh.nz/Roku/2b50362a8bbc5a12a203aa48e6ea9fe1.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-0b88dcd80f6a5e838c83a67e7cfa4b3a" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0b88dcd80f6a5e838c83a67e7cfa4b3a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1702063487058_Roku_MagellanTVNow_Logo_HUD.png" tvg-chno="475" , MagellanTV Now
 https://i.mjh.nz/Roku/0b88dcd80f6a5e838c83a67e7cfa4b3a.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-f230a0c3f7ba5804b42d88f5d3c20002" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f230a0c3f7ba5804b42d88f5d3c20002/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1655156610060_XPLORE_logo_ROKU__hud-light_260x147.png" tvg-chno="477" , XPLORE
@@ -5885,6 +5907,8 @@ https://i.mjh.nz/Roku/0e9a0d968d225a3eb93784404f7edadf.m3u8
 https://i.mjh.nz/Roku/8acb4f9b8a255216966db355daaa1749.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-909b135136a1567eaf3f65fb64988323" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/909b135136a1567eaf3f65fb64988323/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652921815769_beINSPORTS-XTRA-ESPANOL_LOGO_ROKU_HUD_TOP-ALIGNED_260x147.png" tvg-chno="930" , beIN SPORTS Xtra en Español
 https://i.mjh.nz/Roku/909b135136a1567eaf3f65fb64988323.m3u8
+#EXTINF: group-title="Omitir",-1 channel-id="roku-735c2b7253c551ae9f07b07ea5278b75" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/735c2b7253c551ae9f07b07ea5278b75/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1711399366651_Hud_Logo-Canela_Deportes-1.png" tvg-chno="934" , Canela Deportes
+https://i.mjh.nz/Roku/735c2b7253c551ae9f07b07ea5278b75.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-ce571f7e2262554b83d93cfc27d21e7c" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ce571f7e2262554b83d93cfc27d21e7c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1657584288220_260x147.png" tvg-chno="936" , POWERNATION en Español
 https://i.mjh.nz/Roku/ce571f7e2262554b83d93cfc27d21e7c.m3u8
 #EXTINF: group-title="Omitir",-1 channel-id="roku-098bce44be895630a3e437516fe70853" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/098bce44be895630a3e437516fe70853/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704747063109_NaturalezaSalvaje_Image_HUD2.png" tvg-chno="947" , Naturaleza Salvaje
