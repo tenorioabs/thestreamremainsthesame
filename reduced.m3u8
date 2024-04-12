@@ -407,7 +407,9 @@ https://r.mjh.nz/PlutoTV/60cc68f4b2591a0007f0ac65-alt.m3u8
 https://r.mjh.nz/PlutoTV/60e44d0d659db600074cbb49-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62556bfa3261a300076b0baa" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="890" group-title="Great Britain" , Arthur
 https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65f9ba32f7f0af0008fbcb3d" tvg-id="65f9ba32f7f0af0008fbcb3d" tvg-logo="https://images.pluto.tv/channels/65f9ba32f7f0af0008fbcb3d/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , Realmadrid TV
+#EXTINF:-1 channel-id="pluto-63c7c122808b7400075c070f" tvg-id="63c7c122808b7400075c070f" tvg-logo="https://images.pluto.tv/channels/63c7c122808b7400075c070f/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , Desi Play TV
+https://r.mjh.nz/PlutoTV/63c7c122808b7400075c070f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65f9ba32f7f0af0008fbcb3d" tvg-id="65f9ba32f7f0af0008fbcb3d" tvg-logo="https://images.pluto.tv/channels/65f9ba32f7f0af0008fbcb3d/colorLogoPNG.png" tvg-chno="2" group-title="Canada" , Realmadrid TV
 https://r.mjh.nz/PlutoTV/65f9ba32f7f0af0008fbcb3d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" tvg-chno="100" group-title="Canada" , CSI
 https://r.mjh.nz/PlutoTV/62e9224f41d5e100076db2b6-alt.m3u8
@@ -783,7 +785,7 @@ https://r.mjh.nz/PlutoTV/62e90db65e8e770007382a50-alt.m3u8
 https://r.mjh.nz/PlutoTV/62e92d2e9bc0ab00072e10a3-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e927821054990007dc8e57" tvg-id="62e927821054990007dc8e57" tvg-logo="https://images.pluto.tv/channels/62e927821054990007dc8e57/colorLogoPNG.png" tvg-chno="973" group-title="Canada" , Les Nouveaux Détectives
 https://r.mjh.nz/PlutoTV/62e927821054990007dc8e57-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Brazil" , Guia de Canais
+#EXTINF:-1 channel-id="pluto-5fa97a8a75cc210007c9041d" tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" tvg-chno="1" group-title="Brazil" , Conhecendo a Pluto TV
 https://r.mjh.nz/PlutoTV/5fa97a8a75cc210007c9041d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f120e94a5714d00074576a1" tvg-id="5f120e94a5714d00074576a1" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" tvg-chno="18" group-title="Brazil" , Pluto TV Cine Sucessos
 https://r.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8
@@ -2199,10 +2201,10 @@ https://r.mjh.nz/PlutoTV/64240b7e283aa40008f79f84-alt.m3u8
 https://r.mjh.nz/PlutoTV/5caf325764025859afdd6c4d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f98471110cca20007d39f76" tvg-id="5f98471110cca20007d39f76" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" tvg-chno="460" group-title="Music" , MTV Unplugged
 https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6245d15062cd1f00070a2338" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" tvg-chno="461" group-title="Music" , MTV Music
-https://r.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
 #EXTINF:-1 channel-id="pluto-61923ac16d03190008138a67" tvg-id="61923ac16d03190008138a67" tvg-logo="https://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png" tvg-chno="461" group-title="Music" , MTV Love Music
 https://r.mjh.nz/PlutoTV/61923ac16d03190008138a67-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6245d15062cd1f00070a2338" tvg-id="6245d15062cd1f00070a2338" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" tvg-chno="461" group-title="Music" , MTV Music
+https://r.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6245cf8ac69baf000718295a" tvg-id="6245cf8ac69baf000718295a" tvg-logo="https://images.pluto.tv/channels/6245cf8ac69baf000718295a/colorLogoPNG.png" tvg-chno="462" group-title="Music" , MTV Approved Hip Hop
 https://r.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6245ccd9e1977a00079e2fba" tvg-id="6245ccd9e1977a00079e2fba" tvg-logo="https://images.pluto.tv/channels/6245ccd9e1977a00079e2fba/colorLogoPNG.png" tvg-chno="463" group-title="Music" , MTV German Music
