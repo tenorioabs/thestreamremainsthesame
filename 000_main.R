@@ -1,8 +1,12 @@
+
 source("099_instala_carrega_pacotes.R")
 source("098_funcoes.R")
 options(warn = -1)
 # Solicitar ao usuário que insira um valor
 # opcoes <- as.numeric(readline("Escolha 1 = Reduced ou 2 = Full:"))
+
+beep("ping")
+
 opcoes <- c(1, 2)
 
 for (i in 1:length(opcoes)) {
@@ -44,3 +48,5 @@ for (i in 1:length(opcoes)) {
     github_linux(paste0("atualizacao_", dia_hora))
   }
 }
+
+beep("mario")
