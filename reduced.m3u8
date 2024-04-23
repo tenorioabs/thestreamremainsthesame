@@ -413,6 +413,20 @@ https://r.mjh.nz/PlutoTV/60cc68f4b2591a0007f0ac65-alt.m3u8
 https://r.mjh.nz/PlutoTV/60e44d0d659db600074cbb49-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62556bfa3261a300076b0baa" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="890" group-title="Great Britain" , Arthur
 https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62bdb1c5e25122000798ac79" tvg-id="62bdb1c5e25122000798ac79" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , South Park
+https://r.mjh.nz/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
+#EXTINF:-1 channel-id="pluto-660c0d0ce8fba800084f2c7a" tvg-id="660c0d0ce8fba800084f2c7a" tvg-logo="https://images.pluto.tv/channels/660c0d0ce8fba800084f2c7a/colorLogoPNG.png" tvg-chno="2" group-title="Canada" , South Park Armageddon
+https://r.mjh.nz/PlutoTV/660c0d0ce8fba800084f2c7a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df4934f7f0af0008c32545" tvg-id="65df4934f7f0af0008c32545" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" tvg-chno="3" group-title="Canada" , South Park: Cartman Collection
+https://r.mjh.nz/PlutoTV/65df4934f7f0af0008c32545-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df47f428730900089f83ac" tvg-id="65df47f428730900089f83ac" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" tvg-chno="4" group-title="Canada" , South Park: Kenny Collection
+https://r.mjh.nz/PlutoTV/65df47f428730900089f83ac-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df49b30d45610008172c5b" tvg-id="65df49b30d45610008172c5b" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" tvg-chno="5" group-title="Canada" , South Park: Kyle Collection
+https://r.mjh.nz/PlutoTV/65df49b30d45610008172c5b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df48ba28730900089f8480" tvg-id="65df48ba28730900089f8480" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" tvg-chno="6" group-title="Canada" , South Park: Stan Collection
+https://r.mjh.nz/PlutoTV/65df48ba28730900089f8480-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62bdb919d36cbd0007e6ab8a" tvg-id="62bdb919d36cbd0007e6ab8a" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" tvg-chno="7" group-title="Canada" , South Park En Français
+https://r.mjh.nz/PlutoTV/62bdb919d36cbd0007e6ab8a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" tvg-chno="100" group-title="Canada" , CSI
 https://r.mjh.nz/PlutoTV/62e9224f41d5e100076db2b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f4e0e63fde020007835cbe" tvg-id="63f4e0e63fde020007835cbe" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" tvg-chno="101" group-title="Canada" , CSI: Miami
@@ -509,20 +523,6 @@ https://r.mjh.nz/PlutoTV/64f8a408bd341e000818fcda-alt.m3u8
 https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64f8a9ccd661bb00081bd93a" tvg-id="64f8a9ccd661bb00081bd93a" tvg-logo="https://images.pluto.tv/channels/64f8a9ccd661bb00081bd93a/colorLogoPNG.png" tvg-chno="242" group-title="Canada" , Comedy Central Stand-Up
 https://r.mjh.nz/PlutoTV/64f8a9ccd661bb00081bd93a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62bdb1c5e25122000798ac79" tvg-id="62bdb1c5e25122000798ac79" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" tvg-chno="250" group-title="Canada" , South Park
-https://r.mjh.nz/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
-#EXTINF:-1 channel-id="pluto-660c0d0ce8fba800084f2c7a" tvg-id="660c0d0ce8fba800084f2c7a" tvg-logo="https://images.pluto.tv/channels/660c0d0ce8fba800084f2c7a/colorLogoPNG.png" tvg-chno="251" group-title="Canada" , South Park Armageddon
-https://r.mjh.nz/PlutoTV/660c0d0ce8fba800084f2c7a-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65df4934f7f0af0008c32545" tvg-id="65df4934f7f0af0008c32545" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" tvg-chno="252" group-title="Canada" , South Park: Cartman Collection
-https://r.mjh.nz/PlutoTV/65df4934f7f0af0008c32545-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65df47f428730900089f83ac" tvg-id="65df47f428730900089f83ac" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" tvg-chno="253" group-title="Canada" , South Park: Kenny Collection
-https://r.mjh.nz/PlutoTV/65df47f428730900089f83ac-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65df49b30d45610008172c5b" tvg-id="65df49b30d45610008172c5b" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" tvg-chno="254" group-title="Canada" , South Park: Kyle Collection
-https://r.mjh.nz/PlutoTV/65df49b30d45610008172c5b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65df48ba28730900089f8480" tvg-id="65df48ba28730900089f8480" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" tvg-chno="255" group-title="Canada" , South Park: Stan Collection
-https://r.mjh.nz/PlutoTV/65df48ba28730900089f8480-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62bdb919d36cbd0007e6ab8a" tvg-id="62bdb919d36cbd0007e6ab8a" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" tvg-chno="256" group-title="Canada" , South Park En Français
-https://r.mjh.nz/PlutoTV/62bdb919d36cbd0007e6ab8a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62f4f90e39183b000769f12b" tvg-id="62f4f90e39183b000769f12b" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" tvg-chno="260" group-title="Canada" , Frasier
 https://r.mjh.nz/PlutoTV/62f4f90e39183b000769f12b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62bdb7f0db2eb30007376d4d" tvg-id="62bdb7f0db2eb30007376d4d" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" tvg-chno="261" group-title="Canada" , Cheers
@@ -753,23 +753,21 @@ https://r.mjh.nz/PlutoTV/635656ed26e11400077add0f-alt.m3u8
 https://r.mjh.nz/PlutoTV/6356584de76adf0007dcec3c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-654ca7f92c1d3300086b608c" tvg-id="654ca7f92c1d3300086b608c" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG.png" tvg-chno="810" group-title="Canada" , NickToons
 https://r.mjh.nz/PlutoTV/654ca7f92c1d3300086b608c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63fc7196dff38e0008304545" tvg-id="63fc7196dff38e0008304545" tvg-logo="https://images.pluto.tv/channels/63fc7196dff38e0008304545/colorLogoPNG.png" tvg-chno="811" group-title="Canada" , SpongeBob: Operation Sea Change
-https://r.mjh.nz/PlutoTV/63fc7196dff38e0008304545-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62bdb6a83c6e37000726823b" tvg-id="62bdb6a83c6e37000726823b" tvg-logo="https://images.pluto.tv/channels/62bdb6a83c6e37000726823b/colorLogoPNG.png" tvg-chno="812" group-title="Canada" , Nick Pluto TV
+#EXTINF:-1 channel-id="pluto-62bdb6a83c6e37000726823b" tvg-id="62bdb6a83c6e37000726823b" tvg-logo="https://images.pluto.tv/channels/62bdb6a83c6e37000726823b/colorLogoPNG.png" tvg-chno="811" group-title="Canada" , Nick Pluto TV
 https://r.mjh.nz/PlutoTV/62bdb6a83c6e37000726823b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65a669ab2fac9c000835c443" tvg-id="65a669ab2fac9c000835c443" tvg-logo="https://images.pluto.tv/channels/65a669ab2fac9c000835c443/colorLogoPNG.png" tvg-chno="813" group-title="Canada" , Teenage Mutant Ninja Turtles
+#EXTINF:-1 channel-id="pluto-65a669ab2fac9c000835c443" tvg-id="65a669ab2fac9c000835c443" tvg-logo="https://images.pluto.tv/channels/65a669ab2fac9c000835c443/colorLogoPNG.png" tvg-chno="812" group-title="Canada" , Teenage Mutant Ninja Turtles
 https://r.mjh.nz/PlutoTV/65a669ab2fac9c000835c443-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e95265c9fd030007268fb9" tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" tvg-chno="814" group-title="Canada" , Totally Turtles
+#EXTINF:-1 channel-id="pluto-62e95265c9fd030007268fb9" tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" tvg-chno="813" group-title="Canada" , Totally Turtles
 https://r.mjh.nz/PlutoTV/62e95265c9fd030007268fb9-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e9566e27ce19000732ec85" tvg-id="62e9566e27ce19000732ec85" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" tvg-chno="815" group-title="Canada" , Tortues Ninja TV
+#EXTINF:-1 channel-id="pluto-62e9566e27ce19000732ec85" tvg-id="62e9566e27ce19000732ec85" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" tvg-chno="814" group-title="Canada" , Tortues Ninja TV
 https://r.mjh.nz/PlutoTV/62e9566e27ce19000732ec85-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63da36dea995710008727d4d" tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" tvg-chno="816" group-title="Canada" , Transformers
+#EXTINF:-1 channel-id="pluto-63da36dea995710008727d4d" tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" tvg-chno="815" group-title="Canada" , Transformers
 https://r.mjh.nz/PlutoTV/63da36dea995710008727d4d-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6408b41b83f58900081d91ad" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-chno="817" group-title="Canada" , Pluto TV Retro Kid
+#EXTINF:-1 channel-id="pluto-6408b41b83f58900081d91ad" tvg-id="6408b41b83f58900081d91ad" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" tvg-chno="816" group-title="Canada" , Pluto TV Retro Kid
 https://r.mjh.nz/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62fa6b4eb5e661000741e424" tvg-id="62fa6b4eb5e661000741e424" tvg-logo="https://images.pluto.tv/channels/62fa6b4eb5e661000741e424/colorLogoPNG.png" tvg-chno="818" group-title="Canada" , Kid Squad
+#EXTINF:-1 channel-id="pluto-62fa6b4eb5e661000741e424" tvg-id="62fa6b4eb5e661000741e424" tvg-logo="https://images.pluto.tv/channels/62fa6b4eb5e661000741e424/colorLogoPNG.png" tvg-chno="817" group-title="Canada" , Kid Squad
 https://r.mjh.nz/PlutoTV/62fa6b4eb5e661000741e424-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62fb6aede6ff56000707085b" tvg-id="62fb6aede6ff56000707085b" tvg-logo="https://images.pluto.tv/channels/62fb6aede6ff56000707085b/colorLogoPNG.png" tvg-chno="819" group-title="Canada" , Kid Quest
+#EXTINF:-1 channel-id="pluto-62fb6aede6ff56000707085b" tvg-id="62fb6aede6ff56000707085b" tvg-logo="https://images.pluto.tv/channels/62fb6aede6ff56000707085b/colorLogoPNG.png" tvg-chno="818" group-title="Canada" , Kid Quest
 https://r.mjh.nz/PlutoTV/62fb6aede6ff56000707085b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-642be30baa2d690008ed2935" tvg-id="642be30baa2d690008ed2935" tvg-logo="https://images.pluto.tv/channels/642be30baa2d690008ed2935/colorLogoPNG.png" tvg-chno="830" group-title="Canada" , Sailor Moon
 https://r.mjh.nz/PlutoTV/642be30baa2d690008ed2935-alt.m3u8
@@ -791,7 +789,7 @@ https://r.mjh.nz/PlutoTV/62ea4b755e8e770007387b79-alt.m3u8
 https://r.mjh.nz/PlutoTV/65bcc9c8d77d450008b34c6b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62b97fdba1b2fd0007662aa2" tvg-id="62b97fdba1b2fd0007662aa2" tvg-logo="https://images.pluto.tv/channels/62b97fdba1b2fd0007662aa2/colorLogoPNG.png" tvg-chno="905" group-title="Canada" , MAVTV Select
 https://r.mjh.nz/PlutoTV/62b97fdba1b2fd0007662aa2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62ea4dadce395f0007086df2" tvg-id="62ea4dadce395f0007086df2" tvg-logo="https://images.pluto.tv/channels/62ea4dadce395f0007086df2/colorLogoPNG.png" tvg-chno="906" group-title="Canada" , IMPACT Wrestling
+#EXTINF:-1 channel-id="pluto-62ea4dadce395f0007086df2" tvg-id="62ea4dadce395f0007086df2" tvg-logo="https://images.pluto.tv/channels/62ea4dadce395f0007086df2/colorLogoPNG.png" tvg-chno="906" group-title="Canada" , TNA Wrestling
 https://r.mjh.nz/PlutoTV/62ea4dadce395f0007086df2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64240d3d466225000827412b" tvg-id="64240d3d466225000827412b" tvg-logo="https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png" tvg-chno="950" group-title="Canada" , Qello Concerts
 https://r.mjh.nz/PlutoTV/64240d3d466225000827412b-alt.m3u8
@@ -967,6 +965,16 @@ https://r.mjh.nz/PlutoTV/64df7ab4dfa32400083c517b-alt.m3u8
 https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eba66da8b2270008436b10" tvg-id="63eba66da8b2270008436b10" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" tvg-chno="910" group-title="Brazil" , World Poker Tour
 https://r.mjh.nz/PlutoTV/63eba66da8b2270008436b10-alt.m3u8
+#EXTINF:-1 channel-id="pluto-66032ff6738fa30008f1f2b6" tvg-id="66032ff6738fa30008f1f2b6" tvg-logo="https://images.pluto.tv/channels/66032ff6738fa30008f1f2b6/colorLogoPNG.png" tvg-chno="920" group-title="Brazil" , South Park: Apocalipse
+https://r.mjh.nz/PlutoTV/66032ff6738fa30008f1f2b6-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df71008b24c80008f04281" tvg-id="65df71008b24c80008f04281" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" tvg-chno="922" group-title="Brazil" , South Park: Coleção Cartman
+https://r.mjh.nz/PlutoTV/65df71008b24c80008f04281-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df704366eec8000898e32f" tvg-id="65df704366eec8000898e32f" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" tvg-chno="923" group-title="Brazil" , South Park: Coleção Kenny
+https://r.mjh.nz/PlutoTV/65df704366eec8000898e32f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df713dec9fda0008b7a81d" tvg-id="65df713dec9fda0008b7a81d" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" tvg-chno="924" group-title="Brazil" , South Park: Coleção Kyle
+https://r.mjh.nz/PlutoTV/65df713dec9fda0008b7a81d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65df70b0f7f0af0008c3b316" tvg-id="65df70b0f7f0af0008c3b316" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" tvg-chno="925" group-title="Brazil" , South Park: Coleção Stan
+https://r.mjh.nz/PlutoTV/65df70b0f7f0af0008c3b316-alt.m3u8
 #EXTINF:-1 channel-id="pluto-609ae66b359b270007869ff1" tvg-id="609ae66b359b270007869ff1" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" tvg-chno="929" group-title="Brazil" , Comedy Central South Park
 https://r.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6001f3018502100007f528ac" tvg-id="6001f3018502100007f528ac" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" tvg-chno="994" group-title="Brazil" , Pluto TV Comédia
@@ -1083,7 +1091,7 @@ https://r.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8
 https://r.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604b99d633a72b00078e05ad" tvg-id="604b99d633a72b00078e05ad" tvg-logo="https://images.pluto.tv/channels/604b99d633a72b00078e05ad/colorLogoPNG.png" tvg-chno="1525" group-title="Brazil" , Pluto TV Karaokê por Stingray
 https://r.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8
-#EXTINF:-1 channel-id="samsung-CABD1700002R4" tvg-id="CABD1700002R4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20240415T233624SQUARE.png" tvg-chno="1000" group-title="Canada" , Conan O'Brien TV
+#EXTINF:-1 channel-id="samsung-CABD1700002R4" tvg-id="CABD1700002R4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1700002R4_20240422T232945SQUARE.png" tvg-chno="1000" group-title="Canada" , Conan O'Brien TV
 https://i.mjh.nz/SamsungTVPlus/CABD1700002R4.m3u8
 #EXTINF:-1 channel-id="samsung-CABC2300009KD" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20230726T004516SQUARE.png_20230726004517.png" tvg-chno="1043" group-title="Canada" , CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
@@ -1193,13 +1201,13 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200012B8.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8
 #EXTINF:-1 channel-id="samsung-CABD1200041NC" tvg-id="CABD1200041NC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200041NC_20240319T022634SQUARE.png" tvg-chno="1231" group-title="Canada" , Cheaters
 https://i.mjh.nz/SamsungTVPlus/CABD1200041NC.m3u8
-#EXTINF:-1 channel-id="samsung-CABB2500026WM" tvg-id="CABB2500026WM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500026WM_20240227T221159SQUARE.png_20240227221201.png" tvg-chno="1235" group-title="Canada" , Operation Repo
+#EXTINF:-1 channel-id="samsung-CABB2500026WM" tvg-id="CABB2500026WM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2500026WM_20240422T232954SQUARE.png" tvg-chno="1235" group-title="Canada" , Operation Repo
 https://i.mjh.nz/SamsungTVPlus/CABB2500026WM.m3u8
 #EXTINF:-1 channel-id="samsung-CABB2600006SV" tvg-id="CABB2600006SV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB2600006SV_20240227T221129SQUARE.png_20240227221130.png" tvg-chno="1240" group-title="Canada" , Hell's Kitchen
 https://i.mjh.nz/SamsungTVPlus/CABB2600006SV.m3u8
 #EXTINF:-1 channel-id="samsung-CABA800001IQ" tvg-id="CABA800001IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABA800001IQ_20230809T005033SQUARE.png_20230809005034.png" tvg-chno="1251" group-title="Canada" , INFAST
 https://i.mjh.nz/SamsungTVPlus/CABA800001IQ.m3u8
-#EXTINF:-1 channel-id="samsung-CABD1200043OK" tvg-id="CABD1200043OK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20231212T214944SQUARE.png_20231212214945.png" tvg-chno="1320" group-title="Canada" , CBC Comedy
+#EXTINF:-1 channel-id="samsung-CABD1200043OK" tvg-id="CABD1200043OK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20240422T232943SQUARE.png" tvg-chno="1320" group-title="Canada" , CBC Comedy
 https://i.mjh.nz/SamsungTVPlus/CABD1200043OK.m3u8
 #EXTINF:-1 channel-id="samsung-CAAJ3400006QE" tvg-id="CAAJ3400006QE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400006QE_20220330T044448SQUARE.png_20220330044449.png" tvg-chno="1323" group-title="Canada" , The Red Green Channel
 https://i.mjh.nz/SamsungTVPlus/CAAJ3400006QE.m3u8
@@ -1277,7 +1285,7 @@ https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABD1200001SY.m3u8
 #EXTINF:-1 channel-id="samsung-CAAJ3400009KT" tvg-id="CAAJ3400009KT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400009KT_20220330T044443SQUARE.png_20220330044444.png" tvg-chno="1478" group-title="Canada" , CINEVAULT: Classics
 https://i.mjh.nz/SamsungTVPlus/CAAJ3400009KT.m3u8
-#EXTINF:-1 channel-id="samsung-CAAJ27000159K" tvg-id="CAAJ27000159K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20240213T215446SQUARE.png_20240213215447.png" tvg-chno="1488" group-title="Canada" , FilmRise Western
+#EXTINF:-1 channel-id="samsung-CAAJ27000159K" tvg-id="CAAJ27000159K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20240422T232938SQUARE.png" tvg-chno="1488" group-title="Canada" , FilmRise Western
 https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
 #EXTINF:-1 channel-id="samsung-CAAJ3400011V4" tvg-id="CAAJ3400011V4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ3400011V4_20220330T044325SQUARE.png_20220330044326.png" tvg-chno="1491" group-title="Canada" , The Preview Channel
 https://i.mjh.nz/SamsungTVPlus/CAAJ3400011V4.m3u8
@@ -1353,13 +1361,13 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200025IX.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABD1200037BS.m3u8
 #EXTINF:-1 channel-id="samsung-CABD1200027JL" tvg-id="CABD1200027JL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200027JL_20240313T064740SQUARE.png" tvg-chno="1554" group-title="Canada" , Stingray Today's Latin Pop
 https://i.mjh.nz/SamsungTVPlus/CABD1200027JL.m3u8
-#EXTINF:-1 channel-id="samsung-USBD120001614" tvg-id="USBD120001614" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20240415T233106SQUARE.png" tvg-chno="1000" group-title="United States" , Conan O'Brien TV
+#EXTINF:-1 channel-id="samsung-USBD120001614" tvg-id="USBD120001614" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20240422T233041SQUARE.png" tvg-chno="1000" group-title="United States" , Conan O'Brien TV
 https://i.mjh.nz/SamsungTVPlus/USBD120001614.m3u8
-#EXTINF:-1 channel-id="samsung-USBD1700001RW" tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240415T233104SQUARE.png" tvg-chno="1002" group-title="United States" , BBC Earth
+#EXTINF:-1 channel-id="samsung-USBD1700001RW" tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20240422T233033SQUARE.png" tvg-chno="1002" group-title="United States" , BBC Earth
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:-1 channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20240415T233108SQUARE.png" tvg-chno="1003" group-title="United States" , Dance Moms
+#EXTINF:-1 channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20240422T233043SQUARE.png" tvg-chno="1003" group-title="United States" , Dance Moms
 https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
-#EXTINF:-1 channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240319T022439SQUARE.png" tvg-chno="1005" group-title="United States" , CBS News
+#EXTINF:-1 channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240422T233029SQUARE.png" tvg-chno="1005" group-title="United States" , CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
 #EXTINF:-1 channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240319T022455SQUARE.png" tvg-chno="1006" group-title="United States" , LiveNOW from FOX
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
@@ -1437,7 +1445,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
 #EXTINF:-1 channel-id="samsung-USBD700012OA" tvg-id="USBD700012OA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700012OA_20240319T022320SQUARE.png" tvg-chno="1069" group-title="United States" , The Bob Ross Channel
 https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3800005NI" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20240319T022517SQUARE.png" tvg-chno="1070" group-title="United States" , Clarity 4K
+#EXTINF:-1 channel-id="samsung-USBA3800005NI" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20240422T232959SQUARE.png" tvg-chno="1070" group-title="United States" , Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 channel-id="samsung-USBC6000225M" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20240319T022359SQUARE.png" tvg-chno="1074" group-title="United States" , ElectricNOW
 https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
@@ -1701,7 +1709,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB44000099N.m3u8
 #EXTINF:-1 channel-id="samsung-USBD17000172A" tvg-id="USBD17000172A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20240319T021839SQUARE.png" tvg-chno="1266" group-title="United States" , Las 3 Marías
 https://i.mjh.nz/SamsungTVPlus/USBD17000172A.m3u8
-#EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20240319T021824SQUARE.png" tvg-chno="1267" group-title="United States" , ViX Grandes Parejas
+#EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20240422T233025SQUARE.png" tvg-chno="1267" group-title="United States" , ViX Grandes Parejas
 https://i.mjh.nz/SamsungTVPlus/USBC2100012EJ.m3u8
 #EXTINF:-1 channel-id="samsung-USBC2100011WI" tvg-id="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20240319T021829SQUARE.png" tvg-chno="1268" group-title="United States" , ViX Villanos de Novela
 https://i.mjh.nz/SamsungTVPlus/USBC2100011WI.m3u8
@@ -1883,7 +1891,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240401T235713SQUARE.png" tvg-chno="1423" group-title="United States" , Stingray Spa
 https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
-#EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20240401T235755SQUARE.png" tvg-chno="1425" group-title="United States" , Fear Zone
+#EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20240422T233045SQUARE.png" tvg-chno="1425" group-title="United States" , Fear Zone
 https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
 #EXTINF:-1 channel-id="samsung-US300002BE" tvg-id="US300002BE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300002BE_20240415T233122SQUARE.png" tvg-chno="1426" group-title="United States" , The Curse of Oak Island
 https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
