@@ -2043,8 +2043,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240401T235658SQUARE.png" tvg-chno="1552" group-title="United States" , Stingray Greatest Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
-#EXTINF:-1 channel-id="samsung-USBD3500037D6" tvg-id="USBD3500037D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500037D6_20240422T233102SQUARE.png" tvg-chno="2489" group-title="United States" , ViX Novelas de romance
-https://i.mjh.nz/SamsungTVPlus/USBD3500037D6.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png" group-title="Music" , Classic Rock
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-id="5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png" group-title="Music" , Euro Hits
