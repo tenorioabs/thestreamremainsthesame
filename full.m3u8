@@ -712,7 +712,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65e87f35335524a69e8e0ce0.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6179.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021" tvg-name="People are Awesome" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e430cc92-6e22-469c-8666-7cabd46392d7/paa_logo_dark.png" group-title="United States",People are Awesome
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec021.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63c1ddfaf0f132afc3afbaae" tvg-name="Perform by Lifetime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/027fd04f-337f-425c-a10c-14b011e7b8b5/Perform-Channel-Logo-_Light_-1500x1000px.png" group-title="United States",Perform by Lifetime
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63c1ddfaf0f132afc3afbaae" tvg-name="Perform by Lifetime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dda0e6ca-d061-486f-a36e-ac6221a079a4/Perform_by_Lifetime_COLOR_Logo_RDX.png" group-title="United States",Perform by Lifetime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c1ddfaf0f132afc3afbaae.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-name="PickleTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a74fdfd7-528c-4800-b1f4-c3721b1c246f/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png" group-title="United States",PickleTV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
@@ -842,6 +842,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63616d4c9fdbf7808e22baee.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d" tvg-name="Spark TV Light & Love" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/SparkTV_logo_dark.png" group-title="United States",Spark TV Light & Love
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60" tvg-name="Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="United States",Spark TV Luz y Amor
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca" tvg-name="SportsGrid" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png" group-title="United States",SportsGrid
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92" tvg-name="Stadium" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_gracenote_logo.png" group-title="United States",Stadium
@@ -904,6 +906,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df61.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0" tvg-name="The Archive" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-archive.png" group-title="United States",The Archive
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6627ab12580825e8a7bc4f04" tvg-name="The Asylum" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/307a980b5441ebed14f2b8c7561050c3.png" group-title="United States",The Asylum
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6627ab12580825e8a7bc4f04.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6515ff231fc969615e69d170" tvg-name="The Biggest Loser" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ee6167ad-08b7-4d83-ae79-51392c4c244a/TBL_Logo_Dark_1500x1000_-_Harry_Marshall_WHITE_COLOR.png" group-title="United States",The Biggest Loser
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6515ff231fc969615e69d170.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82" tvg-name="The Boat Show" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" group-title="United States",The Boat Show
@@ -1120,6 +1124,10 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-name="FilmRise Made In Canada" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/81ac20adc4165417eba0ae6a74cd337d.png" group-title="Canada",FilmRise Made In Canada
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-name="FilmRise Sci-Fi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e655a15-91db-4157-bc9e-34198eec66c6/Plex_FilmRiseCA_SciFi_Color_Logo.png" group-title="Canada",FilmRise Sci-Fi
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-name="FilmRise Western" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a46d9c7e-5c41-47b6-aeba-c668e9d91a11/FilmRiseWestern_Logo_Color.png" group-title="Canada",FilmRise Western
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65de8ca640b20047b79df1c9" tvg-name="Fresh Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b7f45f1-a835-422d-ab18-fb82d12a30de/ColoredLogo_FreshMovies_1500x1000RDX.png" group-title="Canada",Fresh Movies
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65de8ca640b20047b79df1c9.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5fc705f0c8d56d002e06f721" tvg-name="GINX ESPORTS TV CANADA" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/779745c57fd4133f65f265c918322a26.png" group-title="Canada",GINX ESPORTS TV CANADA
@@ -1154,6 +1162,8 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a.m3u8
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-657dee4038169fe9de6571b8.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55" tvg-name="Survivorman on Plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c65390b-22d4-46fe-a2e0-7972af2c5e8f/Survivorman-ChannelLogoColorRDX.png" group-title="Canada",Survivorman on Plex
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55.m3u8
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757" tvg-name="Tastemade" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76c60f0e-ded8-4260-91c9-fab50a3347b9/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png" group-title="Canada",Tastemade
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0" tvg-name="The Wicked Tuna Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png" group-title="Canada",The Wicked Tuna Channel
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0.m3u8
 #EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-64e43b37200cd2f67473e0d4" tvg-name="True Crime Now" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="Canada",True Crime Now
@@ -1450,6 +1460,8 @@ https://r.mjh.nz/PlutoTV/6127e12ed140e900077e7b6f-alt.m3u8
 https://r.mjh.nz/PlutoTV/5ca6899a37b88b269472ea4b-alt.m3u8
 #EXTINF:-1 tvg-id="5d8bf1472907815f66a866dd" tvg-name="Pluto TV Celebrity" tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="United States",Pluto TV Celebrity
 https://r.mjh.nz/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
+#EXTINF:-1 tvg-id="6549322e53fc97000838febc" tvg-name="Million Dollar Listing Vault" tvg-logo="https://images.pluto.tv/channels/6549322e53fc97000838febc/colorLogoPNG.png" group-title="United States",Million Dollar Listing Vault
+https://r.mjh.nz/PlutoTV/6549322e53fc97000838febc-alt.m3u8
 #EXTINF:-1 tvg-id="6549310a53fc97000838fcc9" tvg-name="Bravo Vault" tvg-logo="https://images.pluto.tv/channels/6549310a53fc97000838fcc9/colorLogoPNG.png" group-title="United States",Bravo Vault
 https://r.mjh.nz/PlutoTV/6549310a53fc97000838fcc9-alt.m3u8
 #EXTINF:-1 tvg-id="6549316d2c1d330008631496" tvg-name="Real Housewives Vault" tvg-logo="https://images.pluto.tv/channels/6549316d2c1d330008631496/colorLogoPNG.png" group-title="United States",Real Housewives Vault
@@ -1628,6 +1640,10 @@ https://r.mjh.nz/PlutoTV/65ea8b928145cb0008509426-alt.m3u8
 https://r.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
 #EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-name="Fight" tvg-logo="https://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG-1543864366762.png" group-title="United States",Fight
 https://r.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
+#EXTINF:-1 tvg-id="64d160f53c785e0008df525e" tvg-name="Top Rank Classics" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" group-title="United States",Top Rank Classics
+https://r.mjh.nz/PlutoTV/64d160f53c785e0008df525e-alt.m3u8
+#EXTINF:-1 tvg-id="649b6898f2ec0000081a9460" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="United States",DAZN Ringside
+https://r.mjh.nz/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
 #EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="United States",Bellator MMA
 https://r.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
 #EXTINF:-1 tvg-id="6334a574605f140007e233c4" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" group-title="United States",PFL MMA
@@ -1642,6 +1658,8 @@ https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 https://r.mjh.nz/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 #EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-name="PokerGo" tvg-logo="https://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="United States",PokerGo
 https://r.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8
+#EXTINF:-1 tvg-id="65c69ee3d77d450008c80438" tvg-name="Formula 1 Channel" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="United States",Formula 1 Channel
+https://r.mjh.nz/PlutoTV/65c69ee3d77d450008c80438-alt.m3u8
 #EXTINF:-1 tvg-id="65c69b683ba51e00084534a3" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="United States",Monster Jam
 https://r.mjh.nz/PlutoTV/65c69b683ba51e00084534a3-alt.m3u8
 #EXTINF:-1 tvg-id="6400f731d200410008f9b339" tvg-name="MotorTrend FAST TV" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" group-title="United States",MotorTrend FAST TV
@@ -1652,6 +1670,8 @@ https://r.mjh.nz/PlutoTV/63b48016d9dd51000828fa37-alt.m3u8
 https://r.mjh.nz/PlutoTV/5bb3fea0f711fd76340eebff-alt.m3u8
 #EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="United States",Pluto TV History
 https://r.mjh.nz/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
+#EXTINF:-1 tvg-id="65775d29dfed030008cb3db2" tvg-name="Modern Marvels Presented by HISTORY" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" group-title="United States",Modern Marvels Presented by HISTORY
+https://r.mjh.nz/PlutoTV/65775d29dfed030008cb3db2-alt.m3u8
 #EXTINF:-1 tvg-id="563a970aa1a1f7fe7c9daad7" tvg-name="Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" group-title="United States",Pluto TV Science
 https://r.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
 #EXTINF:-1 tvg-id="65775a88b3801200084a39ed" tvg-name="StarTalk TV" tvg-logo="https://images.pluto.tv/channels/65775a88b3801200084a39ed/colorLogoPNG.png" group-title="United States",StarTalk TV
@@ -2970,6 +2990,8 @@ https://i.mjh.nz/Roku/f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 https://i.mjh.nz/Roku/dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Weather" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0838d5ccb1d5564d98fb804ab314c85e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442655370_1688568641141_FWX_HUD_1.png" group-title="United States",FOX Weather
 https://i.mjh.nz/Roku/0838d5ccb1d5564d98fb804ab314c85e.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scripps News" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d3f36d4a35fa5f40a24b96a51556b9b5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1672770149812_Scripps-News_Roku-Channel_Hud-Logo-2_260x147.png" group-title="United States",Scripps News
+https://i.mjh.nz/Roku/d3f36d4a35fa5f40a24b96a51556b9b5.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Today" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5321194d102d57e094d47d50949088b8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653091591724_USATODAY_260x147_copy.png" group-title="United States",USA Today
 https://i.mjh.nz/Roku/5321194d102d57e094d47d50949088b8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Hill TV" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/8bfd3a488b59590eb2fa5602c2120168/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1662135850643_260x147_px_GRAY.png" group-title="United States",The Hill TV
@@ -25390,10 +25412,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cffcf5686dfe15595fb3f56/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cffcf5686dfe15595fb3f56&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7ca1fec5-0587-11eb-aeab-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVMTVTheHills.us" tvg-name="Pluto TV MTV The Hills (720p)" tvg-logo="https://i.imgur.com/92mvCjS.png" group-title="Music",Pluto TV MTV The Hills (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e86bf0bac55fe7f75736/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d00e86bf0bac55fe7f75736&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a934c097-0587-11eb-8b9f-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Claro Musica" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="Music",Claro Musica
-https://p2z.me:443/live/285587127/411739596/5041773.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Hits" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="Music",MTV Hits
-https://p2z.me:443/live/285587127/411739596/5041834.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sports Stars" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Music",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BLITS TV" tvg-logo="https://imgur.com/ipKpPCe.png" group-title="Music",BLITS TV
