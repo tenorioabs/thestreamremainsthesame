@@ -1568,24 +1568,24 @@ https://r.mjh.nz/PlutoTV/634ee8f95aa9870007248333-alt.m3u8
 https://r.mjh.nz/PlutoTV/5e9decb953e157000752321c-alt.m3u8
 #EXTINF:-1 tvg-id="6283d51144ad8f0007fa382d" tvg-name="The Judge Judy Channel" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="United States",The Judge Judy Channel
 https://r.mjh.nz/PlutoTV/6283d51144ad8f0007fa382d-alt.m3u8
-#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-name="Hot Bench" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="United States",Hot Bench
-https://r.mjh.nz/PlutoTV/6036e6e7ac69c400072afca2-alt.m3u8
 #EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="United States",NFL Channel
 https://r.mjh.nz/PlutoTV/5ced7d5df64be98e07ed47b6-alt.m3u8
+#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-name="Hot Bench" tvg-logo="https://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="United States",Hot Bench
+https://r.mjh.nz/PlutoTV/6036e6e7ac69c400072afca2-alt.m3u8
 #EXTINF:-1 tvg-id="610c5f80f71f660007a2ad8e" tvg-name="Pluto TV Soaps" tvg-logo="https://images.pluto.tv/channels/610c5f80f71f660007a2ad8e/colorLogoPNG.png" group-title="United States",Pluto TV Soaps
 https://r.mjh.nz/PlutoTV/610c5f80f71f660007a2ad8e-alt.m3u8
 #EXTINF:-1 tvg-id="5bdcdf1e851dd5632e2c11d1" tvg-name="QVC" tvg-logo="https://images.pluto.tv/channels/5bdcdf1e851dd5632e2c11d1/colorLogoPNG.png" group-title="United States",QVC
 https://r.mjh.nz/PlutoTV/5bdcdf1e851dd5632e2c11d1-alt.m3u8
 #EXTINF:-1 tvg-id="5f8a02476b72230007e62b7d" tvg-name="HSN" tvg-logo="https://images.pluto.tv/channels/5f8a02476b72230007e62b7d/colorLogoPNG-1675271320133.png" group-title="United States",HSN
 https://r.mjh.nz/PlutoTV/5f8a02476b72230007e62b7d-alt.m3u8
-#EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="United States",Pluto TV News
-https://r.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 #EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-name="PBR RidePass" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="United States",PBR RidePass
 https://r.mjh.nz/PlutoTV/60d39387706fe50007fda8e8-alt.m3u8
+#EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-name="Pluto TV News" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="United States",Pluto TV News
+https://r.mjh.nz/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 #EXTINF:-1 tvg-id="5a6b92f6e22a617379789618" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="United States",CBS News 24/7
 https://r.mjh.nz/PlutoTV/5a6b92f6e22a617379789618-alt.m3u8
-#EXTINF:-1 tvg-id="62cdc8709e20de00073045a5" tvg-name="CBS News Colorado" tvg-logo="https://images.pluto.tv/channels/62cdc8709e20de00073045a5/colorLogoPNG.png" group-title="United States",CBS News Colorado
-https://r.mjh.nz/PlutoTV/62cdc8709e20de00073045a5-alt.m3u8
+#EXTINF:-1 tvg-id="62cdc813f5def500070361eb" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png" group-title="United States",CBS News Texas
+https://r.mjh.nz/PlutoTV/62cdc813f5def500070361eb-alt.m3u8
 #EXTINF:-1 tvg-id="5dc9b8223687ff000936ed79" tvg-name="CBS News New York" tvg-logo="https://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" group-title="United States",CBS News New York
 https://r.mjh.nz/PlutoTV/5dc9b8223687ff000936ed79-alt.m3u8
 #EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="United States",CBS News Los Angeles
@@ -1600,8 +1600,8 @@ https://r.mjh.nz/PlutoTV/5421f71da6af422839419cb3-alt.m3u8
 https://r.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
 #EXTINF:-1 tvg-id="60fb321ee99fac0008c9ab8a" tvg-name="CBS News Spotlight" tvg-logo="https://images.pluto.tv/channels/60fb321ee99fac0008c9ab8a/colorLogoPNG.png" group-title="United States",CBS News Spotlight
 https://r.mjh.nz/PlutoTV/60fb321ee99fac0008c9ab8a-alt.m3u8
-#EXTINF:-1 tvg-id="628bfbc451e959000777fac9" tvg-name="WeatherNation Denver" tvg-logo="https://images.pluto.tv/channels/628bfbc451e959000777fac9/colorLogoPNG.png" group-title="United States",WeatherNation Denver
-https://r.mjh.nz/PlutoTV/628bfbc451e959000777fac9-alt.m3u8
+#EXTINF:-1 tvg-id="5bdce04659ee03633e758130" tvg-name="WeatherNation" tvg-logo="https://images.pluto.tv/channels/5bdce04659ee03633e758130/colorLogoPNG.png" group-title="United States",WeatherNation
+https://r.mjh.nz/PlutoTV/5bdce04659ee03633e758130-alt.m3u8
 #EXTINF:-1 tvg-id="65d92a8c8b24c80008e285c0" tvg-name="BBC News" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="United States",BBC News
 https://r.mjh.nz/PlutoTV/65d92a8c8b24c80008e285c0-alt.m3u8
 #EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-name="Sky News" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="United States",Sky News
@@ -1938,12 +1938,16 @@ https://r.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 https://r.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
 #EXTINF:-1 tvg-id="5f32f397795b750007706448" tvg-name="Vevo Reggaeton & Trap" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="United States",Vevo Reggaeton & Trap
 https://r.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
+#EXTINF:-1 tvg-id="632b642933a6280007aaf265" tvg-name="WSB Atlanta" tvg-logo="https://images.pluto.tv/channels/632b642933a6280007aaf265/colorLogoPNG.png" group-title="United States",WSB Atlanta
+https://r.mjh.nz/PlutoTV/632b642933a6280007aaf265-alt.m3u8
 #EXTINF:-1 tvg-id="60f75919718aed0007250d7a" tvg-name="CBS News Baltimore" tvg-logo="https://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG-1643042747442.png" group-title="United States",CBS News Baltimore
 https://r.mjh.nz/PlutoTV/60f75919718aed0007250d7a-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1afb21486df0007abc57c" tvg-name="CBS News Bay Area" tvg-logo="https://images.pluto.tv/channels/5eb1afb21486df0007abc57c/colorLogoPNG.png" group-title="United States",CBS News Bay Area
 https://r.mjh.nz/PlutoTV/5eb1afb21486df0007abc57c-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1af2ad345340008fccd1e" tvg-name="CBS News Boston" tvg-logo="https://images.pluto.tv/channels/5eb1af2ad345340008fccd1e/colorLogoPNG.png" group-title="United States",CBS News Boston
 https://r.mjh.nz/PlutoTV/5eb1af2ad345340008fccd1e-alt.m3u8
+#EXTINF:-1 tvg-id="632b648c08cd050007d94114" tvg-name="WSOC Charlotte" tvg-logo="https://images.pluto.tv/channels/632b648c08cd050007d94114/colorLogoPNG.png" group-title="United States",WSOC Charlotte
+https://r.mjh.nz/PlutoTV/632b648c08cd050007d94114-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1aeb2fd4b8a00076c2047" tvg-name="CBS News Chicago" tvg-logo="https://images.pluto.tv/channels/5eb1aeb2fd4b8a00076c2047/colorLogoPNG.png" group-title="United States",CBS News Chicago
 https://r.mjh.nz/PlutoTV/5eb1aeb2fd4b8a00076c2047-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1b12146cba40007aa7e5d" tvg-name="CBS News Colorado" tvg-logo="https://images.pluto.tv/channels/5eb1b12146cba40007aa7e5d/colorLogoPNG-1643041708234.png" group-title="United States",CBS News Colorado
@@ -1960,6 +1964,8 @@ https://r.mjh.nz/PlutoTV/5eb1b0bf2240d8000732a09c-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dc48170e280c80009a861ab-alt.m3u8
 #EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-name="News 12 New York" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="United States",News 12 New York
 https://r.mjh.nz/PlutoTV/5fff49cfb5cd4f0007c2b0dc-alt.m3u8
+#EXTINF:-1 tvg-id="632b6233822bbc000748fd81" tvg-name="WFTV Orlando" tvg-logo="https://images.pluto.tv/channels/632b6233822bbc000748fd81/colorLogoPNG.png" group-title="United States",WFTV Orlando
+https://r.mjh.nz/PlutoTV/632b6233822bbc000748fd81-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1b05ea168cc000767ba67" tvg-name="CBS News Philadelphia" tvg-logo="https://images.pluto.tv/channels/5eb1b05ea168cc000767ba67/colorLogoPNG.png" group-title="United States",CBS News Philadelphia
 https://r.mjh.nz/PlutoTV/5eb1b05ea168cc000767ba67-alt.m3u8
 #EXTINF:-1 tvg-id="5eb1b17aa5277e00083f6521" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/5eb1b17aa5277e00083f6521/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
@@ -2310,6 +2316,14 @@ https://r.mjh.nz/PlutoTV/5d765786aad587cf4d0e2bf6-alt.m3u8
 https://r.mjh.nz/PlutoTV/62ac405b3874370007419b7f-alt.m3u8
 #EXTINF:-1 tvg-id="62556bfa3261a300076b0baa" tvg-name="Arthur" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" group-title="Great Britain",Arthur
 https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
+#EXTINF:-1 tvg-id="64c220e15dc1660008a79c96" tvg-name="The Price is Right: The Barker Era" tvg-logo="https://images.pluto.tv/channels/64c220e15dc1660008a79c96/colorLogoPNG.png" group-title="Canada",The Price is Right: The Barker Era
+https://r.mjh.nz/PlutoTV/64c220e15dc1660008a79c96-alt.m3u8
+#EXTINF:-1 tvg-id="64c2214c2a7f2200089a0c4b" tvg-name="The Price is Right" tvg-logo="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png" group-title="Canada",The Price is Right
+https://r.mjh.nz/PlutoTV/64c2214c2a7f2200089a0c4b-alt.m3u8
+#EXTINF:-1 tvg-id="64c2222fb0cf5c0008288c4f" tvg-name="Family Feud Classic" tvg-logo="https://images.pluto.tv/channels/64c2222fb0cf5c0008288c4f/colorLogoPNG.png" group-title="Canada",Family Feud Classic
+https://r.mjh.nz/PlutoTV/64c2222fb0cf5c0008288c4f-alt.m3u8
+#EXTINF:-1 tvg-id="64c2201a2a7f2200089a0af2" tvg-name="Let's Make a deal" tvg-logo="https://images.pluto.tv/channels/64c2201a2a7f2200089a0af2/colorLogoPNG.png" group-title="Canada",Let's Make a deal
+https://r.mjh.nz/PlutoTV/64c2201a2a7f2200089a0af2-alt.m3u8
 #EXTINF:-1 tvg-id="6540fec1770cf1000866b65b" tvg-name="Dance Moms" tvg-logo="https://images.pluto.tv/channels/6540fec1770cf1000866b65b/colorLogoPNG.png" group-title="Canada",Dance Moms
 https://r.mjh.nz/PlutoTV/6540fec1770cf1000866b65b-alt.m3u8
 #EXTINF:-1 tvg-id="62e9224f41d5e100076db2b6" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" group-title="Canada",CSI
@@ -3070,7 +3084,7 @@ https://i.mjh.nz/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
 https://i.mjh.nz/Roku/79ed68ed51ad522b8783c6c42a5e2e8c.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="United States",My Time Movie Network
 https://i.mjh.nz/Roku/be3c81de355c56f89cbf99301735cfd2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Favorites by Lifetime" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5d3e1334e104572ca7968d337fc5c453/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705685807794_1687355044579_Movie_Favorites_by_Lifetime_260x147_HUD2.png" group-title="United States",Movie Favorites by Lifetime
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movie Favorites by Lifetime" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5d3e1334e104572ca7968d337fc5c453/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1714783712691_MFBL_Mother_Knows_Best_HUD_CenterAligned_Logo_260x147.png" group-title="United States",Movie Favorites by Lifetime
 https://i.mjh.nz/Roku/5d3e1334e104572ca7968d337fc5c453.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPARK TV" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eb1dbd690001553eacdf32d7b155b933/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659742235158_Whitt_Hansen_-_SparkTVLogo_HUD_2_v2.png" group-title="United States",SPARK TV
 https://i.mjh.nz/Roku/eb1dbd690001553eacdf32d7b155b933.m3u8
