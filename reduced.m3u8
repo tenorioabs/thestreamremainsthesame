@@ -403,9 +403,11 @@ https://r.mjh.nz/PlutoTV/5d765786aad587cf4d0e2bf6-alt.m3u8
 https://r.mjh.nz/PlutoTV/62ac405b3874370007419b7f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62556bfa3261a300076b0baa" tvg-id="62556bfa3261a300076b0baa" tvg-logo="https://images.pluto.tv/channels/62556bfa3261a300076b0baa/colorLogoPNG.png" tvg-chno="890" group-title="Great Britain" , Arthur
 https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65cf8b9328730900087c5324" tvg-id="65cf8b9328730900087c5324" tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , Are We There Yet?
+#EXTINF:-1 channel-id="pluto-62b976b93279cb000772c6f9" tvg-id="62b976b93279cb000772c6f9" tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , Bloomberg Television
+https://r.mjh.nz/PlutoTV/62b976b93279cb000772c6f9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65cf8b9328730900087c5324" tvg-id="65cf8b9328730900087c5324" tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" tvg-chno="2" group-title="Canada" , Are We There Yet?
 https://r.mjh.nz/PlutoTV/65cf8b9328730900087c5324-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65cf8ace332fec00081e7ea2" tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="2" group-title="Canada" , Ghost Hunters
+#EXTINF:-1 channel-id="pluto-65cf8ace332fec00081e7ea2" tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="3" group-title="Canada" , Ghost Hunters
 https://r.mjh.nz/PlutoTV/65cf8ace332fec00081e7ea2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" tvg-chno="100" group-title="Canada" , CSI
 https://r.mjh.nz/PlutoTV/62e9224f41d5e100076db2b6-alt.m3u8
