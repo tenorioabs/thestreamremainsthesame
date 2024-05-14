@@ -3,17 +3,15 @@ info_so <- Sys.info()
 
   pacotes <- c("beepr",
                "dplyr",
-               "httr",
-               "R.utils",
-               "stringr",
-               "writexl",
-               "xml2",
-               "readxl",
                "future",
                "future.apply",
+               "httr",
                "progressr",
-               "xml2",
-               "R.utils")
+               "R.utils",
+               "readxl",
+               "stringr",
+               "writexl",
+               "xml2")
 
 # Verificando se o sistema é Windows ou Linux
 if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){

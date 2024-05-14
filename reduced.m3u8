@@ -79,8 +79,8 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f.m3u8
 https://r.mjh.nz/PlutoTV/65a6a7a00c7ff50008cba07b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65a6a5e90c7ff50008cb9815" tvg-id="65a6a5e90c7ff50008cb9815" tvg-logo="https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png" tvg-chno="18" group-title="Great Britain" , Funny AF
 https://r.mjh.nz/PlutoTV/65a6a5e90c7ff50008cb9815-alt.m3u8
-#EXTINF:-1 channel-id="pluto-654a457ff9cc820008685290" tvg-id="654a457ff9cc820008685290" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" tvg-chno="19" group-title="Great Britain" , Medium
-https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
+#EXTINF:-1 channel-id="pluto-660be37e7bcd860008793a6a" tvg-id="660be37e7bcd860008793a6a" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png" tvg-chno="19" group-title="Great Britain" , Bondi Rescue
+https://r.mjh.nz/PlutoTV/660be37e7bcd860008793a6a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65dde87d66eec80008946102" tvg-id="65dde87d66eec80008946102" tvg-logo="https://images.pluto.tv/channels/65dde87d66eec80008946102/colorLogoPNG.png" tvg-chno="20" group-title="Great Britain" , Love Drama
 https://r.mjh.nz/PlutoTV/65dde87d66eec80008946102-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65dde148ec9fda0008b3c541" tvg-id="65dde148ec9fda0008b3c541" tvg-logo="https://images.pluto.tv/channels/65dde148ec9fda0008b3c541/colorLogoPNG.png" tvg-chno="21" group-title="Great Britain" , Love Pets
@@ -121,6 +121,8 @@ https://r.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
 https://r.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62da7819be7a97000878eb92" tvg-id="62da7819be7a97000878eb92" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" tvg-chno="202" group-title="Great Britain" , CSI: Miami
 https://r.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8
+#EXTINF:-1 channel-id="pluto-654a457ff9cc820008685290" tvg-id="654a457ff9cc820008685290" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" tvg-chno="203" group-title="Great Britain" , Medium
+https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
 #EXTINF:-1 channel-id="pluto-611e672d4676bf00076a3837" tvg-id="611e672d4676bf00076a3837" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" tvg-chno="205" group-title="Great Britain" , Baywatch
 https://r.mjh.nz/PlutoTV/611e672d4676bf00076a3837-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63d000ef4e83e700086e0d6c" tvg-id="63d000ef4e83e700086e0d6c" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" tvg-chno="206" group-title="Great Britain" , Scorpion
@@ -271,10 +273,10 @@ https://r.mjh.nz/PlutoTV/62d550d81054990007db7798-alt.m3u8
 https://r.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62d556fe2888ce000764b3fa" tvg-id="62d556fe2888ce000764b3fa" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" tvg-chno="604" group-title="Great Britain" , 16 & Pregnant
 https://r.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
-#EXTINF:-1 channel-id="pluto-600acdc434a37000070004cf" tvg-id="600acdc434a37000070004cf" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Judge Nosey
-https://r.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6304f7bac6073d000725a5a9" tvg-id="6304f7bac6073d000725a5a9" tvg-logo="https://images.pluto.tv/channels/6304f7bac6073d000725a5a9/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Relative Justice
 https://r.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-600acdc434a37000070004cf" tvg-id="600acdc434a37000070004cf" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" tvg-chno="605" group-title="Great Britain" , Judge Nosey
+https://r.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60c8807f46b11c0007b800a9" tvg-id="60c8807f46b11c0007b800a9" tvg-logo="https://images.pluto.tv/channels/60c8807f46b11c0007b800a9/colorLogoPNG.png" tvg-chno="607" group-title="Great Britain" , Bridezillas
 https://r.mjh.nz/PlutoTV/60c8807f46b11c0007b800a9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-647f09e5f77b61000823ff24" tvg-id="647f09e5f77b61000823ff24" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" tvg-chno="608" group-title="Great Britain" , Tattoo Fixers
