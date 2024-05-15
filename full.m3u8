@@ -1968,8 +1968,8 @@ https://r.mjh.nz/PlutoTV/5eceb0d4065c240007688ec6-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a6a7a00c7ff50008cba07b-alt.m3u8
 #EXTINF:-1 tvg-id="65a6a5e90c7ff50008cb9815" tvg-name="Funny AF" tvg-logo="https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/colorLogoPNG.png" group-title="Great Britain",Funny AF
 https://r.mjh.nz/PlutoTV/65a6a5e90c7ff50008cb9815-alt.m3u8
-#EXTINF:-1 tvg-id="654a457ff9cc820008685290" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" group-title="Great Britain",Medium
-https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
+#EXTINF:-1 tvg-id="660be37e7bcd860008793a6a" tvg-name="Bondi Rescue" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png" group-title="Great Britain",Bondi Rescue
+https://r.mjh.nz/PlutoTV/660be37e7bcd860008793a6a-alt.m3u8
 #EXTINF:-1 tvg-id="65dde87d66eec80008946102" tvg-name="Love Drama" tvg-logo="https://images.pluto.tv/channels/65dde87d66eec80008946102/colorLogoPNG.png" group-title="Great Britain",Love Drama
 https://r.mjh.nz/PlutoTV/65dde87d66eec80008946102-alt.m3u8
 #EXTINF:-1 tvg-id="65dde148ec9fda0008b3c541" tvg-name="Love Pets" tvg-logo="https://images.pluto.tv/channels/65dde148ec9fda0008b3c541/colorLogoPNG.png" group-title="Great Britain",Love Pets
@@ -2010,6 +2010,8 @@ https://r.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
 https://r.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
 #EXTINF:-1 tvg-id="62da7819be7a97000878eb92" tvg-name="CSI: Miami" tvg-logo="https://images.pluto.tv/channels/62da7819be7a97000878eb92/colorLogoPNG.png" group-title="Great Britain",CSI: Miami
 https://r.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8
+#EXTINF:-1 tvg-id="654a457ff9cc820008685290" tvg-name="Medium" tvg-logo="https://images.pluto.tv/channels/654a457ff9cc820008685290/colorLogoPNG.png" group-title="Great Britain",Medium
+https://r.mjh.nz/PlutoTV/654a457ff9cc820008685290-alt.m3u8
 #EXTINF:-1 tvg-id="611e672d4676bf00076a3837" tvg-name="Baywatch" tvg-logo="https://images.pluto.tv/channels/611e672d4676bf00076a3837/colorLogoPNG.png" group-title="Great Britain",Baywatch
 https://r.mjh.nz/PlutoTV/611e672d4676bf00076a3837-alt.m3u8
 #EXTINF:-1 tvg-id="63d000ef4e83e700086e0d6c" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/colorLogoPNG.png" group-title="Great Britain",Scorpion
@@ -2160,10 +2162,10 @@ https://r.mjh.nz/PlutoTV/62d550d81054990007db7798-alt.m3u8
 https://r.mjh.nz/PlutoTV/625eb3e245f5bc0007810046-alt.m3u8
 #EXTINF:-1 tvg-id="62d556fe2888ce000764b3fa" tvg-name="16 & Pregnant" tvg-logo="https://images.pluto.tv/channels/62d556fe2888ce000764b3fa/colorLogoPNG.png" group-title="Great Britain",16 & Pregnant
 https://r.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
-#EXTINF:-1 tvg-id="600acdc434a37000070004cf" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="Great Britain",Judge Nosey
-https://r.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
 #EXTINF:-1 tvg-id="6304f7bac6073d000725a5a9" tvg-name="Relative Justice" tvg-logo="https://images.pluto.tv/channels/6304f7bac6073d000725a5a9/colorLogoPNG.png" group-title="Great Britain",Relative Justice
 https://r.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8
+#EXTINF:-1 tvg-id="600acdc434a37000070004cf" tvg-name="Judge Nosey" tvg-logo="https://images.pluto.tv/channels/600acdc434a37000070004cf/colorLogoPNG.png" group-title="Great Britain",Judge Nosey
+https://r.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8
 #EXTINF:-1 tvg-id="60c8807f46b11c0007b800a9" tvg-name="Bridezillas" tvg-logo="https://images.pluto.tv/channels/60c8807f46b11c0007b800a9/colorLogoPNG.png" group-title="Great Britain",Bridezillas
 https://r.mjh.nz/PlutoTV/60c8807f46b11c0007b800a9-alt.m3u8
 #EXTINF:-1 tvg-id="647f09e5f77b61000823ff24" tvg-name="Tattoo Fixers" tvg-logo="https://images.pluto.tv/channels/647f09e5f77b61000823ff24/colorLogoPNG.png" group-title="Great Britain",Tattoo Fixers
@@ -15518,68 +15520,70 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951226
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KFSN ABC30 Central CA (unlisted)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",KFSN ABC30 Central CA (unlisted)
 https://content-dtci.uplynk.com/channel/640a5a594b434c2691e20580afda564f.m3u8?show_vtt=1&hlsver=3&rays=bcd&ad.vid=$program_id&ad=kfsn_live&ad.vast3=1&ad.description_url=https://abcnews.go.com&ad.networkID=21783347309&ad.adUnit=/KFSN/xumo/desktopweb/fast-channel&ad.ppid=e39b04d7-0988-75f8-4db1-608934b52962&ad.correlator=1702620675174&ad.scor=1702620675174&ad.cmsid=2494279&ad.npa=0&ad.tfcd=0&ad.pp=xumo-ctv&ad.rdid=e39b04d7-0988-75f8-4db1-608934b52962&ad.idtype=dpid&ad.is_lat=0&ad.us_privacy=1YNN&ad.cust_params=vdm=live&chan=abc&plt=ctv&refDomain=https://abcnews.go.com&vps=640x480&ppid=e39b04d7-0988-75f8-4db1-608934
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Billiards TV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Billiards TV
-https://newidco-billiardstv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pelimex" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Pelimex
-https://telecine-pelimex-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK Wrestling" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",UK Wrestling
-https://gosportsandentertainment-ukwrestling-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="La Casa Del Jaripeo" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",La Casa Del Jaripeo
-https://mexicanal-lacasadeljaripeo-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Meganoticias" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Meganoticias
-https://pctv-meganoticias-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Quicktake" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Bloomberg Quicktake
-https://bloomberg-quicktake-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Red Green Show" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",The Red Green Show
-https://answermedia-theredgreenshow-2-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nosey" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Nosey
-https://nosey-2-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Strongman Champion League" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Strongman Champion League
-https://rightsboosterltd-scl-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YGTV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",YGTV
-https://newidco-ygtv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go USA" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Go USA
-https://brandusa-gousa-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clix" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Clix
-https://clix-clix-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chili Chilibounumore" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chili Chilibounumore
-https://chili-chilibuonumore-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTRSPT 1" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",MTRSPT 1
-https://kravemedia-mtrspt1-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Fashion TV
-https://fashiontv-fashiontv-5-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nolly Africa" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Nolly Africa
-https://africanmoviechannel-nollyafricahd-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TED Conferences" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",TED Conferences
-https://tedconferences-ted-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dark Corners" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Dark Corners
-https://answermedia-darkcorners-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews World" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Euronews World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews World (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Euronews World (EU)
 https://euronews-euronews-world-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",SBS
-https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Kid" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",New Kid
-https://newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drone TV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Drone TV
-https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watch Mojo" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Watch Mojo
-https://watchmojo-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Level Up" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Level Up
-https://answermedia-leveluptv-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cops" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Cops
-https://langleyproductions-cops-2-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Bloomberg TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews German (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Euronews German (EU)
+https://euronews-euronews-german-4-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg TV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Bloomberg TV (EU)
 https://bloomberg-bloombergtv-3-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Global Fashion Channel" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Global Fashion Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bloomberg Originals (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Bloomberg Originals (EU)
+https://bloomberg-quicktake-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Billiards TV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Billiards TV (EU)
+https://newidco-billiardstv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pelimex (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Pelimex (EU)
+https://telecine-pelimex-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for laughs Gags (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Just for laughs Gags (EU)
+https://distributionsjustepourrire-justforlaughsgags-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Just for Laughs TV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Just for Laughs TV (EU)
+https://distributionsjustepourrire-justforlaughstv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Red Green Show (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",The Red Green Show (EU)
+https://answermedia-theredgreenshow-2-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YGTV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",YGTV (EU)
+https://newidco-ygtv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Go USA (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Go USA (EU)
+https://brandusa-gousa-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chili Alta Tensione (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chili Alta Tensione (EU)
+https://chili-chili-alta-tensione-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chili Indimenticabli (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chili Indimenticabli (EU)
+https://chili-chiliindimenticabili-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chili Velvet (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chili Velvet (EU)
+https://chili-chilivelvet-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chile Film Sorrisi (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chile Film Sorrisi (EU)
+https://chili-film-sorrisi-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chili Chilibounumore (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Chili Chilibounumore (EU)
+https://chili-chilibuonumore-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fashion TV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Fashion TV (EU)
+https://fashiontv-fashiontv-5-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TED Conferences (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",TED Conferences (EU)
+https://tedconferences-ted-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBS (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",SBS (EU)
+https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New Kid (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",New Kid (EU)
+https://newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drone TV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Drone TV (EU)
+https://airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watch Mojo (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Watch Mojo (EU)
+https://watchmojo-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Global Fashion Channel (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Global Fashion Channel (EU)
 https://gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New K Food" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",New K Food
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="New K Food (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",New K Food (EU)
 https://newidco-newkfood-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gusto" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Gusto
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gusto (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Gusto (EU)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-zeasn/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Newsmax
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Newsmax (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Newsmax (EU)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmzie (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Filmzie (EU)
+https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Filmzie (US)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Filmzie (US)
+https://filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wedo Movies" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Wedo Movies
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4-zeasn-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema Segretto (IT)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Cinema Segretto (IT)
+https://minerva-cinemasegreto-1-it.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fullmoon (IT)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Fullmoon (IT)
+https://minerva-fullmoon-1-it.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETV (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",ETV (EU)
+https://sasuprimetv-etv-1-eu.zeasn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Brat" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Brat
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-zeasn/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Craction TV" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Craction TV
@@ -15598,6 +15602,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadegermany-ze
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4movies-zeasn-zeasn/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sportsgrid" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Sportsgrid
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-zeasn/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP (EU)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Travel XP (EU)
+https://travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP (EU) alt1" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Travel XP (EU) alt1
+https://travelxp-travelxp-3-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP (EU) alt2" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Travel XP (EU) alt2
+https://travelxp-travelxp-4-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travel XP (EU) alt3" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Travel XP (EU) alt3
+https://travelxp-travelxp-5-eu.zeasn.wurl.tv/playlist.m3u8
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="FolkKlubTV.au" tvg-name="Folk Klub (720p)" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="Music",Folk Klub (720p)
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
