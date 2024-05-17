@@ -264,6 +264,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5801.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723" tvg-name="Documentary+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a4210812-bed5-4b19-b6ca-0f4ffabf3106/documentaryplus_logo_dark_1_.png" group-title="United States",Documentary+
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f42e6cad0081c6ef405723.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a" tvg-name="Dog the Bounty Hunter" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29c4fec6-9511-4368-9b02-5788f3eff6b1/Dog_the_Bounty_Hunter_WHT_Logo_1500x1000-_Ethan_Maisel.png" group-title="United States",Dog the Bounty Hunter
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-66428faa5116d565e63ae32a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-635847d0d3a668f1cafc1f9d" tvg-name="Don't Tell The Bride" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png" group-title="United States",Don't Tell The Bride
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-635847d0d3a668f1cafc1f9d.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" tvg-name="Dove" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/990539dbe1cb86927bfcd5437649116b.png" group-title="United States",Dove
@@ -604,8 +606,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-649f1cb4130982350d50a2e8.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d6fc71a9e88ee909e7ee23" tvg-name="Midsomer Murders" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3e052da1-c8b1-4f8d-a770-ca6998bbcbee/Wurl_MidsomerMurders_ChannelLogoDark_1500x1000_Jack_Archer.png" group-title="United States",Midsomer Murders
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6fc71a9e88ee909e7ee23.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-65b16e7b115f5ad5450cfdac" tvg-name="Milenio Television" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="United States",Milenio Television
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65b16e7b115f5ad5450cfdac.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" tvg-name="Military Heroes Presented By History" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a16f23-86c2-4853-bcb6-c462b96d7959/MilitaryHeroes-Channel-Logo-_Light_-1500x1000px.png" group-title="United States",Military Heroes Presented By History
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64d79408e5f67b0fab47ff24" tvg-name="Misterios sin Resolver" tvg-logo="https://provider-static.plex.tv/epg/cms/production/26e1e09d-6285-428e-9414-e43d3961bf1e/Plex_FilmRise_MisteriosSinResolver_White_Logo.png" group-title="United States",Misterios sin Resolver
@@ -930,7 +930,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64b7170c4612b1f48e9ad31e.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654a8041fa75888bea239718.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49369" tvg-name="The Pet Collective" tvg-logo="https://provider-static.plex.tv/epg/cms/production/44e94b30-41a7-4179-a484-a978da7eb0e7/TPC_PLEX_CHANNEL-LOGOS_COLOR.png" group-title="United States",The Pet Collective
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f170d61b898490041b49369.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608083444363b700366942df" tvg-name="The Preview Channel" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/previewchannel_logo_dark_v2.png" group-title="United States",The Preview Channel
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608083444363b700366942df" tvg-name="The Preview Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8a60f6ed-b0e5-47ea-bc85-6de1319ec295/previewchannel_logo_dark_v2.png" group-title="United States",The Preview Channel
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-608083444363b700366942df.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63e63d26abacad42ed3d1acd" tvg-name="The Price is RIght" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed7ff7e5-d404-4447-8da9-a8dc91edad05/TPIR_PLEX_LOGO_DARK_BKG_1500X1000_-_Elaine_De_Santiagordx.png" group-title="United States",The Price is RIght
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63e63d26abacad42ed3d1acd.m3u8
@@ -5186,6 +5186,16 @@ https://amg02051-soulpublishing-amg02051c16-lg-mx-564.playouts.now.amagi.tv/play
 https://amg02051-soulpublishing-amg02051c16-lg-pe-565.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgpe/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buzzr (US)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Buzzr (US)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Anime Onegai 1" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canal Anime Onegai 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Anime Onegai 2" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canal Anime Onegai 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Anime Onegai 3" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canal Anime Onegai 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Anime Onegai 4" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Anime Onegai 5" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canal Anime Onegai 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Cinema (AR)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canela Cinema (AR)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canela Cinema (CL)" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="United States",Canela Cinema (CL)
@@ -18669,12 +18679,16 @@ https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
 http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="WLSDT1.us" tvg-name="WLS ABC 7 News (Chicago IL) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",WLS ABC 7 News (Chicago IL) (720p)
 https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us" tvg-name="WMAQ-DT1 NBC 5 (Chicago IL) (720p)" tvg-logo="https://i.imgur.com/wblxisu.png" group-title="United States",WMAQ-DT1 NBC 5 (Chicago IL) (720p)
+http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WMGTDT1.us" tvg-name="WMGT-TV News (Macon GA) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="United States",WMGT-TV News (Macon GA) (720p)
 https://dai.google.com/linear/hls/event/ygKx2LkmRQCZ_orwBQhfFw/master.m3u8
 #EXTINF:-1 tvg-id="WMORDT1.us" tvg-name="WMOR-TV News Lakeland FL (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/WMOR.svg/512px-WMOR.svg.png" group-title="United States",WMOR-TV News Lakeland FL (720p)
 https://lnc-wmor.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WMPTDT2.us" tvg-name="WMPT-DT2 (PBS Create)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/512px-Create_TV_network_logo.svg.png" group-title="United States",WMPT-DT2 (PBS Create)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us" tvg-name="WOLO-DT1 ABC 25 (Columbia SC) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="United States",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-name="Women's Sports Network (720p)" tvg-logo="https://i.imgur.com/rhIwUcQ.png" group-title="United States",Women's Sports Network (720p)
 https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldHarvestTV.us" tvg-name="World Harvest TV (360p)" tvg-logo="https://i.imgur.com/xtbkDDN.png" group-title="United States",World Harvest TV (360p)
@@ -19568,7 +19582,7 @@ https://lnc-nbc-news-now.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="News12NewYork.us" tvg-name="News 12 New York (1080p)" tvg-logo="https://i.imgur.com/Ez7qAZP.png" group-title="United States",News 12 New York (1080p)
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="United States",Newsmax (1080p)
-https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNet.us" tvg-name="NewsNet (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="United States",NewsNet (720p)
 https://amg01756-newsnet-newsnet-klowdtv-332s1.amagi.tv/playlist/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD2.us" tvg-name="NewsNet (KCKS-LD2) (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/woMg1xI.png" group-title="United States",NewsNet (KCKS-LD2) (480p) [Not 24/7]
@@ -19579,6 +19593,8 @@ https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us" tvg-name="OAN Encore (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="United States",OAN Encore (720p) [Geo-blocked]
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
+#EXTINF:-1 tvg-id="OANPlus.us" tvg-name="OANPlus (1080p)" tvg-logo="https://i.imgur.com/0xW69iu.png" group-title="United States",OANPlus (1080p)
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PayvandTV.us" tvg-name="Payvand TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/A4gqEmG.png" group-title="United States",Payvand TV (720p) [Not 24/7]
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
 #EXTINF:-1 tvg-id="BlazeLive.us" tvg-name="Pluto TV Blaze Live (720p)" tvg-logo="https://i.imgur.com/GwxneSQ.png" group-title="United States",Pluto TV Blaze Live (720p)
@@ -21091,8 +21107,6 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="KandelaTV (480p)" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",KandelaTV (480p)
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibeña (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
-https://iptv-c9-x-m-mck9-video.cusac.online:50050/karibena/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KayoPops.jp" tvg-name="Kayo Pops (544p)" tvg-logo="https://i.imgur.com/7VcFGkx.png" group-title="Music",Kayo Pops (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV (1080p)" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV (1080p)
@@ -21420,7 +21434,7 @@ https://www.streaming507.net:19360/mevo2/mevo2.m3u8
 #EXTINF:-1 tvg-id="RadioRocafuerteTV.ec" tvg-name="Radio Rocafuerte TV (720p)" tvg-logo="https://i.imgur.com/GPoIN7H.png" group-title="Music",Radio Rocafuerte TV (720p)
 https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8
 #EXTINF:-1 tvg-id="RadioStaddenHaag.nl" tvg-name="Radio Stad den Haag (720p)" tvg-logo="https://i.imgur.com/ANK36EQ.png" group-title="Music",Radio Stad den Haag (720p)
 https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleHit.ht" tvg-name="Radio Télé Hit (480p)" tvg-logo="https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png" group-title="Music",Radio Télé Hit (480p)
@@ -21453,8 +21467,6 @@ https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
 https://eu1.vectromdigital.com:1936/redmusic/redmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music Television (360p)" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-name="Retro Plus 2 HD (720p)" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Music",Retro Plus 2 HD (720p)
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroPlus.cl" tvg-name="Retro Plus HD (720p)" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Music",Retro Plus HD (720p)
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="RewindTV.cl" tvg-name="Rewind TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="Music",Rewind TV (720p) [Not 24/7]
@@ -21574,7 +21586,7 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA (1080p)" tvg-logo="https://i.imgur.com/1iOAl2j.png" group-title="Music",TMA (1080p)
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV (404p)" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music",Top Latino TV (404p)
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TopTV.rs" tvg-name="Top TV (1080p)" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music",Top TV (1080p)
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TopEstradaTV.mk" tvg-name="TopEstrada TV (720p)" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="Music",TopEstrada TV (720p)
@@ -21991,7 +22003,7 @@ https://p2z.me:443/live/285587127/411739596/2275374.m3u8
 https://p2z.me:443/live/285587127/411739596/98273.m3u8
 #EXTINF:-1 tvg-id="CAMARAH" tvg-name="TV CAMARA HD" tvg-logo="https://lh3.googleusercontent.com/-GAijnROUhNU/YB1HohJOn-I/AAAAAAAAJ5w/Tdh_j1l8Qf47lzGGEwWZHUjLnsv55nBggCLcBGAsYHQ/TV%2BCamara.png" group-title="Brazil",TV CAMARA HD
 https://p2z.me:443/live/285587127/411739596/1505903.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE BAHIA" tvg-logo="https://scontent.ffln6-1.fna.fbcdn.net/v/t1.6435-9/66378379_2470204416370594_5223563397471141888_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeE83VjpOZXO8rZm--42ZHp_mwF_ZU8LI4WbAX9lTwsjhR90fno1d86E2fV9CitmATEMT5FrLmgQwod3W94tlw_O&_nc_ohc=_wdgTvKieRgA" group-title="Brazil",TVE BAHIA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVE BAHIA" tvg-logo="http://tvebahia.net.com.nr" group-title="Brazil",TVE BAHIA
 https://p2z.me:443/live/285587127/411739596/4677341.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="All Sports" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="Sports",All Sports
 https://p2z.me:443/live/285587127/411739596/6009825.m3u8
@@ -22127,78 +22139,6 @@ https://p2z.me:443/live/285587127/411739596/5957354.m3u8
 https://p2z.me:443/live/285587127/411739596/6009865.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC FIGHT PASS 3" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="Sports",UFC FIGHT PASS 3
 https://p2z.me:443/live/285587127/411739596/6009866.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet 4K" tvg-logo="https://3.bp.blogspot.com/-IKw48vRj0ng/XxL4tVLxx-I/AAAAAAAAGrk/3PBqZhVTiR0vVDocG7B7vfrUtxbdcRV-QCK4BGAYYCw/s1600/Animal%2BPlanet.png" group-title="Brazil",Animal Planet 4K
-https://p2z.me:443/live/285587127/411739596/6009723.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN 4K" tvg-logo="https://2.bp.blogspot.com/-nBtQ5UkiBI4/XmQcIAhLVYI/AAAAAAAACSk/posGzR9eqD4zllrPY3vGIk6wsFYBJtlRQCK4BGAYYCw/s400/AXN.png" group-title="Brazil",AXN 4K
-https://p2z.me:443/live/285587127/411739596/6009724.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band 4K" tvg-logo="https://1.bp.blogspot.com/-iNdvmlc8qBg/XuZtPikP6FI/AAAAAAAAGSI/4Y97dMF3v0INvDtHEVpDW3qYumvgKLsUQCLcBGAsYHQ/s1600/band.png" group-title="Brazil",Band 4K
-https://p2z.me:443/live/285587127/411739596/6009725.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN Brasil 4K" tvg-logo="https://3.bp.blogspot.com/-uRmPHuH0Nq0/XpSRkyOBozI/AAAAAAAACvI/XRneLRhfGWQ6f0W1KtSe_LoxLSp5GPIvwCK4BGAYYCw/s400/cnn%2Bbrasil.png" group-title="Brazil",CNN Brasil 4K
-https://p2z.me:443/live/285587127/411739596/6009727.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central 4K" tvg-logo="https://1.bp.blogspot.com/-Nbl1xKywDX4/Xk70PRed9GI/AAAAAAAACDw/0MAoqSfWmZIhGxK8iGzKN3Q0HjHS-bYOgCLcBGAsYHQ/s1600/comedycentral.png" group-title="Brazil",Comedy Central 4K
-https://p2z.me:443/live/285587127/411739596/6009729.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Channel 4K" tvg-logo="https://1.bp.blogspot.com/-jOsKBN8bN_I/XxL3ob_XwcI/AAAAAAAAGqQ/A7rJE7xV9Gc87ekkA6iQSdRmm1Kg46_0gCK4BGAYYCw/s1600/discovery-channel.png" group-title="Brazil",Discovery Channel 4K
-https://p2z.me:443/live/285587127/411739596/6009730.m3u8
-#EXTINF:-1 tvg-id="ESP3HA2" tvg-name="ESPN 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Brazil",ESPN 3 H265
-https://p2z.me:443/live/285587127/411739596/86610.m3u8
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Brazil",FISH TV H265
-https://p2z.me:443/live/285587127/411739596/1504826.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazeta 4K" tvg-logo="https://4.bp.blogspot.com/-02UGvCVbggU/XuaRaj-VeVI/AAAAAAAAGUM/7Fjv0FqRVKU5ayqXoD88a66CeM6hKdVlACK4BGAYYCw/s1600/GASETA.png" group-title="Brazil",Gazeta 4K
-https://p2z.me:443/live/285587127/411739596/6009735.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Globo News 4K" tvg-logo="https://i.imgur.com/HM13dsp.png" group-title="Brazil",Globo News 4K
-https://p2z.me:443/live/285587127/411739596/6009737.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GNT 4K" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="Brazil",GNT 4K
-https://p2z.me:443/live/285587127/411739596/6009738.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO 4K" tvg-logo="https://1.bp.blogspot.com/-KUhkg79gvtE/Xk70Ycy0l6I/AAAAAAAACFU/FSdt9HsRs98gkzltg-oGA049omcb1KWlQCLcBGAsYHQ/s1600/hbo.png" group-title="Brazil",HBO 4K
-https://p2z.me:443/live/285587127/411739596/6009739.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JP NEWS 4K" tvg-logo="https://i.imgur.com/E2cY37D.png" group-title="Brazil",JP NEWS 4K
-https://p2z.me:443/live/285587127/411739596/6009740.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Megapix 4K" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="Brazil",Megapix 4K
-https://p2z.me:443/live/285587127/411739596/6009741.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Multishow 4K" tvg-logo="https://2.bp.blogspot.com/-YLvYyrLM0Tc/XmQENo4hcuI/AAAAAAAACQs/jKWMWXYMuvIhu7iXvLJCm-9BEONKMcqxwCK4BGAYYCw/s400/MULTICHO.png" group-title="Brazil",Multishow 4K
-https://p2z.me:443/live/285587127/411739596/6009742.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographics 4K" tvg-logo="https://i.imgur.com/lm2Zp28.png" group-title="Brazil",National Geographics 4K
-https://p2z.me:443/live/285587127/411739596/6009743.m3u8
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 1 CLUBES 4K
-https://p2z.me:443/live/285587127/411739596/1505242.m3u8
-#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 4 H265
-https://p2z.me:443/live/285587127/411739596/1283066.m3u8
-#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 7 H265
-https://p2z.me:443/live/285587127/411739596/1283078.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premiere Clubes 4K" tvg-logo="https://i.imgur.com/7Fldyki.png" group-title="Brazil",Premiere Clubes 4K
-https://p2z.me:443/live/285587127/411739596/6009744.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede TV! 4K" tvg-logo="https://4.bp.blogspot.com/-pxizaydz0KU/XuaBRdLGHbI/AAAAAAAAGTQ/ffLhCGhhPKgTtVrzNX731VcYlpgvo4bmQCK4BGAYYCw/s1600/REDE%2BTV.png" group-title="Brazil",Rede TV! 4K
-https://p2z.me:443/live/285587127/411739596/6009746.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT 4K" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT 4K
-https://p2z.me:443/live/285587127/411739596/6009747.m3u8
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 1 H265
-https://p2z.me:443/live/285587127/411739596/86630.m3u8
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 2 H265
-https://p2z.me:443/live/285587127/411739596/975.m3u8
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 3 H265
-https://p2z.me:443/live/285587127/411739596/86634.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Channel 4K" tvg-logo="https://i.imgur.com/cEmW9yV.png" group-title="Brazil",Star Channel 4K
-https://p2z.me:443/live/285587127/411739596/6009749.m3u8
-#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TC TOUCH H265" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="Brazil",TC TOUCH H265
-https://p2z.me:443/live/285587127/411739596/1505092.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeleCine Action 4K" tvg-logo="https://i.imgur.com/a1MplP5.png" group-title="Brazil",TeleCine Action 4K
-https://p2z.me:443/live/285587127/411739596/6009750.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Pipoca 4K" tvg-logo="https://i.imgur.com/NxQKbyQ.png" group-title="Brazil",Telecine Pipoca 4K
-https://p2z.me:443/live/285587127/411739596/6009751.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telecine Premium 4K" tvg-logo="https://i.imgur.com/FpddICg.png" group-title="Brazil",Telecine Premium 4K
-https://p2z.me:443/live/285587127/411739596/6009752.m3u8
-#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Brazil",TLC H265
-https://p2z.me:443/live/285587127/411739596/53632.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/ChcqhL3.png" group-title="Brazil",TNT 4K
-https://p2z.me:443/live/285587127/411739596/6009753.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Series 4K" tvg-logo="https://2.bp.blogspot.com/-y7VHTV5DRjI/XmQJE5dYI6I/AAAAAAAACRc/Elj48OGVvq0c0xzuK0Ksgct432_EKU1xgCK4BGAYYCw/s400/TNT%2BSERIES.png" group-title="Brazil",TNT Series 4K
-https://p2z.me:443/live/285587127/411739596/6009754.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Universal Channel 4K" tvg-logo="https://i.imgur.com/DwTOLsG.png" group-title="Brazil",Universal Channel 4K
-https://p2z.me:443/live/285587127/411739596/6009755.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viva 4K" tvg-logo="https://1.bp.blogspot.com/-gzJ5_MSSOwg/XuaF6AmkuEI/AAAAAAAAGTc/fDaVktznrYkMT0WeqzSdBUlpltn87s3qQCK4BGAYYCw/s1600/VIVA.png" group-title="Brazil",Viva 4K
-https://p2z.me:443/live/285587127/411739596/6009756.m3u8
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA H265" tvg-logo="http://i.ibb.co/wSvzdVy/viva.png" group-title="Brazil",VIVA H265
-https://p2z.me:443/live/285587127/411739596/1510974.m3u8
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Brazil",ANIMAL PLANET FHD
 https://p2z.me:443/live/285587127/411739596/61844.m3u8
 #EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD²" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ANIMALPLANET.png" group-title="Brazil",ANIMAL PLANET FHD²
@@ -22667,46 +22607,62 @@ https://p2z.me:443/live/285587127/411739596/2677817.m3u8
 https://p2z.me:443/live/285587127/411739596/86579.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV EVANGELIZAR" tvg-logo="https://seeklogo.com/images/S/Sepultura-logo-42D2BAFFB4-seeklogo.com.png" group-title="Brazil",TV EVANGELIZAR
 https://p2z.me:443/live/285587127/411739596/4111865.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 01
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 01
 https://p2z.me:443/live/285587127/411739596/5956099.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 02
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 02
 https://p2z.me:443/live/285587127/411739596/5956100.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 03
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 03" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 03
 https://p2z.me:443/live/285587127/411739596/5956101.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 04
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 04" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 04
 https://p2z.me:443/live/285587127/411739596/5956102.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 05
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 05" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 05
 https://p2z.me:443/live/285587127/411739596/5956103.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 06" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 06
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 06" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 06
 https://p2z.me:443/live/285587127/411739596/5956104.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 07" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 07
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 07" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 07
 https://p2z.me:443/live/285587127/411739596/5956105.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 08" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 08
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 08" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 08
 https://p2z.me:443/live/285587127/411739596/5956106.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 09" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 09
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 09" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 09
 https://p2z.me:443/live/285587127/411739596/5956107.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine SKY 10" tvg-logo="http://www.fontedoscanais.com/logos/canais/cinesky.png" group-title="Brazil",Cine SKY 10
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="Cine SKY 10" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SKYPLAY.png" group-title="Brazil",Cine SKY 10
 https://p2z.me:443/live/285587127/411739596/5956108.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Animação Infantil" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Animação Infantil
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Animação Infantil" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Animação Infantil
 https://p2z.me:443/live/285587127/411739596/5956092.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Ação" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Ação
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Ação" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Ação
 https://p2z.me:443/live/285587127/411739596/5956093.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Comédia" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Comédia
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Comédia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Comédia
 https://p2z.me:443/live/285587127/411739596/5956094.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Drama" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Drama
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Drama" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Drama
 https://p2z.me:443/live/285587127/411739596/5956095.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Lancamentos" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Lancamentos
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Lancamentos" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Lancamentos
 https://p2z.me:443/live/285587127/411739596/5956096.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24H Filmes Romance" tvg-logo="http://www.fontedoscanais.com/logos/canais/24h.png" group-title="Brazil",24H Filmes Romance
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Filmes Romance" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Filmes Romance
 https://p2z.me:443/live/285587127/411739596/5956097.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Harry Potter 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Harry Potter 01
+https://p2z.me:443/live/285587127/411739596/6237402.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Harry Potter 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Harry Potter 02
+https://p2z.me:443/live/285587127/411739596/6237405.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Jogos Mortais 01" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Jogos Mortais 01
+https://p2z.me:443/live/285587127/411739596/6237408.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Jogos Mortais 02" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Jogos Mortais 02
+https://p2z.me:443/live/285587127/411739596/6237410.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Jogos Vorazes - Quadrilogia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Jogos Vorazes - Quadrilogia
+https://p2z.me:443/live/285587127/411739596/6237412.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] John Wick - Trilogia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] John Wick - Trilogia
+https://p2z.me:443/live/285587127/411739596/6237415.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] Maze Runner - Trilogia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] Maze Runner - Trilogia
+https://p2z.me:443/live/285587127/411739596/6237418.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] O Hobbit - Trilogia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] O Hobbit - Trilogia
+https://p2z.me:443/live/285587127/411739596/6237421.m3u8
+#EXTINF:-1 tvg-id="Series24hLive" tvg-name="[24H] O Senhor dos Aneis - Trilogia" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CANAIS-24-HORAS.png" group-title="Brazil",[24H] O Senhor dos Aneis - Trilogia
+https://p2z.me:443/live/285587127/411739596/6237425.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://i.ibb.co/Z1Jj1wg/Comedy-Central.png" group-title="Brazil",COMEDY CENTRAL FHD
 https://p2z.me:443/live/285587127/411739596/184.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL H265" tvg-logo="http://i.ibb.co/Z1Jj1wg/Comedy-Central.png" group-title="Brazil",COMEDY CENTRAL H265
 https://p2z.me:443/live/285587127/411739596/53553.m3u8
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://i.ibb.co/Z1Jj1wg/Comedy-Central.png" group-title="Brazil",COMEDY CENTRAL HD
 https://p2z.me:443/live/285587127/411739596/31.m3u8
-#EXTINF:-1 tvg-id="DOGTV" tvg-name="DOGTV HD" tvg-logo="http://i.ibb.co/gmLTYnX/dog.png" group-title="Brazil",DOGTV HD
-https://p2z.me:443/live/285587127/411739596/98023.m3u8
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://p2z.me:80/images/26e6b0713b04d397fb2cf23cf71bcbe1.png" group-title="Brazil",E! FHD
 https://p2z.me:443/live/285587127/411739596/53645.m3u8
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://p2z.me:80/images/26e6b0713b04d397fb2cf23cf71bcbe1.png" group-title="Brazil",E! HD
@@ -22735,10 +22691,6 @@ https://p2z.me:443/live/285587127/411739596/4844783.m3u8
 https://p2z.me:443/live/285587127/411739596/86625.m3u8
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="http://uploaddeimagens.com.br/images/003/640/067/full/1200px-Canal_Off_logo.svg.png?1642693288" group-title="Brazil",OFF HD
 https://p2z.me:443/live/285587127/411739596/86627.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABOR & ARTE FHD" tvg-logo="http://i.ibb.co/VWs1nNj/sabor.png" group-title="Brazil",SABOR & ARTE FHD
-https://p2z.me:443/live/285587127/411739596/2305594.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SABOR & ARTE HD" tvg-logo="http://i.ibb.co/VWs1nNj/sabor.png" group-title="Brazil",SABOR & ARTE HD
-https://p2z.me:443/live/285587127/411739596/53573.m3u8
 #EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Brazil",TCM FHD
 https://p2z.me:443/live/285587127/411739596/53613.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TCM HD²" tvg-logo="http://www.fontedoscanais.com/logos/canais/tcm.png" group-title="Brazil",TCM HD²
@@ -22771,6 +22723,28 @@ https://p2z.me:443/live/285587127/411739596/53623.m3u8
 https://p2z.me:443/live/285587127/411739596/53583.m3u8
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://lh3.googleusercontent.com/-zzCBNUjqF0U/YB2OTMRWeDI/AAAAAAAAJ9A/S7N8epO8YeIO3Tv-eAQcpd3f0_Ugu7V8ACLcBGAsYHQ/WOOHOO%2BTV.png" group-title="Brazil",WOOHOO HD
 https://p2z.me:443/live/285587127/411739596/98012.m3u8
+#EXTINF:-1 tvg-id="ESP3HA2" tvg-name="ESPN 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" group-title="Brazil",ESPN 3 H265
+https://p2z.me:443/live/285587127/411739596/86610.m3u8
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/FISHTV.png" group-title="Brazil",FISH TV H265
+https://p2z.me:443/live/285587127/411739596/1504826.m3u8
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="PREMIERE 1 CLUBES 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 1 CLUBES 4K
+https://p2z.me:443/live/285587127/411739596/1505242.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="PREMIERE 4 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 4 H265
+https://p2z.me:443/live/285587127/411739596/1283066.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="PREMIERE 7 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" group-title="Brazil",PREMIERE 7 H265
+https://p2z.me:443/live/285587127/411739596/1283078.m3u8
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 1 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 1 H265
+https://p2z.me:443/live/285587127/411739596/86630.m3u8
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 2 H265
+https://p2z.me:443/live/285587127/411739596/975.m3u8
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Brazil",SPORTV 3 H265
+https://p2z.me:443/live/285587127/411739596/86634.m3u8
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="TC TOUCH H265" tvg-logo="http://www.rochagalaxia.live/logos/TCTOUCH.png" group-title="Brazil",TC TOUCH H265
+https://p2z.me:443/live/285587127/411739596/1505092.m3u8
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC H265" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" group-title="Brazil",TLC H265
+https://p2z.me:443/live/285587127/411739596/53632.m3u8
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA H265" tvg-logo="http://i.ibb.co/wSvzdVy/viva.png" group-title="Brazil",VIVA H265
+https://p2z.me:443/live/285587127/411739596/1510974.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 FHD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO 1 FHD
 https://p2z.me:443/live/285587127/411739596/98035.m3u8
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 1 HD" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Brazil",HBO 1 HD
@@ -22995,80 +22969,42 @@ https://p2z.me:443/live/285587127/411739596/6010022.m3u8
 https://p2z.me:443/live/285587127/411739596/6010023.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RECORD TV Atalaia HD²" tvg-logo="http://www.fontedoscanais.com/logos/canais/record.png" group-title="Brazil",RECORD TV Atalaia HD²
 https://p2z.me:443/live/285587127/411739596/6010024.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT 4K" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT 4K
-https://p2z.me:443/live/285587127/411739596/6009757.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT AM HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT AM HD
-https://p2z.me:443/live/285587127/411739596/6009758.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT BA HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT BA HD
-https://p2z.me:443/live/285587127/411739596/6009759.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT BAHIA FHD" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Brazil",SBT BAHIA FHD
 https://p2z.me:443/live/285587127/411739596/5955985.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT BSB" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT BSB
-https://p2z.me:443/live/285587127/411739596/6009760.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT DF BRASILIA HD" tvg-logo="https://logo.iptveditor.com/sbt.png" group-title="Brazil",SBT DF BRASILIA HD
 https://p2z.me:443/live/285587127/411739596/5955986.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT GO HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT GO HD
-https://p2z.me:443/live/285587127/411739596/6009761.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT GO SERRA DOURADA HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT GO SERRA DOURADA HD
 https://p2z.me:443/live/285587127/411739596/5955987.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT JANDEIRO CEARA FHD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT JANDEIRO CEARA FHD
 https://p2z.me:443/live/285587127/411739596/5955988.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT MT HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT MT HD
-https://p2z.me:443/live/285587127/411739596/6009762.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT NACIONAL" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT NACIONAL
-https://p2z.me:443/live/285587127/411739596/6009763.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PARANA" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT PARANA
-https://p2z.me:443/live/285587127/411739596/6009764.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PARANA FHD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT PARANA FHD
-https://p2z.me:443/live/285587127/411739596/6009765.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PARANA HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT PARANA HD
 https://p2z.me:443/live/285587127/411739596/5955989.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PARANA HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT PARANA HD
-https://p2z.me:443/live/285587127/411739596/6009766.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PI FHD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT PI FHD
 https://p2z.me:443/live/285587127/411739596/5955990.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PI FHD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT PI FHD
-https://p2z.me:443/live/285587127/411739596/6009767.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT PI HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT PI HD
 https://p2z.me:443/live/285587127/411739596/5955991.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT REDE MASSA HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT REDE MASSA HD
 https://p2z.me:443/live/285587127/411739596/5955992.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ FHD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RJ FHD
 https://p2z.me:443/live/285587127/411739596/5955993.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ FHD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT RJ FHD
-https://p2z.me:443/live/285587127/411739596/6009768.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ FHD²" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RJ FHD²
 https://p2z.me:443/live/285587127/411739596/5955994.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RJ HD
 https://p2z.me:443/live/285587127/411739596/5955995.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT RJ HD
-https://p2z.me:443/live/285587127/411739596/6009769.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RJ SD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RJ SD
 https://p2z.me:443/live/285587127/411739596/5955996.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RN FHD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RN FHD
 https://p2z.me:443/live/285587127/411739596/5955997.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RS" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT RS
-https://p2z.me:443/live/285587127/411739596/6009770.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT RS HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT RS HD
 https://p2z.me:443/live/285587127/411739596/5955998.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SC HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT SC HD
 https://p2z.me:443/live/285587127/411739596/5955999.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SD²" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT SD²
-https://p2z.me:443/live/285587127/411739596/6009771.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP FHD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT SP FHD
 https://p2z.me:443/live/285587127/411739596/5956000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP FHD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT SP FHD
-https://p2z.me:443/live/285587127/411739596/6009772.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT SP HD
 https://p2z.me:443/live/285587127/411739596/5956001.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",SBT SP HD
 https://p2z.me:443/live/285587127/411739596/5956002.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP HD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT SP HD
-https://p2z.me:443/live/285587127/411739596/6009773.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP HD²" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT SP HD²
-https://p2z.me:443/live/285587127/411739596/6009774.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT SP SD" tvg-logo="https://1.bp.blogspot.com/-YS31-jUiYM0/XuZtQl56F-I/AAAAAAAAGSY/O2A1FJO9GIMaygR2CofFftwLzU6Gl98hgCLcBGAsYHQ/s1600/sbt.png" group-title="Brazil",SBT SP SD
-https://p2z.me:443/live/285587127/411739596/6009775.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV JORNAL PE HD" tvg-logo="http://142.54.170.178:80/images/40d1f010512580c37c34290bbebe7734.png" group-title="Brazil",TV JORNAL PE HD
 https://p2z.me:443/live/285587127/411739596/5956003.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SBT BA HD²" tvg-logo="http://www.fontedoscanais.com/logos/canais/sbt.png" group-title="Brazil",SBT BA HD²
@@ -23428,8 +23364,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="Red Bull TV (1080p)" tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTASport.af" tvg-name="RTA Sport (720p)" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Sports",RTA Sport (720p)
-https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RTASport.af" tvg-name="RTA Sport (1080p)" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Sports",RTA Sport (1080p)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport (720p)" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Sports",San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1 tvg-id="SEOTV5Deportes.bo" tvg-name="SEO TV 5 Deportes (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/N56B7si.png" group-title="Sports",SEO TV 5 Deportes (1080p) [Not 24/7]
