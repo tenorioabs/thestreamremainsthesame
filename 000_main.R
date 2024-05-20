@@ -33,33 +33,21 @@ for (i in 1:length(opcoes)) {
   try(file.remove("canais_encontrados_modificados.m3u8"), silent = T)
 }
 
+source("C:/Users/tenor/OneDrive/ciencia_de_dados/R/iptv/thestreamremainsthesame/011_seta_credencias_s3.R")
+
+# Chama a função para verificar se pasta existe ou criar a pasta no S3
+create_s3_folder(bucket = "pira", folder_name = "iptv", region_name = "eu-north-1")
+# Sobe arquivos no S3
+aws.s3::put_object(file = "reduced.m3u8", object = "reduced.m3u8", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1")
+aws.s3::put_object(file = "full.m3u8", object = "full.m3u8", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1")
+aws.s3::put_object(file = "reduced.xml.gz", object = "reduced.xml.gz", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1", multipart = T)
+
 info_so <- Sys.info()
 
 dia_hora <- Sys.time()
 dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
 dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
 dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
-
-# sobe arquivos no github
-if (info_so['sysname'] == 'Windows') {
-  github_windows(paste0("atualizacao_", dia_hora))
-} else if (info_so['sysname'] == 'Linux') {
-  github_linux(paste0("atualizacao_", dia_hora))
-}
-
-try(file.remove("reduced.m3u8"), silent = T)
-try(file.remove("reduced.xml.gz"), silent = T)
-try(file.remove("full.m3u8"), silent = T)
-
-# Defina os caminhos
-zip_exe <- shQuote("C:/Program Files/7-Zip/7z.exe")
-output_zip <- shQuote("C:/Users/tenor/OneDrive/Documentos/GitHub/thestreamremainsthesame/thestreamremainsthesame")
-input_files <- shQuote("C:/Users/tenor/OneDrive/Documentos/GitHub/thestreamremainsthesame/thestreamremainsthesame/*")
-password <- "-pabs1572718"
-command <- paste(zip_exe, "a -tzip", password, output_zip, input_files)
-
-# Execute o comando
-system(command)
 
 # sobe arquivos no github
 if (info_so['sysname'] == 'Windows') {

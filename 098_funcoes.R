@@ -180,3 +180,24 @@ processar_conteudo <- function(conteudo) {
   
   return(conteudo_processado)
 }
+
+# Função para verificar se a pasta existe
+folder_exists <- function(bucket, folder_name, region_name) {
+  objects <- get_bucket(bucket = bucket, prefix = paste0(folder_name, "/"), region = region_name)
+  return(length(objects) > 0)
+}
+
+# Função para criar a pasta
+create_s3_folder <- function(bucket, folder_name, region_name = "eu-north-1") {
+  if (!folder_exists(bucket, folder_name, region_name)) {
+    aws.s3::put_object(
+      object = paste0(folder_name, "/"), # Nome do objeto termina com "/"
+      bucket = bucket,
+      body = "",
+      region = region_name
+    )
+    message("Pasta criada: ", folder_name)
+  } else {
+    message("Pasta já existe: ", folder_name)
+  }
+}
