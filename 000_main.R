@@ -55,3 +55,4 @@ if (info_so['sysname'] == 'Windows') {
 } else if (info_so['sysname'] == 'Linux') {
   github_linux(paste0("atualizacao_", dia_hora))
 }
+
