@@ -35,13 +35,6 @@ for (i in 1:length(opcoes)) {
 
 source("C:/Users/tenor/OneDrive/ciencia_de_dados/R/iptv/thestreamremainsthesame/011_seta_credencias_s3.R")
 
-# Chama a função para verificar se pasta existe ou criar a pasta no S3
-create_s3_folder(bucket = "pira", folder_name = "iptv", region_name = "eu-north-1")
-# Sobe arquivos no S3
-aws.s3::put_object(file = "reduced.m3u8", object = "reduced.m3u8", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1")
-aws.s3::put_object(file = "full.m3u8", object = "full.m3u8", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1")
-aws.s3::put_object(file = "reduced.xml.gz", object = "reduced.xml.gz", bucket = "pira/iptv", show_progress = TRUE, region = "eu-north-1", multipart = T)
-
 info_so <- Sys.info()
 
 dia_hora <- Sys.time()
