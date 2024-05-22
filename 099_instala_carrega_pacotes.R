@@ -1,6 +1,7 @@
+# Defina o diretório de pacotes
+.libPaths("pacotes")
 
-# Instalação e Carregamento de Todos os Pacotes ---------------------------
-
+# Lista de pacotes necessários
 pacotes <- c("archive",
              "dplyr",
              "httr",
@@ -11,16 +12,15 @@ pacotes <- c("archive",
              "readxl",
              "future",
              "future.apply",
-             "progressr",
-             "xml2",
-             "R.utils")
+             "progressr")
 
-if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
-  instalador <- pacotes[!pacotes %in% installed.packages()]
+# Instalação e Carregamento de Todos os Pacotes
+if(sum(as.numeric(!pacotes %in% installed.packages(lib.loc = "pacotes"))) != 0){
+  instalador <- pacotes[!pacotes %in% installed.packages(lib.loc = "pacotes")]
   for(i in 1:length(instalador)) {
-    install.packages(instalador, dependencies = T)
-    break()}
-  sapply(pacotes, require, character = T) 
+    install.packages(instalador, lib = "pacotes", dependencies = TRUE)
+  }
+  sapply(pacotes, require, character.only = TRUE, lib.loc = "pacotes")
 } else {
-  sapply(pacotes, require, character = T) 
+  sapply(pacotes, require, character.only = TRUE, lib.loc = "pacotes")
 }
