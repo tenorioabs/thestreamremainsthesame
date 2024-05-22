@@ -1,5 +1,5 @@
 # Defina o diretório de pacotes
-.libPaths("pacotes")
+#
 
 # Lista de pacotes necessários
 pacotes <- c("archive",
