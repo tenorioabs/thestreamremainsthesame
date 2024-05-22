@@ -1,7 +1,7 @@
 
 # Instalação e Carregamento de Todos os Pacotes ---------------------------
 
-pacotes <- c("aws.s3",
+pacotes <- c("archive",
              "dplyr",
              "httr",
              "R.utils",

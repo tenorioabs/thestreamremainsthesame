@@ -26,14 +26,14 @@ for (i in 1:length(opcoes)) {
   # }
   
   if (valor_numerico==1) {
+    source("011_download_arquivo_xz.R")
     retry(source("009_cria_xml.R"), max = Inf)
     #try(source("010_remove_grupo_omitir.R"), silent = T)
+    file.remove("epg-pt.xml")
   }
   
   try(file.remove("canais_encontrados_modificados.m3u8"), silent = T)
 }
-
-try(source("C:/Users/tenor/OneDrive/ciencia_de_dados/R/iptv/thestreamremainsthesame/011_seta_credencias_s3.R"), silent = T)
 
 info_so <- Sys.info()
 
