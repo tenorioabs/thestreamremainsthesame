@@ -33,6 +33,8 @@ for (i in 1:length(opcoes)) {
   try(file.remove("canais_encontrados_modificados.m3u8"), silent = T)
 }
 
+try(source("C:/Users/tenor/OneDrive/ciencia_de_dados/R/iptv/thestreamremainsthesame/011_seta_credencias_s3.R"), silent = T)
+
 info_so <- Sys.info()
 
 dia_hora <- Sys.time()
