@@ -11,10 +11,10 @@ for (i in 1:length(opcoes)) {
   source("001_download_concatenacao_urls.R")
   tabula_group_title(nome_coluna)
   source("002_cria_music_salva_arquivo.R")
-  source("003_insere_canais_manualmente_concatena_resultados_buscados.R")
+  # source("003_insere_canais_manualmente_concatena_resultados_buscados.R")
   source("004_cria_index_epg_no_m3u8.R")
   source("005_cria_grupos.R")
-  #source("006_double_check_canais.R")
+  # source("006_double_check_canais.R")
   source("007_atribui_logo_remove_repetidos.R")
   source("010_remove_grupo_omitir.R")
   
@@ -28,24 +28,24 @@ for (i in 1:length(opcoes)) {
   if (valor_numerico==1) {
     source("011_download_arquivo_xz.R")
     retry(source("009_cria_xml.R"), max = Inf)
-    #try(source("010_remove_grupo_omitir.R"), silent = T)
+    try(source("010_remove_grupo_omitir.R"), silent = T)
     file.remove("epg-pt.xml")
   }
   
   try(file.remove("canais_encontrados_modificados.m3u8"), silent = T)
 }
 
-info_so <- Sys.info()
+ # info_so <- Sys.info()
 
-dia_hora <- Sys.time()
-dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
-dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
+ # dia_hora <- Sys.time()
+ # dia_hora <- str_replace_all(string = dia_hora, pattern = "-", replacement = "")
+ # dia_hora <- str_replace_all(string = dia_hora, pattern = ":", replacement = "")
+ # dia_hora <- str_replace_all(string = dia_hora, pattern = " ", replacement = "")
 
-# sobe arquivos no github
-if (info_so['sysname'] == 'Windows') {
-  github_windows(paste0("atualizacao_", dia_hora))
-} else if (info_so['sysname'] == 'Linux') {
-  github_linux(paste0("atualizacao_", dia_hora))
-}
+ # # sobe arquivos no github
+ # if (info_so['sysname'] == 'Windows') {
+ #   github_windows(paste0("atualizacao_", dia_hora))
+ # } else if (info_so['sysname'] == 'Linux') {
+ #   github_linux(paste0("atualizacao_", dia_hora))
+ # }
 
