@@ -1,8 +1,7 @@
-# Defina o diretório de pacotes
-#
 
-# Lista de pacotes necessários
-pacotes <- c("archive",
+# Instalação e Carregamento de Todos os Pacotes ---------------------------
+
+pacotes <- c("aws.s3",
              "dplyr",
              "httr",
              "R.utils",
@@ -12,15 +11,16 @@ pacotes <- c("archive",
              "readxl",
              "future",
              "future.apply",
-             "progressr")
+             "progressr",
+             "xml2",
+             "R.utils")
 
-# Instalação e Carregamento de Todos os Pacotes
-if(sum(as.numeric(!pacotes %in% installed.packages(lib.loc = "pacotes"))) != 0){
-  instalador <- pacotes[!pacotes %in% installed.packages(lib.loc = "pacotes")]
+if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
+  instalador <- pacotes[!pacotes %in% installed.packages()]
   for(i in 1:length(instalador)) {
-    install.packages(instalador, lib = "pacotes", dependencies = TRUE)
-  }
-  sapply(pacotes, require, character.only = TRUE, lib.loc = "pacotes")
+    install.packages(instalador, dependencies = T)
+    break()}
+  sapply(pacotes, require, character = T) 
 } else {
-  sapply(pacotes, require, character.only = TRUE, lib.loc = "pacotes")
+  sapply(pacotes, require, character = T) 
 }
