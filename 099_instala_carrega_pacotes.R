@@ -1,19 +1,14 @@
 
 # Instalação e Carregamento de Todos os Pacotes ---------------------------
 
-pacotes <- c("aws.s3",
+pacotes <- c("archive",
              "dplyr",
              "httr",
              "R.utils",
              "stringr",
              "writexl",
-             "xml2",
              "readxl",
-             "future",
-             "future.apply",
-             "progressr",
-             "xml2",
-             "R.utils")
+             "xml2")
 
 if(sum(as.numeric(!pacotes %in% installed.packages())) != 0){
   instalador <- pacotes[!pacotes %in% installed.packages()]
