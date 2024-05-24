@@ -412,12 +412,6 @@ https://r.mjh.nz/PlutoTV/62556bfa3261a300076b0baa-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a8054907e03a0008926323-alt.m3u8
 #EXTINF:-1 channel-id="pluto-66166989635c7500084105a2" tvg-id="66166989635c7500084105a2" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" tvg-chno="2" group-title="Canada" , Bondi Rescue
 https://r.mjh.nz/PlutoTV/66166989635c7500084105a2-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62b976b93279cb000772c6f9" tvg-id="62b976b93279cb000772c6f9" tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png" tvg-chno="3" group-title="Canada" , Bloomberg Television
-https://r.mjh.nz/PlutoTV/62b976b93279cb000772c6f9-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65cf8b9328730900087c5324" tvg-id="65cf8b9328730900087c5324" tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" tvg-chno="4" group-title="Canada" , Are We There Yet?
-https://r.mjh.nz/PlutoTV/65cf8b9328730900087c5324-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65cf8ace332fec00081e7ea2" tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="5" group-title="Canada" , Ghost Hunters
-https://r.mjh.nz/PlutoTV/65cf8ace332fec00081e7ea2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e9224f41d5e100076db2b6" tvg-id="62e9224f41d5e100076db2b6" tvg-logo="https://images.pluto.tv/channels/62e9224f41d5e100076db2b6/colorLogoPNG.png" tvg-chno="100" group-title="Canada" , CSI
 https://r.mjh.nz/PlutoTV/62e9224f41d5e100076db2b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63f4e0e63fde020007835cbe" tvg-id="63f4e0e63fde020007835cbe" tvg-logo="https://images.pluto.tv/channels/63f4e0e63fde020007835cbe/colorLogoPNG.png" tvg-chno="101" group-title="Canada" , CSI: Miami
@@ -506,6 +500,8 @@ https://r.mjh.nz/PlutoTV/643ea768e0789d0008548886-alt.m3u8
 https://r.mjh.nz/PlutoTV/62bdad934d73d50007a82472-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63934c218ef524000757b122" tvg-id="63934c218ef524000757b122" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" tvg-chno="222" group-title="Canada" , HauntTV
 https://r.mjh.nz/PlutoTV/63934c218ef524000757b122-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65cf8ace332fec00081e7ea2" tvg-id="65cf8ace332fec00081e7ea2" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" tvg-chno="222" group-title="Canada" , Ghost Hunters
+https://r.mjh.nz/PlutoTV/65cf8ace332fec00081e7ea2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e92a58f3e4290007290c96" tvg-id="62e92a58f3e4290007290c96" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" tvg-chno="223" group-title="Canada" , Pluto TV Paranormal
 https://r.mjh.nz/PlutoTV/62e92a58f3e4290007290c96-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64f8a408bd341e000818fcda" tvg-id="64f8a408bd341e000818fcda" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-chno="240" group-title="Canada" , Comedy Central
@@ -538,21 +534,23 @@ https://r.mjh.nz/PlutoTV/64b52e907d9341000802f886-alt.m3u8
 https://r.mjh.nz/PlutoTV/62f4f414c2ba130007f8b24e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62e92178946c8000079a3160" tvg-id="62e92178946c8000079a3160" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" tvg-chno="264" group-title="Canada" , Pluto TV Comedy
 https://r.mjh.nz/PlutoTV/62e92178946c8000079a3160-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64b52ec24ea4800008370651" tvg-id="64b52ec24ea4800008370651" tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png" tvg-chno="265" group-title="Canada" , Who's the Boss
+#EXTINF:-1 channel-id="pluto-65cf8b9328730900087c5324" tvg-id="65cf8b9328730900087c5324" tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" tvg-chno="265" group-title="Canada" , Are We There Yet?
+https://r.mjh.nz/PlutoTV/65cf8b9328730900087c5324-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64b52ec24ea4800008370651" tvg-id="64b52ec24ea4800008370651" tvg-logo="https://images.pluto.tv/channels/64b52ec24ea4800008370651/colorLogoPNG.png" tvg-chno="266" group-title="Canada" , Who's the Boss
 https://r.mjh.nz/PlutoTV/64b52ec24ea4800008370651-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64b52df0bc3ab40008488f5c" tvg-id="64b52df0bc3ab40008488f5c" tvg-logo="https://images.pluto.tv/channels/64b52df0bc3ab40008488f5c/colorLogoPNG.png" tvg-chno="266" group-title="Canada" , The Facts of Life
+#EXTINF:-1 channel-id="pluto-64b52df0bc3ab40008488f5c" tvg-id="64b52df0bc3ab40008488f5c" tvg-logo="https://images.pluto.tv/channels/64b52df0bc3ab40008488f5c/colorLogoPNG.png" tvg-chno="267" group-title="Canada" , The Facts of Life
 https://r.mjh.nz/PlutoTV/64b52df0bc3ab40008488f5c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e920403bd6940007fb68b8" tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" tvg-chno="267" group-title="Canada" , Family Ties
+#EXTINF:-1 channel-id="pluto-62e920403bd6940007fb68b8" tvg-id="62e920403bd6940007fb68b8" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" tvg-chno="268" group-title="Canada" , Family Ties
 https://r.mjh.nz/PlutoTV/62e920403bd6940007fb68b8-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63565a6de3d057000783bb1c" tvg-id="63565a6de3d057000783bb1c" tvg-logo="https://images.pluto.tv/channels/63565a6de3d057000783bb1c/colorLogoPNG.png" tvg-chno="268" group-title="Canada" , The Red Green Channel
+#EXTINF:-1 channel-id="pluto-63565a6de3d057000783bb1c" tvg-id="63565a6de3d057000783bb1c" tvg-logo="https://images.pluto.tv/channels/63565a6de3d057000783bb1c/colorLogoPNG.png" tvg-chno="269" group-title="Canada" , The Red Green Channel
 https://r.mjh.nz/PlutoTV/63565a6de3d057000783bb1c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e922f6675f71000736db3b" tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" tvg-chno="269" group-title="Canada" , Doc Martin
+#EXTINF:-1 channel-id="pluto-62e922f6675f71000736db3b" tvg-id="62e922f6675f71000736db3b" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" tvg-chno="270" group-title="Canada" , Doc Martin
 https://r.mjh.nz/PlutoTV/62e922f6675f71000736db3b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e91ea20d06110008396079" tvg-id="62e91ea20d06110008396079" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" tvg-chno="270" group-title="Canada" , Always Funny Videos
+#EXTINF:-1 channel-id="pluto-62e91ea20d06110008396079" tvg-id="62e91ea20d06110008396079" tvg-logo="https://images.pluto.tv/channels/62e91ea20d06110008396079/colorLogoPNG.png" tvg-chno="271" group-title="Canada" , Always Funny Videos
 https://r.mjh.nz/PlutoTV/62e91ea20d06110008396079-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62bdb5500c21270007218ce1" tvg-id="62bdb5500c21270007218ce1" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" tvg-chno="271" group-title="Canada" , FailArmy
+#EXTINF:-1 channel-id="pluto-62bdb5500c21270007218ce1" tvg-id="62bdb5500c21270007218ce1" tvg-logo="https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png" tvg-chno="272" group-title="Canada" , FailArmy
 https://r.mjh.nz/PlutoTV/62bdb5500c21270007218ce1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6479c171536e0c0008942590" tvg-id="6479c171536e0c0008942590" tvg-logo="https://images.pluto.tv/channels/6479c171536e0c0008942590/colorLogoPNG.png" tvg-chno="272" group-title="Canada" , Pluto TV Truly Canadian
+#EXTINF:-1 channel-id="pluto-6479c171536e0c0008942590" tvg-id="6479c171536e0c0008942590" tvg-logo="https://images.pluto.tv/channels/6479c171536e0c0008942590/colorLogoPNG.png" tvg-chno="273" group-title="Canada" , Pluto TV Truly Canadian
 https://r.mjh.nz/PlutoTV/6479c171536e0c0008942590-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63565bdbb0d80d00078d3450" tvg-id="63565bdbb0d80d00078d3450" tvg-logo="https://images.pluto.tv/channels/63565bdbb0d80d00078d3450/colorLogoPNG.png" tvg-chno="300" group-title="Canada" , Beverly Hills 90210
 https://r.mjh.nz/PlutoTV/63565bdbb0d80d00078d3450-alt.m3u8
@@ -686,6 +684,8 @@ https://r.mjh.nz/PlutoTV/62cbef9ebb857100072fc187-alt.m3u8
 https://r.mjh.nz/PlutoTV/63da370e2e477400081cf8b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6350fdd266e9ea0007bedec5" tvg-id="6350fdd266e9ea0007bedec5" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png" tvg-chno="605" group-title="Canada" , CBS News 24/7
 https://r.mjh.nz/PlutoTV/6350fdd266e9ea0007bedec5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-62b976b93279cb000772c6f9" tvg-id="62b976b93279cb000772c6f9" tvg-logo="https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png" tvg-chno="606" group-title="Canada" , Bloomberg Television
+https://r.mjh.nz/PlutoTV/62b976b93279cb000772c6f9-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62cc00b3b821cf00070f82c3" tvg-id="62cc00b3b821cf00070f82c3" tvg-logo="https://images.pluto.tv/channels/62cc00b3b821cf00070f82c3/colorLogoPNG.png" tvg-chno="615" group-title="Canada" , Global News Toronto
 https://r.mjh.nz/PlutoTV/62cc00b3b821cf00070f82c3-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62cbfbd6ad95670007f567af" tvg-id="62cbfbd6ad95670007f567af" tvg-logo="https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png" tvg-chno="620" group-title="Canada" , Global News Montreal
@@ -2436,8 +2436,6 @@ http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="FightNight.za" tvg-logo="https://i.imgur.com/hFmxfzT.png" group-title="Sports",Fight Night (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/fightnight/playlist.m3u8
-#EXTINF:-1 tvg-id="FightSports.us" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports",FIGHT SPORTS (1080p)
-https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-id="FITE247.us" tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="Sports",FITE 24/7 (720p)
@@ -2896,8 +2894,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaSonnati.fr" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="Music",Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sports (720p)
-https://af.ayas.ir/hls2/persiana.m3u8
+#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sport
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
 #EXTINF:-1 tvg-id="PinkFolk1.rs" tvg-logo="https://i.imgur.com/QWDBYcG.png" group-title="Music",Pink Folk 1 (576p)
 http://109.105.201.198/PINKFOLK/playlist.m3u8
 #EXTINF:-1 tvg-id="PinkKoncert.rs" tvg-logo="https://i.imgur.com/mljzdZw.png" group-title="Music",Pink Koncert (576p)
@@ -3201,6 +3199,8 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SONGTVArmenia.am" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Armenia (720p)
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVRussia.ru" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Russia (720p)
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports" user-agent="stream",Sony Six HD (1080p)
 #EXTVLCOPT:http-user-agent=stream
 http://103.81.104.118/hls/stream10.m3u8
@@ -3454,19 +3454,19 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/i
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/rFKcGqwx/TVRI-Sport-2022.png" group-title="Sports",TVRI Sport (720p)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" group-title="Sports",TVS Boxing (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/auR0Mi6.png" group-title="Sports",TVS Classic Sports (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+https://bozztv.com/gusa/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSMusicNetwork.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Music",TVS Music Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/Lwwq62E.png" group-title="Sports",TVS Sports (720p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+https://bozztv.com/gusa/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Sports",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/7zYIbU1.png" group-title="Sports",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/8hC4PfF.png" group-title="Sports",TVS Women Sports (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+https://bozztv.com/gusa/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Music",TVUNO (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TZiK.fr" tvg-logo="https://i.imgur.com/TAagRkn.png" group-title="Music",TZiK [Not 24/7]
