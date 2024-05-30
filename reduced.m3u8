@@ -1623,8 +1623,6 @@ https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
 #EXTINF:-1 channel-id="samsung-USBD1200020Y4" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20240520T220122SQUARE.png" tvg-chno="2491" group-title="United States" , Outdoor America
 https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
-#EXTINF:-1 channel-id="samsung-US600011Q2" tvg-id="US600011Q2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20240528T020937SQUARE.png" tvg-chno="2510" group-title="United States" , Formula 1 Channel
-https://i.mjh.nz/SamsungTVPlus/US600011Q2.m3u8
 #EXTINF:-1 channel-id="samsung-USBC2400027NG" tvg-id="USBC2400027NG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20240528T020745SQUARE.png" tvg-chno="2515" group-title="United States" , Top Gear
 https://i.mjh.nz/SamsungTVPlus/USBC2400027NG.m3u8
 #EXTINF:-1 channel-id="samsung-USBB5200027Z5" tvg-id="USBB5200027Z5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20240528T020713SQUARE.png" tvg-chno="2520" group-title="United States" , Torque
