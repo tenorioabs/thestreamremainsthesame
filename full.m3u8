@@ -870,6 +870,8 @@ https://r.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8
 https://r.mjh.nz/PlutoTV/5fa991b1f09e020007e78626-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f171f032cd22e0007f17f3d" tvg-id="5f171f032cd22e0007f17f3d" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" tvg-chno="90" group-title="Brazil" , Pluto TV Cine Família
 https://r.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6474ab5cdc7a760008745008" tvg-id="6474ab5cdc7a760008745008" tvg-logo="https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png" tvg-chno="102" group-title="Brazil" , Pluto TV Séries Criminais
+https://r.mjh.nz/PlutoTV/6474ab5cdc7a760008745008-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb9c5351f5d000085e8d7e" tvg-id="63eb9c5351f5d000085e8d7e" tvg-logo="https://images.pluto.tv/channels/63eb9c5351f5d000085e8d7e/colorLogoPNG.png" tvg-chno="104" group-title="Brazil" , CSI: Miami
 https://r.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb9fdda995710008991c54" tvg-id="63eb9fdda995710008991c54" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" tvg-chno="108" group-title="Brazil" , NCIS
@@ -884,6 +886,10 @@ https://r.mjh.nz/PlutoTV/64ff2c773efb5100082efb73-alt.m3u8
 https://r.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f121262a189a800076b9386" tvg-id="5f121262a189a800076b9386" tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" tvg-chno="140" group-title="Brazil" , Pluto TV Séries
 https://r.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65f060d84e01740008d7421f" tvg-id="65f060d84e01740008d7421f" tvg-logo="https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png" tvg-chno="141" group-title="Brazil" , Pluto TV Séries Drama
+https://r.mjh.nz/PlutoTV/65f060d84e01740008d7421f-alt.m3u8
+#EXTINF:-1 channel-id="pluto-655e5bc94261ca000810cb17" tvg-id="655e5bc94261ca000810cb17" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/colorLogoPNG.png" tvg-chno="150" group-title="Brazil" , Pluto TV Séries Comédia
+https://r.mjh.nz/PlutoTV/655e5bc94261ca000810cb17-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ff768b6a4c8b80008498610" tvg-id="5ff768b6a4c8b80008498610" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" tvg-chno="168" group-title="Brazil" , BET Pluto TV
 https://r.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60a8126a0ac3970007f850fe" tvg-id="60a8126a0ac3970007f850fe" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" tvg-chno="171" group-title="Brazil" , BET Being Mary Jane
@@ -928,6 +934,8 @@ https://r.mjh.nz/PlutoTV/6474aa984cfc2c0008883a92-alt.m3u8
 https://r.mjh.nz/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6014761dfb91870008ea6463" tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" tvg-chno="500" group-title="Brazil" , Pluto TV Turbo
 https://r.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6474aadc8e3c0a0008b98493" tvg-id="6474aadc8e3c0a0008b98493" tvg-logo="https://images.pluto.tv/channels/6474aadc8e3c0a0008b98493/colorLogoPNG.png" tvg-chno="508" group-title="Brazil" , Pluto TV Curiosidade
+https://r.mjh.nz/PlutoTV/6474aadc8e3c0a0008b98493-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f32d4d9ec194100070c7449" tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG.png" tvg-chno="515" group-title="Brazil" , Pluto TV Vida Real
 https://r.mjh.nz/PlutoTV/5f32d4d9ec194100070c7449-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64ad7394798def00087b2bfe" tvg-id="64ad7394798def00087b2bfe" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" tvg-chno="524" group-title="Brazil" , Pluto TV Negócio Fechado
@@ -982,6 +990,8 @@ https://r.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a6818c7bdc8d0008457b21-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6144d088516ea8000739076a" tvg-id="6144d088516ea8000739076a" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" tvg-chno="845" group-title="Brazil" , FUEL TV
 https://r.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-655e599a2186d30013362909" tvg-id="655e599a2186d30013362909" tvg-logo="https://images.pluto.tv/channels/655e599a2186d30013362909/colorLogoPNG.png" tvg-chno="847" group-title="Brazil" , Woohoo Surf
+https://r.mjh.nz/PlutoTV/655e599a2186d30013362909-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64df7ab4dfa32400083c517b" tvg-id="64df7ab4dfa32400083c517b" tvg-logo="https://images.pluto.tv/channels/64df7ab4dfa32400083c517b/colorLogoPNG.png" tvg-chno="860" group-title="Brazil" , DAZN Combat
 https://r.mjh.nz/PlutoTV/64df7ab4dfa32400083c517b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64f6180130ab3300083d896b" tvg-id="64f6180130ab3300083d896b" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" tvg-chno="862" group-title="Brazil" , PFL MMA
@@ -1014,12 +1024,18 @@ https://r.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8
 https://r.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60f8841a4865da0007421177" tvg-id="60f8841a4865da0007421177" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" tvg-chno="1152" group-title="Brazil" , Pluto TV Estilo de Vida
 https://r.mjh.nz/PlutoTV/60f8841a4865da0007421177-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f32d432d612e50007e56133" tvg-id="5f32d432d612e50007e56133" tvg-logo="https://images.pluto.tv/channels/5f32d432d612e50007e56133/colorLogoPNG.png" tvg-chno="1154" group-title="Brazil" , Pluto TV Viagens
+https://r.mjh.nz/PlutoTV/5f32d432d612e50007e56133-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f1ef23020a5ac0007e5e8ea" tvg-id="5f1ef23020a5ac0007e5e8ea" tvg-logo="https://images.pluto.tv/channels/5f1ef23020a5ac0007e5e8ea/colorLogoPNG.png" tvg-chno="1199" group-title="Brazil" , Pluto TV Cozinha
+https://r.mjh.nz/PlutoTV/5f1ef23020a5ac0007e5e8ea-alt.m3u8
 #EXTINF:-1 channel-id="pluto-633ee9ba83c08f00076b60a6" tvg-id="633ee9ba83c08f00076b60a6" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" tvg-chno="1204" group-title="Brazil" , Pluto TV KFOOD
 https://r.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5fd1419a3b4f4b000773ba85" tvg-id="5fd1419a3b4f4b000773ba85" tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png" tvg-chno="1209" group-title="Brazil" , Tastemade
 https://r.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8
 #EXTINF:-1 channel-id="pluto-662156805a31f70013dba21c" tvg-id="662156805a31f70013dba21c" tvg-logo="https://images.pluto.tv/channels/662156805a31f70013dba21c/colorLogoPNG.png" tvg-chno="1215" group-title="Brazil" , DiaTV
 https://r.mjh.nz/PlutoTV/662156805a31f70013dba21c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-66296e755a402e00086a2c47" tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" tvg-chno="1218" group-title="Brazil" , Cultne TV
+https://r.mjh.nz/PlutoTV/66296e755a402e00086a2c47-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f12136385bccc00070142ed" tvg-id="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" tvg-chno="1251" group-title="Brazil" , Pluto TV Anime
 https://r.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604b79c558393100078faeef" tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" tvg-chno="1254" group-title="Brazil" , Pluto TV Anime Ação
@@ -1030,6 +1046,8 @@ https://r.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 https://r.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 #EXTINF:-1 channel-id="pluto-656f389c3944b60008e5bdab" tvg-id="656f389c3944b60008e5bdab" tvg-logo="https://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" tvg-chno="1261" group-title="Brazil" , Boruto: Naruto Next Generations
 https://r.mjh.nz/PlutoTV/656f389c3944b60008e5bdab-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65d9167818036500080e8780" tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" tvg-chno="1263" group-title="Brazil" , Hunter x Hunter
+https://r.mjh.nz/PlutoTV/65d9167818036500080e8780-alt.m3u8
 #EXTINF:-1 channel-id="pluto-625464a945b6a200079257d1" tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" tvg-chno="1264" group-title="Brazil" , Death Note
 https://r.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63988c2750108d00072e2686" tvg-id="63988c2750108d00072e2686" tvg-logo="https://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" tvg-chno="1267" group-title="Brazil" , Super Onze
@@ -2449,8 +2467,6 @@ https://r.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
 https://r.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6047fabfce6e8e00070bcc9f" tvg-id="6047fabfce6e8e00070bcc9f" tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" tvg-chno="1502" group-title="Music" , MTV Biggest Pop
 https://r.mjh.nz/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62b218fc511d4b00070ddc0c" tvg-id="62b218fc511d4b00070ddc0c" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-chno="1507" group-title="Music" , MTV Flow Latino
-https://r.mjh.nz/PlutoTV/62b218fc511d4b00070ddc0c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" tvg-chno="1520" group-title="Music" , Conciertos por Stingray
 https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Music" , Karaoke por Stingray
