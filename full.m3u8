@@ -2857,8 +2857,8 @@ https://i.mjh.nz/radio-ih-6897
 https://i.mjh.nz/radio-ih-6202
 #EXTINF:-1 channel-id="mjh-radio-ih-8832" tvg-id="mjh-radio-ih-8832" tvg-logo="https://i.iheart.com/v3/re/new_assets/63bdd6323f1cbc1c8d6759de" group-title="Music" radio="true" , The Hits
 https://i.mjh.nz/radio-ih-8832
-#EXTINF:-1 channel-id="mjh-radio-rv-easypophits-d87678" tvg-id="mjh-radio-rv-easypophits-d87678" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Easy_Pop_Hits_600x600.png" group-title="Music" radio="true" , Easy Pop Hits
-https://i.mjh.nz/radio-rv-easypophits-d87678
+#EXTINF:-1 channel-id="mjh-radio-rv-easypophits-07dc8e" tvg-id="mjh-radio-rv-easypophits-07dc8e" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_Easy_Pop_Hits_600x600.png" group-title="Music" radio="true" , Easy Pop Hits
+https://i.mjh.nz/radio-rv-easypophits-07dc8e.m3u8
 #EXTINF:-1 channel-id="mjh-radio-rv-roadie247-43b7c4" tvg-id="mjh-radio-rv-roadie247-43b7c4" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RVA_HO_HO_HITS_600x600.png" group-title="Music" radio="true" , Ho Ho Hits
 https://i.mjh.nz/radio-rv-roadie247-43b7c4.m3u8
 #EXTINF:-1 channel-id="mjh-radio-rv-kpop247-fc2778" tvg-id="mjh-radio-rv-kpop247-fc2778" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/ROVA_KPOP_Music_Station_1920x1080.png" group-title="Music" radio="true" , K Pop Mixtape
