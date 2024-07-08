@@ -100,6 +100,8 @@ https://jmp2.uk/PlutoTV/66275e41cee0d900085fde6e-alt.m3u8
 https://jmp2.uk/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6663153bb18d700008379aa1" tvg-id="6663153bb18d700008379aa1" tvg-logo="https://images.pluto.tv/channels/6663153bb18d700008379aa1/colorLogoPNG.png" tvg-chno="18" group-title="Great Britain" , The Challenge
 https://jmp2.uk/PlutoTV/6663153bb18d700008379aa1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63d91d624e83e7000881ca8c" tvg-id="63d91d624e83e7000881ca8c" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" tvg-chno="19" group-title="Great Britain" , Escape To The Country
+https://jmp2.uk/PlutoTV/63d91d624e83e7000881ca8c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64c3791f798def0008ad6b1c" tvg-id="64c3791f798def0008ad6b1c" tvg-logo="https://images.pluto.tv/channels/64c3791f798def0008ad6b1c/colorLogoPNG.png" tvg-chno="50" group-title="Great Britain" , Mob Wives
 https://jmp2.uk/PlutoTV/64c3791f798def0008ad6b1c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65c4960d11ced7000812c433" tvg-id="65c4960d11ced7000812c433" tvg-logo="https://images.pluto.tv/channels/65c4960d11ced7000812c433/colorLogoPNG.png" tvg-chno="51" group-title="Great Britain" , Geordie Shore
@@ -2523,19 +2525,17 @@ https://jmp2.uk/PlutoTV/625e810f0035910007da288b-alt.m3u8
 https://jmp2.uk/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-626180ec537f210007e94b52" tvg-id="626180ec537f210007e94b52" tvg-logo="https://images.pluto.tv/channels/626180ec537f210007e94b52/colorLogoPNG.png" tvg-chno="50" group-title="Music" , VH1+ Summer Vibes
 https://jmp2.uk/PlutoTV/626180ec537f210007e94b52-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63eb587e8795f300088cd35d" tvg-id="63eb587e8795f300088cd35d" tvg-logo="https://images.pluto.tv/channels/63eb587e8795f300088cd35d/colorLogoPNG-1683096167632.png" tvg-chno="800" group-title="Music" , VH1+ Pride
-https://jmp2.uk/PlutoTV/63eb587e8795f300088cd35d-alt.m3u8
-#EXTINF:-1 channel-id="pluto-62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" tvg-chno="805" group-title="Music" , VH1+ Music Legends
+#EXTINF:-1 channel-id="pluto-62e8cc10ca869f00078efca8" tvg-id="62e8cc10ca869f00078efca8" tvg-logo="https://images.pluto.tv/channels/62e8cc10ca869f00078efca8/colorLogoPNG.png" tvg-chno="800" group-title="Music" , VH1+ Music Legends
 https://jmp2.uk/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6552085aab05240008b05f6c" tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" tvg-chno="810" group-title="Music" , VH1+ Back to 90's
+#EXTINF:-1 channel-id="pluto-6552085aab05240008b05f6c" tvg-id="6552085aab05240008b05f6c" tvg-logo="https://images.pluto.tv/channels/6552085aab05240008b05f6c/colorLogoPNG.png" tvg-chno="805" group-title="Music" , VH1+ Back to 90's
 https://jmp2.uk/PlutoTV/6552085aab05240008b05f6c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-636a4173e34fd50007534542" tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" tvg-chno="815" group-title="Music" , VH1+ Rock!
+#EXTINF:-1 channel-id="pluto-636a4173e34fd50007534542" tvg-id="636a4173e34fd50007534542" tvg-logo="https://images.pluto.tv/channels/636a4173e34fd50007534542/colorLogoPNG.png" tvg-chno="810" group-title="Music" , VH1+ Rock!
 https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
-#EXTINF:-1 channel-id="pluto-63724270c7c2360007b170e8" tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" tvg-chno="820" group-title="Music" , VH1+ Canzoni Italiane
+#EXTINF:-1 channel-id="pluto-63724270c7c2360007b170e8" tvg-id="63724270c7c2360007b170e8" tvg-logo="https://images.pluto.tv/channels/63724270c7c2360007b170e8/colorLogoPNG.png" tvg-chno="815" group-title="Music" , VH1+ Canzoni Italiane
 https://jmp2.uk/PlutoTV/63724270c7c2360007b170e8-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" tvg-chno="825" group-title="Music" , VH1+ Dance
+#EXTINF:-1 channel-id="pluto-65e5d9d2ec9fda0008c35f91" tvg-id="65e5d9d2ec9fda0008c35f91" tvg-logo="https://images.pluto.tv/channels/65e5d9d2ec9fda0008c35f91/colorLogoPNG.png" tvg-chno="820" group-title="Music" , VH1+ Dance
 https://jmp2.uk/PlutoTV/65e5d9d2ec9fda0008c35f91-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6278ec6c33d85a00077ad814" tvg-id="6278ec6c33d85a00077ad814" tvg-logo="https://images.pluto.tv/channels/6278ec6c33d85a00077ad814/colorLogoPNG.png" tvg-chno="830" group-title="Music" , Deluxe Lounge HD
+#EXTINF:-1 channel-id="pluto-6278ec6c33d85a00077ad814" tvg-id="6278ec6c33d85a00077ad814" tvg-logo="https://images.pluto.tv/channels/6278ec6c33d85a00077ad814/colorLogoPNG.png" tvg-chno="825" group-title="Music" , Deluxe Lounge HD
 https://jmp2.uk/PlutoTV/6278ec6c33d85a00077ad814-alt.m3u8
 #EXTINF:-1 channel-id="pluto-610a9ebe8c2ac2000734776e" tvg-id="610a9ebe8c2ac2000734776e" tvg-logo="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png" tvg-chno="910" group-title="Music" , Naturescape
 https://jmp2.uk/PlutoTV/610a9ebe8c2ac2000734776e-alt.m3u8
