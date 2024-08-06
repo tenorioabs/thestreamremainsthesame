@@ -120,6 +120,8 @@ https://jmp2.uk/PlutoTV/667195b3efa2a10008bb631e-alt.m3u8
 https://jmp2.uk/PlutoTV/660e5dc60cd4630008f6198a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6490267016014400085c4ab5" tvg-id="6490267016014400085c4ab5" tvg-logo="https://images.pluto.tv/channels/6490267016014400085c4ab5/colorLogoPNG.png" tvg-chno="16" group-title="Great Britain" , TMNT: The 90's Movies
 https://jmp2.uk/PlutoTV/6490267016014400085c4ab5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65c4960d11ced7000812c433" tvg-id="65c4960d11ced7000812c433" tvg-logo="https://images.pluto.tv/channels/65c4960d11ced7000812c433/colorLogoPNG.png" tvg-chno="17" group-title="Great Britain" , Geordie Shore
+https://jmp2.uk/PlutoTV/65c4960d11ced7000812c433-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65031534d545e9000881ed10" tvg-id="65031534d545e9000881ed10" tvg-logo="https://images.pluto.tv/channels/65031534d545e9000881ed10/colorLogoPNG.png" tvg-chno="18" group-title="Great Britain" , British Screen Classics
 https://jmp2.uk/PlutoTV/65031534d545e9000881ed10-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63d91d624e83e7000881ca8c" tvg-id="63d91d624e83e7000881ca8c" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" tvg-chno="19" group-title="Great Britain" , Escape To The Country
@@ -316,8 +318,6 @@ https://jmp2.uk/PlutoTV/60c8807f46b11c0007b800a9-alt.m3u8
 https://jmp2.uk/PlutoTV/647f09e5f77b61000823ff24-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64c3791f798def0008ad6b1c" tvg-id="64c3791f798def0008ad6b1c" tvg-logo="https://images.pluto.tv/channels/64c3791f798def0008ad6b1c/colorLogoPNG.png" tvg-chno="650" group-title="Great Britain" , Mob Wives
 https://jmp2.uk/PlutoTV/64c3791f798def0008ad6b1c-alt.m3u8
-#EXTINF:-1 channel-id="pluto-65c4960d11ced7000812c433" tvg-id="65c4960d11ced7000812c433" tvg-logo="https://images.pluto.tv/channels/65c4960d11ced7000812c433/colorLogoPNG.png" tvg-chno="651" group-title="Great Britain" , Geordie Shore
-https://jmp2.uk/PlutoTV/65c4960d11ced7000812c433-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6663153bb18d700008379aa1" tvg-id="6663153bb18d700008379aa1" tvg-logo="https://images.pluto.tv/channels/6663153bb18d700008379aa1/colorLogoPNG.png" tvg-chno="651" group-title="Great Britain" , The Challenge
 https://jmp2.uk/PlutoTV/6663153bb18d700008379aa1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6602f33e50ca190008ec56ea" tvg-id="6602f33e50ca190008ec56ea" tvg-logo="https://images.pluto.tv/channels/6602f33e50ca190008ec56ea/colorLogoPNG.png" tvg-chno="652" group-title="Great Britain" , Cheaters
@@ -2559,9 +2559,9 @@ https://jmp2.uk/PlutoTV/6047fabfce6e8e00070bcc9f-alt.m3u8
 https://jmp2.uk/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f85cf621d6d2200079f1de0" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" tvg-chno="1525" group-title="Music" , Karaoke por Stingray
 https://jmp2.uk/PlutoTV/5f85cf621d6d2200079f1de0-alt.m3u8
-#EXTINF:-1 channel-id="pluto-625e810f0035910007da288b" tvg-id="625e810f0035910007da288b" tvg-logo="https://images.pluto.tv/channels/625e810f0035910007da288b/colorLogoPNG.png" tvg-chno="33" group-title="Music" , Pluto TV Summer Hits
+#EXTINF:-1 channel-id="pluto-625e810f0035910007da288b" tvg-id="625e810f0035910007da288b" tvg-logo="https://images.pluto.tv/channels/625e810f0035910007da288b/colorLogoPNG.png" tvg-chno="1500" group-title="Music" , Pluto TV Summer Hits
 https://jmp2.uk/PlutoTV/625e810f0035910007da288b-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" tvg-chno="1035" group-title="Music" , Pluto TV Classic Rock
+#EXTINF:-1 channel-id="pluto-6447d08f2858cb0008b9957c" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" tvg-chno="1515" group-title="Music" , Pluto TV Classic Rock
 https://jmp2.uk/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-626180ec537f210007e94b52" tvg-id="626180ec537f210007e94b52" tvg-logo="https://images.pluto.tv/channels/626180ec537f210007e94b52/colorLogoPNG.png" tvg-chno="800" group-title="Music" , VH1+ Summer Vibes
 https://jmp2.uk/PlutoTV/626180ec537f210007e94b52-alt.m3u8
@@ -2903,10 +2903,18 @@ https://jmp2.uk/SamsungTVPlus/USAK3508705A.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD3500027DS.m3u8
 #EXTINF:-1 channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240520T212850SQUARE.png" tvg-chno="4580" group-title="Music" , Stingray Spa
 https://jmp2.uk/SamsungTVPlus/USBD3500013DG.m3u8
+#EXTINF:-1 channel-id="stirr-6427" tvg-id="6427" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922951PXrjljQmJ0-512x512-square.png" tvg-chno="801" group-title="Music" , TRACE UK
+https://jmp2.uk/Stirr/6427.m3u8
+#EXTINF:-1 channel-id="stirr-6426" tvg-id="6426" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722922378ywfWVlIzIn-512x512-square.png" tvg-chno="800" group-title="Music" , TRACE Urban
+https://jmp2.uk/Stirr/6426.m3u8
+#EXTINF:-1 channel-id="stirr-6428" tvg-id="6428" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722923469cnrsK9Xfs6-512x512-square.png" tvg-chno="802" group-title="Music" , TRACE Latina
+https://jmp2.uk/Stirr/6428.m3u8
+#EXTINF:-1 channel-id="stirr-6429" tvg-id="6429" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722924089sUe49s1xXB-512x512-square.png" tvg-chno="803" group-title="Music" , TRACE Brazuca
+https://jmp2.uk/Stirr/6429.m3u8
+#EXTINF:-1 channel-id="stirr-5297" tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png" tvg-chno="819" group-title="Music" , Feva Music
+https://jmp2.uk/Stirr/5297.m3u8
 #EXTINF:-1 channel-id="stirr-5303" tvg-id="5303" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-512x512-square.png" tvg-chno="820" group-title="Music" , Plymouth Rock TV
 https://jmp2.uk/Stirr/5303.m3u8
-#EXTINF:-1 channel-id="stirr-5297" tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png" tvg-chno="800" group-title="Music" , Feva Music
-https://jmp2.uk/Stirr/5297.m3u8
 #EXTINF:-1 channel-id="mjh-10-mtv-biggest-pop" tvg-id="mjh-10-mtv-biggest-pop" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/57fee983dfaa2afa821ae798c49a002b-1266109.png" group-title="Music" , MTV Biggest Pop
 https://i.mjh.nz/10-mtv-biggest-pop.m3u8
 #EXTINF:-1 channel-id="mjh-10-mtv-love" tvg-id="mjh-10-mtv-love" tvg-logo="https://10play.com.au/ip/s3/2023/09/25/68943f881f079398dcdf4681db2fe648-1266107.png" group-title="Music" , MTV Love
