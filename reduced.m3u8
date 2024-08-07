@@ -457,6 +457,8 @@ https://jmp2.uk/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
 https://jmp2.uk/PlutoTV/64c37e710e086a0009e824ab-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6490254fd2c47c00083a5743" tvg-id="6490254fd2c47c00083a5743" tvg-logo="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/colorLogoPNG.png" tvg-chno="910" group-title="Great Britain" , Now 80's
 https://jmp2.uk/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+#EXTINF:-1 channel-id="pluto-668662cb74f5ec0008123403" tvg-id="668662cb74f5ec0008123403" tvg-logo="https://images.pluto.tv/channels/668662cb74f5ec0008123403/colorLogoPNG.png" tvg-chno="1" group-title="Canada" , NFB
+https://jmp2.uk/PlutoTV/668662cb74f5ec0008123403-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6654adb1f99922000854388c" tvg-id="6654adb1f99922000854388c" tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" tvg-chno="50" group-title="Canada" , Summer of Movies
 https://jmp2.uk/PlutoTV/6654adb1f99922000854388c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62ea3d24b8e02600071fa296" tvg-id="62ea3d24b8e02600071fa296" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" tvg-chno="51" group-title="Canada" , Pluto TV Comedy Movies
@@ -1587,8 +1589,6 @@ https://jmp2.uk/SamsungTVPlus/USBB3200030CG.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD700011RE.m3u8
 #EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" tvg-chno="1265" group-title="United States" , MyTime Movie Network
 https://jmp2.uk/SamsungTVPlus/USBC3900018K6.m3u8
-#EXTINF:-1 channel-id="samsung-USBC2100007I2" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20240520T222844SQUARE.png" tvg-chno="1270" group-title="United States" , Chicken Soup for the Soul
-https://jmp2.uk/SamsungTVPlus/USBC2100007I2.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" tvg-chno="1275" group-title="United States" , NEW KMOVIES
 https://jmp2.uk/SamsungTVPlus/USAJ30000122O.m3u8
 #EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" tvg-chno="1285" group-title="United States" , Maverick Black Cinema
@@ -2787,7 +2787,7 @@ https://jmp2.uk/Stirr/6426.m3u8
 https://jmp2.uk/Stirr/6428.m3u8
 #EXTINF:-1 channel-id="stirr-6429" tvg-id="6429" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/08/06/1722924089sUe49s1xXB-512x512-square.png" tvg-chno="803" group-title="Music" , TRACE Brazuca
 https://jmp2.uk/Stirr/6429.m3u8
-#EXTINF:-1 channel-id="stirr-5297" tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png" tvg-chno="819" group-title="Music" , Feva Music
-https://jmp2.uk/Stirr/5297.m3u8
 #EXTINF:-1 channel-id="stirr-5303" tvg-id="5303" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707446072tnQEMOWsB1-512x512-square.png" tvg-chno="820" group-title="Music" , Plymouth Rock TV
 https://jmp2.uk/Stirr/5303.m3u8
+#EXTINF:-1 channel-id="stirr-5297" tvg-id="5297" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/1707441388y5JAA4UyzK-512x512-square.png" tvg-chno="819" group-title="Music" , Feva Music
+https://jmp2.uk/Stirr/5297.m3u8
